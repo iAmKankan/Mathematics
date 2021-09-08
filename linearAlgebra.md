@@ -45,13 +45,8 @@
 
 
 #### Properties of Scalar Multiplication: If A, B are matrices of the same order and λ and μ are any two scalars then
-
-(a.) \lambda \left( A+B \right)=\lambda A+\lambda Bλ(A+B)=λA+λB
-
-(b) \left( \lambda +\mu \right)A=\lambda A+\mu A(λ+μ)A=λA+μA
-
-(c) \lambda \left( \mu A \right)=\left( \lambda \,\mu A \right)=\mu \left( \lambda A \right)λ(μA)=(λμA)=μ(λA)
-
-(d) \left( -\lambda A \right)=-\left( \lambda A \right)=\lambda \left( -A \right)(−λA)=−(λA)=λ(−A)
-
-(e) tr\left( kA \right)=k\,\,tr\,\,\left( A \right)tr(kA)=ktr(A)
+1. <img src="https://latex.codecogs.com/svg.image?\lambda&space;&space;(&space;A&plus;B&space;)=\lambda&space;&space;A&plus;\lambda&space;&space;B\lambda&space;(A&plus;B)=\lambda&space;A&plus;\lambda&space;B" title="\lambda ( A+B )=\lambda A+\lambda B\lambda (A+B)=\lambda A+\lambda B" />
+1. <img src="https://latex.codecogs.com/svg.image?(&space;\lambda&space;&space;&plus;\mu&space;&space;)A=\lambda&space;&space;A&plus;\mu&space;&space;A(\lambda&space;&plus;\mu&space;)A=\lambda&space;A&plus;\mu&space;A" title="( \lambda +\mu )A=\lambda A+\mu A(\lambda +\mu )A=\lambda A+\mu A" />
+1. <img src="https://latex.codecogs.com/svg.image?\lambda&space;&space;(&space;\mu&space;&space;A&space;)=(&space;\lambda&space;&space;\,\mu&space;&space;A&space;)=\mu&space;&space;(&space;\lambda&space;&space;A&space;)\lambda&space;(\mu&space;A)=(\lambda&space;\mu&space;A)=\mu&space;(\lambda&space;A)" title="\lambda ( \mu A )=( \lambda \,\mu A )=\mu ( \lambda A )\lambda (\mu A)=(\lambda \mu A)=\mu (\lambda A)" />
+1. <img src="https://latex.codecogs.com/svg.image?(&space;-&space;\lambda&space;&space;A&space;)=&space;-&space;(\lambda&space;A&space;)&space;=&space;\lambda(-A)" title="( - \lambda A )= - (\lambda A ) = \lambda(-A)" />
+1.  tr ( kA )=k tr(A) 
