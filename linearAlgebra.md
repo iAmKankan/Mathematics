@@ -50,3 +50,21 @@
 1. <img src="https://latex.codecogs.com/svg.image?\lambda&space;&space;(&space;\mu&space;&space;A&space;)=(&space;\lambda&space;&space;\,\mu&space;&space;A&space;)=\mu&space;&space;(&space;\lambda&space;&space;A&space;)\lambda&space;(\mu&space;A)=(\lambda&space;\mu&space;A)=\mu&space;(\lambda&space;A)" title="\lambda ( \mu A )=( \lambda \,\mu A )=\mu ( \lambda A )\lambda (\mu A)=(\lambda \mu A)=\mu (\lambda A)" />
 1. <img src="https://latex.codecogs.com/svg.image?(&space;-&space;\lambda&space;&space;A&space;)=&space;-&space;(\lambda&space;A&space;)&space;=&space;\lambda(-A)" title="( - \lambda A )= - (\lambda A ) = \lambda(-A)" />
 1.  tr ( kA )=k tr(A) 
+
+#### Properties of matrix multiplication
+* For matrix multiplication, the number of columns in the first matrix must be equal to the number of rows in the second matrix.
+*  The resulting matrix, known as the matrix product, has the number of rows of the first and the number of columns of the second matrix. 
+*  The product of matrices A and B is denoted as AB.
+![matrixMul](https://user-images.githubusercontent.com/12748752/132519557-d232aedb-4676-4043-8f07-d87c8e9f87bb.png)
+
+
+* If A is an m × n matrix and B is an n × p matrix,
+
+* <img src="https://latex.codecogs.com/svg.image?{\displaystyle&space;\mathbf&space;{A}&space;={\begin{pmatrix}a_{11}&a_{12}&\cdots&space;&a_{1n}\\a_{21}&a_{22}&\cdots&space;&a_{2n}\\\vdots&space;&\vdots&space;&\ddots&space;&\vdots&space;\\a_{m1}&a_{m2}&\cdots&space;&a_{mn}\\\end{pmatrix}},\quad&space;\mathbf&space;{B}&space;={\begin{pmatrix}b_{11}&b_{12}&\cdots&space;&b_{1p}\\b_{21}&b_{22}&\cdots&space;&b_{2p}\\\vdots&space;&\vdots&space;&\ddots&space;&\vdots&space;\\b_{n1}&b_{n2}&\cdots&space;&b_{np}\\\end{pmatrix}}}" title="{\displaystyle \mathbf {A} ={\begin{pmatrix}a_{11}&a_{12}&\cdots &a_{1n}\\a_{21}&a_{22}&\cdots &a_{2n}\\\vdots &\vdots &\ddots &\vdots \\a_{m1}&a_{m2}&\cdots &a_{mn}\\\end{pmatrix}},\quad \mathbf {B} ={\begin{pmatrix}b_{11}&b_{12}&\cdots &b_{1p}\\b_{21}&b_{22}&\cdots &b_{2p}\\\vdots &\vdots &\ddots &\vdots \\b_{n1}&b_{n2}&\cdots &b_{np}\\\end{pmatrix}}}" />
+
+
+
+* Therefore, AB can also be written as
+
+
+<img src="https://latex.codecogs.com/svg.image?{\displaystyle&space;\mathbf&space;{C}&space;={\begin{pmatrix}a_{11}b_{11}&plus;\cdots&space;&plus;a_{1n}b_{n1}&a_{11}b_{12}&plus;\cdots&space;&plus;a_{1n}b_{n2}&\cdots&space;&a_{11}b_{1p}&plus;\cdots&space;&plus;a_{1n}b_{np}\\a_{21}b_{11}&plus;\cdots&space;&plus;a_{2n}b_{n1}&a_{21}b_{12}&plus;\cdots&space;&plus;a_{2n}b_{n2}&\cdots&space;&a_{21}b_{1p}&plus;\cdots&space;&plus;a_{2n}b_{np}\\\vdots&space;&\vdots&space;&\ddots&space;&\vdots&space;\\a_{m1}b_{11}&plus;\cdots&space;&plus;a_{mn}b_{n1}&a_{m1}b_{12}&plus;\cdots&space;&plus;a_{mn}b_{n2}&\cdots&space;&a_{m1}b_{1p}&plus;\cdots&space;&plus;a_{mn}b_{np}\\\end{pmatrix}}}" title="{\displaystyle \mathbf {C} ={\begin{pmatrix}a_{11}b_{11}+\cdots +a_{1n}b_{n1}&a_{11}b_{12}+\cdots +a_{1n}b_{n2}&\cdots &a_{11}b_{1p}+\cdots +a_{1n}b_{np}\\a_{21}b_{11}+\cdots +a_{2n}b_{n1}&a_{21}b_{12}+\cdots +a_{2n}b_{n2}&\cdots &a_{21}b_{1p}+\cdots +a_{2n}b_{np}\\\vdots &\vdots &\ddots &\vdots \\a_{m1}b_{11}+\cdots +a_{mn}b_{n1}&a_{m1}b_{12}+\cdots +a_{mn}b_{n2}&\cdots &a_{m1}b_{1p}+\cdots +a_{mn}b_{np}\\\end{pmatrix}}}" />
