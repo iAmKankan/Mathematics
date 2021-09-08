@@ -45,3 +45,13 @@
 
 
 #### Properties of Scalar Multiplication: If A, B are matrices of the same order and λ and μ are any two scalars then
+
+*(a) \lambda \left( A+B \right)=\lambda A+\lambda Bλ(A+B)=λA+λB
+
+(b) \left( \lambda +\mu \right)A=\lambda A+\mu A(λ+μ)A=λA+μA
+
+(c) \lambda \left( \mu A \right)=\left( \lambda \,\mu A \right)=\mu \left( \lambda A \right)λ(μA)=(λμA)=μ(λA)
+
+(d) \left( -\lambda A \right)=-\left( \lambda A \right)=\lambda \left( -A \right)(−λA)=−(λA)=λ(−A)
+
+(e) tr\left( kA \right)=k\,\,tr\,\,\left( A \right)tr(kA)=ktr(A)
