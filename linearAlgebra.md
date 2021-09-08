@@ -46,7 +46,7 @@
 
 #### Properties of Scalar Multiplication: If A, B are matrices of the same order and λ and μ are any two scalars then
 
-*(a) \lambda \left( A+B \right)=\lambda A+\lambda Bλ(A+B)=λA+λB
+(a.) \lambda \left( A+B \right)=\lambda A+\lambda Bλ(A+B)=λA+λB
 
 (b) \left( \lambda +\mu \right)A=\lambda A+\mu A(λ+μ)A=λA+μA
 
