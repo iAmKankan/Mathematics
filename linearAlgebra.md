@@ -37,9 +37,11 @@
 
 (d) Additive Inverse: A + (-A) = 0 = (-A) + A, where (-A) is obtained by changing the sign of every element of A which is additive inverse of the matrix,
 
-(e)      
-<img src="https://latex.codecogs.com/svg.image?\left.\begin{matrix}A&plus;B&space;&&space;=&space;&&space;A&plus;C&space;\\B&plus;A&space;&&space;=&space;&&space;C&plus;A&space;\\\end{matrix}\right\}\Rightarrow&space;B=C" title="\left.\begin{matrix}A+B & = & A+C \\B+A & = & C+A \\\end{matrix}\right\}\Rightarrow B=C" />
+(e) <img src="https://latex.codecogs.com/svg.image?\left.\begin{matrix}A&plus;B&space;&&space;=&space;&&space;A&plus;C&space;\\B&plus;A&space;&&space;=&space;&&space;C&plus;A&space;\\\end{matrix}\right\}\Rightarrow&space;B=C" title="\left.\begin{matrix}A+B & = & A+C \\B+A & = & C+A \\\end{matrix}\right\}\Rightarrow B=C" />
 
 (f) <img src="https://latex.codecogs.com/svg.image?tr(A\pm&space;B)=tr(A)\pm&space;tr(B)" title="tr(A\pm B)=tr(A)\pm tr(B)" />
 
 (g) If A + B = 0 = B + A, then B is called additive inverse of A and also A is called the additive inverse of A.
+
+
+#### Properties of Scalar Multiplication: If A, B are matrices of the same order and λ and μ are any two scalars then
