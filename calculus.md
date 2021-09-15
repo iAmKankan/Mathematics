@@ -1,1 +1,1 @@
-
+Calculus is the branch of mathematics that deals with continuous change. Calculus is also called infinitesimal calculus or “the calculus of infinitesimals”. The meaning of classical calculus is the study of continuous change of functions. Most of these quantities are the functions of time such as velocity is equal to change in distance with respect to time. The two major concepts of calculus are: 
