@@ -15,7 +15,6 @@ Calculus is the branch of mathematics that deals with continuous change. Calculu
 
 ### Multivariable Calculus Topics
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-
 #### 1. Differential Calculus	
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * Partial Derivatives
@@ -24,7 +23,6 @@ Calculus is the branch of mathematics that deals with continuous change. Calculu
 - Chain Rule
 - Directional Derivative and the Gradient
 - Applications of Differential Calculus
-
 #### 2. Integral calculus	
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * Double integrals
@@ -40,13 +38,10 @@ Calculus is the branch of mathematics that deals with continuous change. Calculu
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * Vector Field Basics
 - Vector Operators
-
 #### 5. Integration over curves and Surfaces
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * Line Integral
 - Surface Integral
-
-
 #### 6. Fundamental Theorem of Vector Calculus
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * Gradient Theorem for Line Integrals
