@@ -15,34 +15,38 @@ Calculus is the branch of mathematics that deals with continuous change. Calculu
 
 ### Multivariable Calculus Topics
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-#### 1. Differential Calculus	
+
+const md = require('markdown-it')()
+  .use(require('markdown-it-hierarchy'));
+
+  #### 1. Differential Calculus	
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* Partial Derivatives
+>> Partial Derivatives
 - Differentiation
 - Derivatives
 - Chain Rule
 - Directional Derivative and the Gradient
 - Applications of Differential Calculus
-#### 2. Integral calculus	
+ #### 2. Integral calculus	
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * Double integrals
 - Triple Integrals
 - Changing Variables
-#### 3. Curves and surfaces	
+ #### 3. Curves and surfaces	
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * Parametrized Curve
 - Length of the Curve
 - Parameterized Surfaces
 - Surface Area of Parameterized Surfaces
-#### 4. Vector Field
+ #### 4. Vector Field
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * Vector Field Basics
 - Vector Operators
-#### 5. Integration over curves and Surfaces
+ #### 5. Integration over curves and Surfaces
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * Line Integral
 - Surface Integral
-#### 6. Fundamental Theorem of Vector Calculus
+ #### 6. Fundamental Theorem of Vector Calculus
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * Gradient Theorem for Line Integrals
 - Green’s Theorem
