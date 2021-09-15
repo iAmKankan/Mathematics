@@ -34,42 +34,23 @@ const md = require('markdown-it')()
 - Changing Variables
  #### 3. Curves and surfaces	
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* Parametrized Curve
+- Parametrized Curve
 - Length of the Curve
 - Parameterized Surfaces
 - Surface Area of Parameterized Surfaces
  #### 4. Vector Field
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* Vector Field Basics
+- Vector Field Basics
 - Vector Operators
  #### 5. Integration over curves and Surfaces
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* Line Integral
+- Line Integral
 - Surface Integral
  #### 6. Fundamental Theorem of Vector Calculus
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* Gradient Theorem for Line Integrals
+- Gradient Theorem for Line Integrals
 - Green’s Theorem
 - Stokes’ Theorem
 - Divergence Theorem
 
-
-
-const md = require('markdown-it')()
-  .use(require('markdown-it-hierarchy'));
-
-
-
-
-
-#  First header of top level
-## First subheader of first header
-## Second subheader of first header
-## Third subheader of first header
-#  Second header of top level
-#  Third header of top level
-## First subheader of third header
-### First subheader of first subheader of third header
-### Second subheader of first subheader of third header
-### Third subheader of first subheader of third header
 
