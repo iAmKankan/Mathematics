@@ -25,3 +25,34 @@ Calculus is the branch of mathematics that deals with continuous change. Calculu
 - Directional Derivative and the Gradient
 - Applications of Differential Calculus
 
+#### 2. Integral calculus	
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* Double integrals
+- Triple Integrals
+- Changing Variables
+#### 3. Curves and surfaces	
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* Parametrized Curve
+- Length of the Curve
+- Parameterized Surfaces
+- Surface Area of Parameterized Surfaces
+#### 4. Vector Field
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* Vector Field Basics
+- Vector Operators
+
+#### 5. Integration over curves and Surfaces
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* Line Integral
+- Surface Integral
+
+
+#### 6. Fundamental Theorem of Vector Calculus
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* Gradient Theorem for Line Integrals
+- Green’s Theorem
+- Stokes’ Theorem
+- Divergence Theorem
+
+
+
