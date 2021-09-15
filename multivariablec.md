@@ -55,3 +55,21 @@ const md = require('markdown-it')()
 
 
 
+const md = require('markdown-it')()
+  .use(require('markdown-it-hierarchy'));
+
+
+
+
+
+#  First header of top level
+## First subheader of first header
+## Second subheader of first header
+## Third subheader of first header
+#  Second header of top level
+#  Third header of top level
+## First subheader of third header
+### First subheader of first subheader of third header
+### Second subheader of first subheader of third header
+### Third subheader of first subheader of third header
+
