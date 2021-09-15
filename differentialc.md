@@ -6,4 +6,5 @@
 
 * Differential calculus deals with the rate of change of one quantity with respect to another
 ![differential](https://user-images.githubusercontent.com/12748752/133526752-4ce25bad-9221-4f37-a137-e8e2b4940ed4.png)
-* What is Delta X,Delta Y- change in x and change in y to calculate slope.
+> **What is Delta X,Delta Y-** _**Change in X and change in Y to calculate slope.**_
+> 
