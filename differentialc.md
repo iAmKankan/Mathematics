@@ -20,4 +20,4 @@
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
 
-![derivativefunc](https://user-images.githubusercontent.com/12748752/133530529-aa26a41f-ec46-4348-99d2-29f2f6936727.png)
+![derivativefunc](https://user-images.githubusercontent.com/12748752/133530769-5246bdd9-c243-4466-8d9d-3a9a7a9881b4.png)
