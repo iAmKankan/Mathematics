@@ -38,15 +38,3 @@
 * This theorem can be written as an equation relating the lengths of the sides a, b and c, often called the Pythagorean equation.
   > <img src="https://latex.codecogs.com/svg.image?{\displaystyle&space;a^{2}&plus;b^{2}=c^{2}}" title="{\displaystyle a^{2}+b^{2}=c^{2}}" />
 
-
-
-
-
-<img src="https://latex.codecogs.com/svg.image?\cosecant&space;\theta&space;={\frac&space;{hypotenuse}{perpendicular}}={\frac&space;{hypotenuse}{&space;opposite}&space;}" title="\cosecant \theta ={\frac {hypotenuse}{perpendicular}}={\frac {hypotenuse}{ opposite} }" />
-
-
-
-
-
-
-
