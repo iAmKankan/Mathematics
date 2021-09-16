@@ -21,3 +21,9 @@
 
 
 ![derivativefunc](https://user-images.githubusercontent.com/12748752/133530769-5246bdd9-c243-4466-8d9d-3a9a7a9881b4.png)
+
+
+Example. Julia’s sushi and salad buffet costs $10 per pound, but if you get
+exactly one pound, your meal is free. Let y = f(x) represent the price of
+your lunch in dollars as a function of its weight x in pounds.
+Write an equation y = f(x) as a piecewise defined function.
