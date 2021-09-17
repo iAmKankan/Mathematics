@@ -32,9 +32,9 @@
 ![curve](https://user-images.githubusercontent.com/12748752/133707232-b1982112-d383-4662-82ed-9376cf42f0b0.png)
 * **Different slope at every point**
 * The problem is how to make it tangent coz of the curve hypotenuse side is not straight line, To solve this we need to bring X2 near to the point of X1. By that move Y2 and Y1 has came very close that the difference is near 0 same thing is for  X2 and X1  as well.
-* 
+
   > <img src="https://latex.codecogs.com/svg.image?Y2-Y1\to&space;0" title="Y2-Y1\to 0" />
-  > 
+  
   > <img src="https://latex.codecogs.com/svg.image?X2-X1\to&space;0" title="X2-X1\to 0" />
 
 
