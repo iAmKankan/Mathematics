@@ -6,9 +6,8 @@
 |![slope](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Wiki_slope_in_2d.svg/330px-Wiki_slope_in_2d.svg.png)|
 |:-----:|
 |<img src="https://latex.codecogs.com/svg.image?Slope:&space;m&space;=&space;\left&space;(&space;\frac{\Delta&space;y}{\Delta&space;x}&space;\right&space;)=&space;\tan&space;\left&space;(&space;&space;\theta\right&space;)" title="Slope: m = \left ( \frac{\Delta y}{\Delta x} \right )= \tan \left ( \theta\right )" />|
+|![slope2](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tangent_function_animation.gif)|
 
-* hhhhhhhhhh
-![slope2](https://en.wikipedia.org/wiki/File:Tangent_function_animation.gif)
 
 * The concept of a slope is central to differential calculus. 
 * For non-linear functions, the rate of change varies along the curve.
