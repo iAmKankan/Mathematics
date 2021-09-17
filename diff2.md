@@ -41,7 +41,7 @@
 
   > <img src="https://latex.codecogs.com/svg.image?Slope=\mathrm{\tan&space;\theta}=\frac{\mathrm{d}y&space;}{\mathrm{d}&space;x}" title="Slope=\mathrm{\tan \theta}=\frac{\mathrm{d}y }{\mathrm{d} x}" />
 
-> <img src="https://latex.codecogs.com/svg.image?&space;\mathrm{\tan&space;\theta}=\frac{y_2-y_1}{x_2-x_1}=\frac{\mathrm{d}y&space;}{\mathrm{d}&space;x&space;}&space;=&space;&space;&space;\text{Rate&space;of&space;change&space;of&space;y&space;with&space;respect&space;to&space;x&space;}\textbf{Or}&space;\text{&space;Slope&space;of&space;y&space;v/s&space;x}" title=" \mathrm{\tan \theta}=\frac{y_2-y_1}{x_2-x_1}=\frac{\mathrm{d}y }{\mathrm{d} x } = \text{Rate of change of y with respect to x }\textbf{Or} \text{ Slope of y v/s x}" />
+  > <img src="https://latex.codecogs.com/svg.image?&space;\mathrm{\tan&space;\theta}=\frac{y_2-y_1}{x_2-x_1}=\frac{\mathrm{d}y&space;}{\mathrm{d}&space;x&space;}&space;=&space;&space;&space;\text{Rate&space;of&space;change&space;of&space;y&space;with&space;respect&space;to&space;x&space;}\textbf{Or}&space;\text{&space;Slope&space;of&space;y&space;v/s&space;x}" title=" \mathrm{\tan \theta}=\frac{y_2-y_1}{x_2-x_1}=\frac{\mathrm{d}y }{\mathrm{d} x } = \text{Rate of change of y with respect to x }\textbf{Or} \text{ Slope of y v/s x}" />
 
-
+> ![formula1](https://cdn1.byjus.com/wp-content/uploads/2020/09/Differentiation-formulas.png)
 
