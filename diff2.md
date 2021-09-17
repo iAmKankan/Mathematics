@@ -45,3 +45,22 @@
 
 > ![formula1](https://cdn1.byjus.com/wp-content/uploads/2020/09/Differentiation-formulas.png)
 
+| Differentiation Formulas |
+|-----|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathbf{1}=0" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{1}=0" />|
+| <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathbf{x}=1" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{x}=1" />|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathbf{x^2}=\mathrm{2x}" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{x^2}=\mathrm{2x}" />|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathbf{x^n}=\mathrm{nx^{n-1}}" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{x^n}=\mathrm{nx^{n-1}}" />|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathbf{2x}=\mathrm{2&space;*&space;1}&space;" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{2x}=\mathrm{2 * 1} " />|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathbf{(1&plus;x^2)}=\mathrm{0&plus;2x=2x}&space;" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{(1+x^2)}=\mathrm{0+2x=2x} " />|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathbf{(1-x^2)}=\mathrm{0-2x=-2x}&space;" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{(1-x^2)}=\mathrm{0-2x=-2x} " />|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathrm{e^x}=\mathrm{e^x*&space;1=e^x}" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathrm{e^x}=\mathrm{e^x* 1=e^x}" />|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathrm{e^{f(x)}}=\mathrm{e^{f(x)*}}\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}\mathrm{f(x)}" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathrm{e^{f(x)}}=\mathrm{e^{f(x)*}}\frac{\mathrm{d} }{\mathrm{d} x}\mathrm{f(x)}" />|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathrm{\sin&space;x}=\mathrm{\cos&space;x}" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathrm{\sin x}=\mathrm{\cos x}" />|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}\mathrm{\cos&space;x}=&space;\mathrm{-\sin&space;x}" title="\frac{\mathrm{d} }{\mathrm{d} x}\mathrm{\cos x}= \mathrm{-\sin x}" />|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}\mathrm{\tan&space;x}=&space;\mathrm{\sec^2&space;x}" title="\frac{\mathrm{d} }{\mathrm{d} x}\mathrm{\tan x}= \mathrm{\sec^2 x}" />|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}\mathrm{\tan^{-1}&space;x}=&space;\mathrm{\frac{1}{1&plus;x^2}}" title="\frac{\mathrm{d} }{\mathrm{d} x}\mathrm{\tan^{-1} x}= \mathrm{\frac{1}{1+x^2}}" />|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}\mathrm{\sin^{-1}&space;x}=&space;\mathrm{\frac{1}{\sqrt{1&plus;x^2}&space;}}" title="\frac{\mathrm{d} }{\mathrm{d} x}\mathrm{\sin^{-1} x}= \mathrm{\frac{1}{\sqrt{1+x^2} }}" />|
+|<img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathrm{\sin&space;f(x)}=\mathrm{\cos&space;f(x)*}\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}\mathrm{f(x)}" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathrm{\sin f(x)}=\mathrm{\cos f(x)*}\frac{\mathrm{d} }{\mathrm{d} x}\mathrm{f(x)}" />|
+
+ 
