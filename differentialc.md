@@ -4,7 +4,12 @@
 #### Differential calculus 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
-* Differential calculus deals with the rate of change of one quantity with respect to another
+* Differential calculus deals with the rate of change of one quantity with respect to another.
+* The sighn of differentiation is <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;}" title="\frac{\mathrm{d} }{\mathrm{d} }" />.
+* It is always done in respecto a variable or a function.
+* That function / variable is written along side of the denominator _**d**_.
+* And the thing to be differentiate is written alongside of the numerastor _**d**_.
+* Suppose variable x is there and a is the number to be differentiate <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}a&space;}{\mathrm{d}x&space;}" title="\frac{\mathrm{d}a }{\mathrm{d}x }" />.
 ![differential](https://user-images.githubusercontent.com/12748752/133526752-4ce25bad-9221-4f37-a137-e8e2b4940ed4.png)
 * **What are Delta X,Delta Y-** _**Change in X and change in Y to calculate slope.**_
 > <img src="https://latex.codecogs.com/svg.image?Slope&space;=&space;\frac{f(X&plus;\Delta&space;X)-f(X)}{(X&plus;\Delta&space;X)-X}" title="Slope = \frac{f(X+\Delta X)-f(X)}{(X+\Delta X)-X}" />
