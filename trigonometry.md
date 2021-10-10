@@ -1,5 +1,6 @@
 
 ## Index
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 * [Trigonometric functions](#trigonometric-functions)
    * [Sin Theta](#sin-theta)
    * [Cos or Cosin Theta](#cos-or-cosin-theta)
