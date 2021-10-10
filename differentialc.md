@@ -2,7 +2,7 @@
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-* [Differential calculus]($-differential-calculus)
+* [Differential calculus](#differential-calculus)
 
 
 ### Differential Calculus 
