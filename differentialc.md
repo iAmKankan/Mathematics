@@ -1,5 +1,3 @@
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 * [Differential calculus](#differential-calculus)
@@ -18,7 +16,9 @@
 * 'x','y','z' are considered as variables. 
 
 <img src="https://user-images.githubusercontent.com/12748752/136690048-0678f8ad-4254-4d0f-8ba8-e09c4f22a0e0.png" width=70%>
+
 * [**Why Delta Y/Delta X, It's Tan theta** ](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md#tan-theta)
+
 * **What are Delta X,Delta Y-** _**Change in X and change in Y to calculate slope.**_
 > <img src="https://latex.codecogs.com/svg.image?Slope&space;=&space;\frac{f(X&plus;\Delta&space;X)-f(X)}{(X&plus;\Delta&space;X)-X}" title="Slope = \frac{f(X+\Delta X)-f(X)}{(X+\Delta X)-X}" />
 * After cancelling off X and -X 
