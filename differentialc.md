@@ -31,8 +31,21 @@
 
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
+### Formulas
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
+#### Power Rule
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* Here we use the power rule in order to calculate the derivative and it’s pretty simple though.
 
+
+>> <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathbf{x^2}=\mathrm{2x}" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{x^2}=\mathrm{2x}" />
+
+>>   <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathbf{x^n}=\mathrm{nx^{n-1}}" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{x^n}=\mathrm{nx^{n-1}}" />
+
+* The considered function f(x) is equal to x to the fifth.
+> <img src="https://latex.codecogs.com/svg.image?\begin{cases}&space;&&space;\text{&space;if&space;}&space;f(x)=x^n&space;\\&space;&&space;\text{&space;then&space;}&space;f'(x)=n.x^{n-1}&space;\end{cases}&space;" title="\begin{cases} & \text{ if } f(x)=x^n \\ & \text{ then } f'(x)=n.x^{n-1} \end{cases} " />
+
+> <img src="https://latex.codecogs.com/svg.image?\begin{cases}&space;&&space;f(x)=x^5&space;\\&space;&&space;f'(x)=5x^{(5-1)}&space;\\&space;&&space;f'(x)=5x^{4}&space;\end{cases}&space;" title="\begin{cases} & f(x)=x^5 \\ & f'(x)=5x^{(5-1)} \\ & f'(x)=5x^{4} \end{cases} " />
 
 
