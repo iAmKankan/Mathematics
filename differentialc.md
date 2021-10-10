@@ -16,7 +16,9 @@
 * Suppose variable x is there and a is the number to be differentiate <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}a&space;}{\mathrm{d}x&space;}" title="\frac{\mathrm{d}a }{\mathrm{d}x }" />.
 * 'a','b','c','d' are considered as constants
 * 'x','y','z' are considered as variables. 
-![differential](https://user-images.githubusercontent.com/12748752/133526752-4ce25bad-9221-4f37-a137-e8e2b4940ed4.png)
+
+<img src="https://user-images.githubusercontent.com/12748752/136690048-0678f8ad-4254-4d0f-8ba8-e09c4f22a0e0.png" width=70%>
+
 * **What are Delta X,Delta Y-** _**Change in X and change in Y to calculate slope.**_
 > <img src="https://latex.codecogs.com/svg.image?Slope&space;=&space;\frac{f(X&plus;\Delta&space;X)-f(X)}{(X&plus;\Delta&space;X)-X}" title="Slope = \frac{f(X+\Delta X)-f(X)}{(X+\Delta X)-X}" />
 * After cancelling off X and -X 
