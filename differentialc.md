@@ -5,7 +5,7 @@
 * [Differential calculus]($-differential-calculus)
 
 
-## Differential Calculus 
+### Differential Calculus 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
 * Differential calculus deals with the rate of change of one quantity with respect to another.
