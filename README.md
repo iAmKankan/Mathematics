@@ -5,6 +5,7 @@
 * [Calculus](#what-is-calculus)
    * [Differential Calculus](#differential-calculus)
      * [Multivariate Calculus](#multivariate-calculus)
+     * [Vector](#vector-field)
 * Probability
 * Statistics
 * [Trigonometry](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
@@ -53,7 +54,7 @@
 - Length of the Curve
 - Parameterized Surfaces
 - Surface Area of Parameterized Surfaces
- ### Vector Field
+ ### [Vector Field](https://github.com/iAmKankan/Mathematics/blob/main/vector.md)
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 - Vector Field Basics
 - Vector Operators
