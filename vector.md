@@ -15,7 +15,8 @@
 ### Vector Notation
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * A vector from point "A" to "B" would be like  <img src="https://latex.codecogs.com/svg.image?\overrightarrow{AB}" title="\overrightarrow{AB}" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vector_from_A_to_B.svg/300px-Vector_from_A_to_B.svg.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vector_from_A_to_B.svg/300px-Vector_from_A_to_B.svg.png" />
+
 ### Magnitude of a Vector
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * The magnitude of a vector is shown by vertical lines on both the sides of the given vector “|a|”.
@@ -36,4 +37,11 @@
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
 A vector with zero magnitudes is called a zero vector. The coordinates of zero vector are given by (0,0,0) and it is usually represented by 0 with an arrow (→) at the top or just 0. 
+
+## Operations on Vectors
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+*  We can do vector operations such as Addition, Subtraction, Multiplication on vectors.
+
+### Addition of Vectors
+
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
