@@ -5,6 +5,7 @@
    * [Differential Calculus](#differential-calculus)
      * [Multivariate Calculus](#multivariate-calculus)
      * [Vector](#vector-field)
+     * [Maxima Minima](#maxima-minima)
 * Probability
 * Statistics
 * [Trigonometry](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
@@ -58,6 +59,9 @@
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 - Vector Field Basics
 - Vector Operators
+### Maxima Minima
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+
  ### Integration over curves and Surfaces
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 - Line Integral
