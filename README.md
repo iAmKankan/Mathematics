@@ -6,6 +6,7 @@
      * [Multivariate Calculus](#multivariate-calculus)
      * [Vector](#vector-field)
      * [Maxima Minima](#maxima-minima)
+     * [Gradient](#gradient)
 * Probability
 * Statistics
 * [Trigonometry](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
@@ -62,7 +63,14 @@
 ### Maxima Minima
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
- ### Integration over curves and Surfaces
+### Gradient
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* Represented by Del operator and Greek Nabla symbol
+> <img src="https://latex.codecogs.com/svg.image?\nabla\&space;&space;=&space;\&space;\mathrm{Nabla\&space;Symbol;\&space;Del\&space;Operator&space;}" title="\nabla\ = \ \mathrm{Nabla\ Symbol;\ Del\ Operator }" />
+
+<img src="https://latex.codecogs.com/svg.image?\nabla&space;f(x,y)=\&space;\frac{\partial&space;f}{\partial&space;x}\&space;\widehat{i}\&space;&plus;&space;\&space;\frac{\partial&space;f}{\partial&space;y}\&space;\widehat{j}\&space;=\&space;\begin{bmatrix}&space;\frac{\partial&space;f}{\partial&space;x}&space;\\&space;\\&space;\frac{\partial&space;f}{\partial&space;y}&space;\\\end{bmatrix}&space;" title="\nabla f(x,y)=\ \frac{\partial f}{\partial x}\ \widehat{i}\ + \ \frac{\partial f}{\partial y}\ \widehat{j}\ =\ \begin{bmatrix} \frac{\partial f}{\partial x} \\ \\ \frac{\partial f}{\partial y} \\\end{bmatrix} " />
+
+### Integration over curves and Surfaces
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 - Line Integral
 - Surface Integral
