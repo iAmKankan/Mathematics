@@ -2,7 +2,7 @@
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 * [Linear Algebra](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
 * [Series](#)
-*   [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/maclaurin.md)
+   * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/maclaurin.md)
 * [Calculus](#what-is-calculus)
    * [Differential Calculus](#differential-calculus)
      * [Multivariate Calculus](#multivariate-calculus)
