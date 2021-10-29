@@ -6,11 +6,12 @@
 * [Calculus](#what-is-calculus)
    * [Differential Calculus](#differential-calculus)
      * [Multivariate Calculus](#multivariate-calculus)
+       * [Function](#function)
      * [Vector](#vector-field)
      * [Scalar](#scalar)
        * [Vector Vs Scalor](#difference-between-scalar-and-vector-quantities)
-     * [Maxima Minima](#maxima-minima)
-     * [Gradient](#gradient)
+   * [Maxima Minima](#maxima-minima)
+   * [Gradient](#gradient)
 * Probability
 * Statistics
 * [Trigonometry](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
