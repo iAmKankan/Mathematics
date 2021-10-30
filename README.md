@@ -65,46 +65,7 @@
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 - Vector Field Basics
 - Vector Operators
-* **Vector quantities** have both magnitude and direction. 
-> #### For example
-> * <img src="https://latex.codecogs.com/svg.image?\mathrm{11m\&space;east\&space;and\&space;15ms^{-1}\&space;at\&space;30^{\circ}&space;}&space;" title="\mathrm{11m\ east\ and\ 15ms^{-1}\ at\ 30^{\circ} } " /> to the horizontal are both vector quantities.
-> * Vector qualities include
->   * displacement
->   * velocity
->   * acceleration
->   * force
->   * weight
->   * momentum
 
-* Vector quantities change when:
-> * their magnitude changes
-> * their direction changes
-> * their magnitude and direction both change
-
-#### Difference between Scalar and Vector quantities
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* Speed is a scalar quantity – **it is the rate of change in the distance travelled by an object.**
-* While velocity is a vector quantity – **it is the speed of an object in a particular direction.**
-
-> #### Example
-> * A geostationary satellite is in orbit above Earth. 
-> * It moves at constant speed but its velocity is constantly changing (since its direction is always changing).
-
-* The difference in two vectors quantities = final vector - initial vector
-* The difference in two scalar quantities = large value - small value
-### Scalar
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* A quantity that has magnitude but no particular direction is described as scalar. 
-* **Scalar quantities**- Scalar quantities only have magnitude (size).
-> #### For example
-> *  <img src="https://latex.codecogs.com/svg.image?11m\&space;and\&space;15ms^{-1}" title="11m\ and\ 15ms^{-1}" />  both scalar quantities.
-* Scalar quantities include:
-> * distance
-> * speed
-> * time
-> * power
-> * energy
-* Scalar quantities change when their magnitude changes.
 ### Maxima Minima
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
