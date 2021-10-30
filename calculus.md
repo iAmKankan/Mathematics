@@ -76,6 +76,27 @@
 
 * Similarly, for any matrix <img src="https://latex.codecogs.com/svg.image?\mathbf{X}$,&space;we&space;have&space;$\nabla_{\mathbf{X}}&space;\|\mathbf{X}&space;\|_F^2&space;=&space;2\mathbf{X}" title="\mathbf{X}$, we have $\nabla_{\mathbf{X}} \|\mathbf{X} \|_F^2 = 2\mathbf{X}" />. As we will see later, gradients are useful for designing optimization algorithms in deep learning.
 
+### Chain Rule
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* Multivariate functions in deep learning are often *composite*, so we may not apply any of the above mentioned rules to differentiate these functions.
+* _**Chain rule**_ enables us to differentiate composite functions.
+> #### Let us first consider functions of a single variable.
+> * Suppose that functions *y=f(u)* and *u=g(x)* are both differentiable, then the chain rule states that
+>> <img src="https://latex.codecogs.com/svg.image?\frac{dy}{dx}\&space;=\&space;\frac{dy}{du}\&space;\frac{du}{dx}." title="\frac{dy}{dx}\ =\ \frac{dy}{du}\ \frac{du}{dx}." />
+
+Now let us turn our attention to a more general scenario
+where functions have an arbitrary number of variables.
+Suppose that the differentiable function $y$ has variables
+$u_1, u_2, \ldots, u_m$, where each differentiable function $u_i$
+has variables $x_1, x_2, \ldots, x_n$.
+Note that $y$ is a function of $x_1, x_2, \ldots, x_n$.
+Then the chain rule gives
+
+$$\frac{dy}{dx_i} = \frac{dy}{du_1} \frac{du_1}{dx_i} + \frac{dy}{du_2} \frac{du_2}{dx_i} + \cdots + \frac{dy}{du_m} \frac{du_m}{dx_i}$$
+
+for any $i = 1, 2, \ldots, n$.
+
+
 ### Differential Calculus 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
