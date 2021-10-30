@@ -7,46 +7,8 @@
 
 
 
-### Geometry of Vectors
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* There are two common geometric interpretations of vectors, as either **points** or **directions** in space.
-*  Fundamentally, a vector is a list of numbers such as the Python list below.
-```python
-v = [1, 7, 0, 1]
-```
-* Mathematicians most often write this as either a **column vector** or **row vector**, which is to say either as
-
-### Dot Products and Angles
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* If we take two column vectors  u  and  v , we can form their dot product by computing:
-> <img src="https://latex.codecogs.com/svg.image?u^{T}v\&space;=\&space;\sum_{i}u_i.v_i" title="u^{T}v\ =\ \sum_{i}u_i.v_i" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Linear Algebra:
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-### Why Linear Algebra?
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-
-* Part of math which is used the most in Machine Learning
-* Helps in optimization
-* Perform operations on the data
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
 ### Scalar
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
@@ -98,9 +60,15 @@ v = [1, 7, 0, 1]
 * The difference in two vectors quantities = final vector - initial vector
 * The difference in two scalar quantities = large value - small value
 
-
-
-### 3. Matrix:
+### Length, Dimensionality and Shape
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* A vector is just an array of numbers.
+*  Every vector has a length. 
+> #### In mathematics notation- If we want to say that a vector  x  consists of  n  real-valued scalars, we can express this as 
+>>  <img src="https://latex.codecogs.com/svg.image?x\in&space;\mathbb{R}^n" title="x\in \mathbb{R}^n" />. 
+* The length of a vector is commonly called the dimension of the vector.
+* When a tensor represents a vector (with precisely one axis), we can also access its length via the .shape attribute. The shape is a tuple that lists the length (dimensionality) along each axis of the tensor. For tensors with just one axis, the shape has just one element.
+### Matrix:
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * If <img src="https://latex.codecogs.com/svg.image?A[a_{ji}]_{mXn}" title="A[a_{ji}]_{mXn}" /> and <img src="https://latex.codecogs.com/svg.image?B[b_{ji}]_{mXn}" title="B[b_{ji}]_{mXn}" /> are two matrices of the same order then their sum A + B is a matrix, and each element of that matrix is the sum of the corresponding elements. i.e. <img src="https://latex.codecogs.com/svg.image?A&plus;B&space;=&space;[a_{ji}&plus;b_{ji}]_{mXn}" title="A+B = [a_{ji}+b_{ji}]_{mXn}" />
 * Sum of the two matrix
@@ -145,3 +113,67 @@ v = [1, 7, 0, 1]
 
 
 <img src="https://latex.codecogs.com/svg.image?{\displaystyle&space;\mathbf&space;{C}&space;={\begin{pmatrix}a_{11}b_{11}&plus;\cdots&space;&plus;a_{1n}b_{n1}&a_{11}b_{12}&plus;\cdots&space;&plus;a_{1n}b_{n2}&\cdots&space;&a_{11}b_{1p}&plus;\cdots&space;&plus;a_{1n}b_{np}\\a_{21}b_{11}&plus;\cdots&space;&plus;a_{2n}b_{n1}&a_{21}b_{12}&plus;\cdots&space;&plus;a_{2n}b_{n2}&\cdots&space;&a_{21}b_{1p}&plus;\cdots&space;&plus;a_{2n}b_{np}\\\vdots&space;&\vdots&space;&\ddots&space;&\vdots&space;\\a_{m1}b_{11}&plus;\cdots&space;&plus;a_{mn}b_{n1}&a_{m1}b_{12}&plus;\cdots&space;&plus;a_{mn}b_{n2}&\cdots&space;&a_{m1}b_{1p}&plus;\cdots&space;&plus;a_{mn}b_{np}\\\end{pmatrix}}}" title="{\displaystyle \mathbf {C} ={\begin{pmatrix}a_{11}b_{11}+\cdots +a_{1n}b_{n1}&a_{11}b_{12}+\cdots +a_{1n}b_{n2}&\cdots &a_{11}b_{1p}+\cdots +a_{1n}b_{np}\\a_{21}b_{11}+\cdots +a_{2n}b_{n1}&a_{21}b_{12}+\cdots +a_{2n}b_{n2}&\cdots &a_{21}b_{1p}+\cdots +a_{2n}b_{np}\\\vdots &\vdots &\ddots &\vdots \\a_{m1}b_{11}+\cdots +a_{mn}b_{n1}&a_{m1}b_{12}+\cdots +a_{mn}b_{n2}&\cdots &a_{m1}b_{1p}+\cdots +a_{mn}b_{np}\\\end{pmatrix}}}" />
+
+
+
+### Tensors
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* Just as vectors generalize scalars, and matrices generalize vectors, we can build data structures with even more axes. 
+* Tensors ("tensors" in this subsection refer to algebraic objects) give us a generic way of describing  n -dimensional arrays with an arbitrary number of axes.
+*  Vectors, for example, are first-order tensors, and matrices are second-order tensors. Tensors are denoted with capital letters of a special font face (e.g.,  X ,  Y , and  Z ) and their indexing mechanism (<img src="https://latex.codecogs.com/svg.image?e.g.\&space;\&space;x_{ijk}\&space;\&space;and\&space;\&space;&space;[X]_{1,2i-1,3}" title="e.g.\ \ x_{ijk}\ \ and\ \ [X]_{1,2i-1,3}" />) is similar to that of matrices.
+
+
+
+
+
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+
+
+
+
+### Geometry of Vectors
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* There are two common geometric interpretations of vectors, as either **points** or **directions** in space.
+*  Fundamentally, a vector is a list of numbers such as the Python list below.
+```python
+v = [1, 7, 0, 1]
+```
+* Mathematicians most often write this as either a **column vector** or **row vector**, which is to say either as
+
+### Dot Products and Angles
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* If we take two column vectors  u  and  v , we can form their dot product by computing:
+> <img src="https://latex.codecogs.com/svg.image?u^{T}v\&space;=\&space;\sum_{i}u_i.v_i" title="u^{T}v\ =\ \sum_{i}u_i.v_i" />
+
+### Cosine Similarity
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* In ML contexts where the angle is employed to measure the closeness of two vectors, practitioners adopt the term cosine similarity to refer to the portion
+> <img src="https://latex.codecogs.com/svg.image?cos(\theta)\&space;=\&space;\mathrm{\frac{v.w}{\parallel&space;v\parallel\parallel&space;w\parallel}&space;&space;}" title="cos(\theta)\ =\ \mathrm{\frac{v.w}{\parallel v\parallel\parallel w\parallel} }" />
+
+> * The cosine takes a maximum value of  1  when the two vectors point in the same direction, 
+> * A minimum value of  −1  when they point in opposite directions,
+> * A value of  0  when the two vectors are orthogonal.
+
+*  Note that if the components of high-dimensional vectors are sampled randomly with mean  0 , their cosine will nearly always be close to  0 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
