@@ -1,6 +1,46 @@
+## Index
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+* [Geometry and Linear Algebraic Operations](#)
+   * [Geometry of Vectors](#)
+
+
+
+
+
+### Geometry of Vectors
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* There are two common geometric interpretations of vectors, as either **points** or **directions** in space.
+*  Fundamentally, a vector is a list of numbers such as the Python list below.
+```python
+v = [1, 7, 0, 1]
+```
+* Mathematicians most often write this as either a **column vector** or **row vector**, which is to say either as
+
+### Dot Products and Angles
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* If we take two column vectors  u  and  v , we can form their dot product by computing:
+> <img src="https://latex.codecogs.com/svg.image?u^{T}v\&space;=\&space;\sum_{i}u_i.v_i" title="u^{T}v\ =\ \sum_{i}u_i.v_i" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Linear Algebra:
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-#### Why Linear Algebra?
+### Why Linear Algebra?
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
 * Part of math which is used the most in Machine Learning
@@ -8,21 +48,58 @@
 * Perform operations on the data
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
-### 1. Scalar:
+### Scalar
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* Scalar, a physical quantity that is completely described by its magnitude; examples of scalars are volume, density, speed, energy, mass, and time.
-* Magnetude but no direction is Scalar.
-* Other quantities, such as force and velocity, have both magnitude and direction and are called **vectors.**
+* A quantity that has magnitude but no particular direction is described as scalar. 
+* **Scalar quantities**- Scalar quantities only have magnitude (size).
+> #### For example
+> *  <img src="https://latex.codecogs.com/svg.image?11m\&space;and\&space;15ms^{-1}" title="11m\ and\ 15ms^{-1}" />  both scalar quantities.
+* Scalar quantities include:
+> * distance
+> * speed
+> * time
+> * power
+> * energy
+* Scalar quantities change when their magnitude changes.
 
-* Scalars are described by real numbers that are usually but not necessarily positive.
-* The work done on a particle by a force, for example, is a negative number when the particle moves in a direction opposite to that in which the force acts.
-* Scalars can be manipulated by the ordinary laws of algebra.
-
-### 2. Vector:
+### Vector
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * In physics, a quantity that has both magnitude and direction. 
 * In Computer Science Vector is a data in tabuler form having rows and columns.
-* Vector vs matrix - A matrix is a rectangular array of numbers while a vector is a list of number. Vector have one index matrix having two index.
+* Vector vs matrix -
+   *  A matrix is a rectangular array of numbers while a vector is a list of number. 
+   *  Vector have one index, matrix having two index.
+
+* **Vector quantities** have both magnitude and direction. 
+> #### For example
+> * <img src="https://latex.codecogs.com/svg.image?\mathrm{11m\&space;east\&space;and\&space;15ms^{-1}\&space;at\&space;30^{\circ}&space;}&space;" title="\mathrm{11m\ east\ and\ 15ms^{-1}\ at\ 30^{\circ} } " /> to the horizontal are both vector quantities.
+> * Vector qualities include
+>   * displacement
+>   * velocity
+>   * acceleration
+>   * force
+>   * weight
+>   * momentum
+
+* Vector quantities change when:
+> * their magnitude changes
+> * their direction changes
+> * their magnitude and direction both change
+
+### Difference between Scalar and Vector quantities
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* Speed is a scalar quantity – **it is the rate of change in the distance travelled by an object.**
+* While velocity is a vector quantity – **it is the speed of an object in a particular direction.**
+
+> #### Example
+> * A geostationary satellite is in orbit above Earth. 
+> * It moves at constant speed but its velocity is constantly changing (since its direction is always changing).
+
+* The difference in two vectors quantities = final vector - initial vector
+* The difference in two scalar quantities = large value - small value
+
+
+
 ### 3. Matrix:
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * If <img src="https://latex.codecogs.com/svg.image?A[a_{ji}]_{mXn}" title="A[a_{ji}]_{mXn}" /> and <img src="https://latex.codecogs.com/svg.image?B[b_{ji}]_{mXn}" title="B[b_{ji}]_{mXn}" /> are two matrices of the same order then their sum A + B is a matrix, and each element of that matrix is the sum of the corresponding elements. i.e. <img src="https://latex.codecogs.com/svg.image?A&plus;B&space;=&space;[a_{ji}&plus;b_{ji}]_{mXn}" title="A+B = [a_{ji}+b_{ji}]_{mXn}" />
