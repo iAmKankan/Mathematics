@@ -9,8 +9,8 @@
      * [Properties of Matrix](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
    * [Tensors](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
    * [Geometry of Vectors](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
-   * [Dot Products and Angles](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
-   * [Cosine Similarity](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
+     * [Dot Products and Angles](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
+     * [Cosine Similarity](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
 
 
 * [Series](#)
