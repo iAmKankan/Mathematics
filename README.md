@@ -1,6 +1,18 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-* [Geometry and Linear Algebraic Operations](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
+* [Linear Algebra](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
+   * [Scalar](#scalar)
+   * [Vector](#vector)
+   * [Difference between Scalar and Vector quantities](#difference-between-scalar-and-vector-quantities)
+   * [Length, Dimensionality and Shape](#length-dimensionality-and-shape)
+   * [Matrix](#matrix)
+     * [Properties of Matrix]()
+   * [Tensors](#tensors)
+   * [Geometry of Vectors](#geometry-of-vectors)
+   * [Dot Products and Angles](#dot-products-and-angles)
+   * [Cosine Similarity](#cosine-similarity)
+
+
 * [Series](#)
    * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/maclaurin.md)
 * [Calculus](#what-is-calculus)
