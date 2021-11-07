@@ -1,5 +1,6 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+
 * [Linear Algebra](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
    * [Scalar](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
    * [Vector](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
@@ -12,7 +13,7 @@
      * [Dot Products and Angles](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
      * [Cosine Similarity](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
 
-
+* [Eigendecompositions]()
 * [Series](#)
    * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/maclaurin.md)
 * [Calculus](#what-is-calculus)
@@ -118,6 +119,7 @@
 
 
 
-### Links
+### References
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-* https://www.youtube.com/watch?v=1VSZtNYMntM
+* [YouTube Videos](https://www.youtube.com/watch?v=1VSZtNYMntM)
+* [Dive into Deep Learning](https://d2l.ai/index.html)
