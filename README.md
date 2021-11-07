@@ -28,6 +28,16 @@
 * Probability
 * Statistics
 * [Trigonometry](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
+   * [Trigonometric functions](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
+     * [Sin Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
+     * [Cos or Cosin Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
+     * [Tan Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
+     * [Cosec Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
+     * [Sec Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
+     * [Cot Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
+  * [Pythagorus Theorem](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
+  * [Eucledian Distance](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
+
 * [Logarithm](https://github.com/iAmKankan/Mathematics/blob/main/logarithm.md)
 
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
