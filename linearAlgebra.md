@@ -2,12 +2,20 @@
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 * [Geometry and Linear Algebraic Operations](#)
    * [Geometry of Vectors](#)
+* [Linear Algebra](#linear-algebra)
+   * [Scalar](#scalar)
+   * [Vector](#vector)
+   * [Difference between Scalar and Vector quantities](#difference-between-scalar-and-vector-quantities)
+   * [Length, Dimensionality and Shape](#length-dimensionality-and-shape)
+   * [Matrix](#matrix)
+      * [Properties of Matrix]()
+   * [Tensors](#tensors)
+* [Geometry of Vectors](#geometry-of-vectors)
+   * [Dot Products and Angles](#dot-products-and-angles)
+   * [Cosine Similarity](#cosine-similarity)
 
 
-
-
-
-### Linear Algebra:
+### Linear Algebra
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
 ### Scalar
@@ -60,7 +68,7 @@
 * The difference in two vectors quantities = final vector - initial vector
 * The difference in two scalar quantities = large value - small value
 
-### Length, Dimensionality and Shape
+### Length Dimensionality and Shape
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * A vector is just an array of numbers.
 *  Every vector has a length. 
@@ -68,7 +76,7 @@
 >>  <img src="https://latex.codecogs.com/svg.image?x\in&space;\mathbb{R}^n" title="x\in \mathbb{R}^n" />. 
 * The length of a vector is commonly called the dimension of the vector.
 * When a tensor represents a vector (with precisely one axis), we can also access its length via the .shape attribute. The shape is a tuple that lists the length (dimensionality) along each axis of the tensor. For tensors with just one axis, the shape has just one element.
-### Matrix:
+### Matrix
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * If <img src="https://latex.codecogs.com/svg.image?A[a_{ji}]_{mXn}" title="A[a_{ji}]_{mXn}" /> and <img src="https://latex.codecogs.com/svg.image?B[b_{ji}]_{mXn}" title="B[b_{ji}]_{mXn}" /> are two matrices of the same order then their sum A + B is a matrix, and each element of that matrix is the sum of the corresponding elements. i.e. <img src="https://latex.codecogs.com/svg.image?A&plus;B&space;=&space;[a_{ji}&plus;b_{ji}]_{mXn}" title="A+B = [a_{ji}+b_{ji}]_{mXn}" />
 * Sum of the two matrix
