@@ -26,7 +26,7 @@
      * [Maxima Minima](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
      * [Gradient](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
 * Probability
-* Statistics
+* [Statistics](https://github.com/iAmKankan/Statistics)
 * [Trigonometry](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
    * [Trigonometric functions](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
      * [Sin Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
