@@ -1,7 +1,5 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-* [Geometry and Linear Algebraic Operations](#)
-   * [Geometry of Vectors](#)
 * [Linear Algebra](#linear-algebra)
    * [Scalar](#scalar)
    * [Vector](#vector)
