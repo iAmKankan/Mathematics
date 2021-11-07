@@ -1,6 +1,12 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 * [Differential calculus](#differential-calculus)
+   * [Derivatives and Differentiation](#derivatives-and-differentiation)
+   * [Partial Derivatives](#partial-derivatives)
+   * [Gradients](#gradients)
+   * [Chain Rule](#chain-rule)
+   * [Power Rule](#power-rule)
+   * [Other Formulas](#formula)
 
 ## What is Calculus
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
