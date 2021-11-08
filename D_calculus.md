@@ -18,7 +18,88 @@
 * The two major concepts of calculus are: 
    * Integrals 
    * Differentials
-  
+### Differential Calculus 
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+
+* Differential calculus deals with the rate of change of one quantity with respect to another.
+* The sighn of differentiation is _**d/d**_
+* It is always done in respect to a variable or a function.
+* That function / variable is written along side of the denominator _**d**_.
+* And the thing to be differentiate is written alongside of the numerastor _**d**_.
+* Suppose variable x is there and a is the number to be differentiate <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}a&space;}{\mathrm{d}x&space;}" title="\frac{\mathrm{d}a }{\mathrm{d}x }" />.
+* 'a','b','c','d' are considered as constants
+* 'x','y','z' are considered as variables. 
+
+<img src="https://user-images.githubusercontent.com/12748752/136690048-0678f8ad-4254-4d0f-8ba8-e09c4f22a0e0.png" width=70%>
+
+* [**Why Delta Y/Delta X, It's Tan theta** ](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md#tan-theta)
+
+* **What are Delta X,Delta Y-** _**Change in X and change in Y to calculate slope.**_
+> <img src="https://latex.codecogs.com/svg.image?Slope&space;=&space;\frac{f(X&plus;\Delta&space;X)-f(X)}{(X&plus;\Delta&space;X)-X}" title="Slope = \frac{f(X+\Delta X)-f(X)}{(X+\Delta X)-X}" />
+* After cancelling off X and -X 
+>> <img src="https://latex.codecogs.com/svg.image?Slope&space;=&space;\frac{f(X&plus;\Delta&space;X)-f(X)}{\Delta&space;X}" title="Slope = \frac{f(X+\Delta X)-f(X)}{\Delta X}" />
+* Since the slope is not on a straight line  so we can say it is **NEARLY** not equals.
+>> <img src="https://latex.codecogs.com/svg.image?Slope&space;\approx&space;&space;\frac{f(X&plus;\Delta&space;X)-f(X)}{\Delta&space;X}" title="Slope \approx \frac{f(X+\Delta X)-f(X)}{\Delta X}" />
+* In order to calculate the slope of the curve we must take the limit where the value of X is very very small( small part of a curve line appears as a straight line)  
+
+>> <img src="https://latex.codecogs.com/svg.image?Slope&space;=&space;\displaystyle&space;\lim_{\Delta&space;X&space;\to&space;0}&space;&space;\frac{f(X&plus;\Delta&space;X)-f(X)}{\Delta&space;X}" title="Slope = \displaystyle \lim_{\Delta X \to 0} \frac{f(X+\Delta X)-f(X)}{\Delta X}" />
+
+
+### Common Rules
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+As was seen in :numref:`sec_calculus`, when computing derivatives one can oftentimes use a series of rules to reduce the computation to a few core functions.  We repeat them here for ease of reference.
+
+> #### Derivative of constants: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}\mathbf{C}&space;=&space;0" title="\frac{d}{dx}\mathbf{C} = 0" />
+> #### Derivative of linear functions:  <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}(ax)&space;=&space;a" title="\frac{d}{dx}(ax) = a" />
+> #### Power rule: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}x^n&space;=&space;nx^{n-1}" title="\frac{d}{dx}x^n = nx^{n-1}" />
+> #### Derivative of exponentials: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}e^x&space;=&space;e^x" title="\frac{d}{dx}e^x = e^x" />
+> #### Derivative of the logarithm: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}\log(x)&space;=&space;\frac{1}{x}" title="\frac{d}{dx}\log(x) = \frac{1}{x}" />
+
+### Derivative Rules
+* If every derivative needed to be separately computed and stored in a table, differential calculus would be near impossible.  
+* It is a gift of mathematics that we can generalize the above derivatives and compute more complex derivatives like finding the derivative of <img src="https://latex.codecogs.com/svg.image?f(x)&space;=&space;\log\left(1&plus;(x-1)^{10}\right)" title="f(x) = \log\left(1+(x-1)^{10}\right)" />.  
+* The key to doing so is to codify what happens when we take functions and combine them in various ways, most importantly: sums, products, and compositions.
+
+> ####Sum rule: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}\left(g(x)&space;&plus;&space;h(x)\right)&space;=&space;\frac{dg}{dx}(x)&space;&plus;&space;\frac{dh}{dx}(x)" title="\frac{d}{dx}\left(g(x) + h(x)\right) = \frac{dg}{dx}(x) + \frac{dh}{dx}(x)" />
+> #### Product rule: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}\left(g(x)\cdot&space;h(x)\right)&space;=&space;g(x)\frac{dh}{dx}(x)&space;&plus;&space;\frac{dg}{dx}(x)h(x)" title="\frac{d}{dx}\left(g(x)\cdot h(x)\right) = g(x)\frac{dh}{dx}(x) + \frac{dg}{dx}(x)h(x)" />
+> #### Chain rule: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}g(h(x))&space;=&space;\frac{dg}{dh}(h(x))\cdot&space;\frac{dh}{dx}(x)" title="\frac{d}{dx}g(h(x)) = \frac{dg}{dh}(h(x))\cdot \frac{dh}{dx}(x)" />
+
+
+#### Chain Rule
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* Multivariate functions in deep learning are often *composite*, so we may not apply any of the above mentioned rules to differentiate these functions.
+* _**Chain rule**_ enables us to differentiate composite functions.
+> #### Let us first consider functions of a single variable.
+> * Suppose that functions *y=f(u)* and *u=g(x)* are both differentiable, then the chain rule states that
+>> <img src="https://latex.codecogs.com/svg.image?\frac{dy}{dx}\&space;=\&space;\frac{dy}{du}\&space;\frac{du}{dx}." title="\frac{dy}{dx}\ =\ \frac{dy}{du}\ \frac{du}{dx}." />
+
+Now let us turn our attention to a more general scenario
+where functions have an arbitrary number of variables.
+Suppose that the differentiable function $y$ has variables
+$u_1, u_2, \ldots, u_m$, where each differentiable function $u_i$
+has variables $x_1, x_2, \ldots, x_n$.
+Note that $y$ is a function of $x_1, x_2, \ldots, x_n$.
+Then the chain rule gives
+
+$$\frac{dy}{dx_i} = \frac{dy}{du_1} \frac{du_1}{dx_i} + \frac{dy}{du_2} \frac{du_2}{dx_i} + \cdots + \frac{dy}{du_m} \frac{du_m}{dx_i}$$
+
+for any $i = 1, 2, \ldots, n$.
+
+#### Power Rule
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* Here we use the power rule in order to calculate the derivative and it’s pretty simple though.
+
+
+>> <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathbf{x^2}=\mathrm{2x}" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{x^2}=\mathrm{2x}" />
+
+>>   <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathbf{x^n}=\mathrm{nx^{n-1}}" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{x^n}=\mathrm{nx^{n-1}}" />
+
+* The considered function f(x) is equal to x to the fifth.
+> <img src="https://latex.codecogs.com/svg.image?\begin{cases}&space;&&space;\text{&space;if&space;}&space;f(x)=x^n&space;\\&space;&&space;\text{&space;then&space;}&space;f'(x)=n.x^{n-1}&space;\end{cases}&space;" title="\begin{cases} & \text{ if } f(x)=x^n \\ & \text{ then } f'(x)=n.x^{n-1} \end{cases} " />
+
+> <img src="https://latex.codecogs.com/svg.image?\begin{cases}&space;&&space;f(x)=x^5&space;\\&space;&&space;f'(x)=5x^{(5-1)}&space;\\&space;&&space;f'(x)=5x^{4}&space;\end{cases}&space;" title="\begin{cases} & f(x)=x^5 \\ & f'(x)=5x^{(5-1)} \\ & f'(x)=5x^{4} \end{cases} " />
+
+
 ### Relation with Deep Learning
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * In deep learning, we train models, updating them successively so that they  minimizing the loss function.
@@ -82,71 +163,7 @@
 
 * Similarly, for any matrix <img src="https://latex.codecogs.com/svg.image?\mathbf{X}$,&space;we&space;have&space;$\nabla_{\mathbf{X}}&space;\|\mathbf{X}&space;\|_F^2&space;=&space;2\mathbf{X}" title="\mathbf{X}$, we have $\nabla_{\mathbf{X}} \|\mathbf{X} \|_F^2 = 2\mathbf{X}" />. As we will see later, gradients are useful for designing optimization algorithms in deep learning.
 
-### Chain Rule
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* Multivariate functions in deep learning are often *composite*, so we may not apply any of the above mentioned rules to differentiate these functions.
-* _**Chain rule**_ enables us to differentiate composite functions.
-> #### Let us first consider functions of a single variable.
-> * Suppose that functions *y=f(u)* and *u=g(x)* are both differentiable, then the chain rule states that
->> <img src="https://latex.codecogs.com/svg.image?\frac{dy}{dx}\&space;=\&space;\frac{dy}{du}\&space;\frac{du}{dx}." title="\frac{dy}{dx}\ =\ \frac{dy}{du}\ \frac{du}{dx}." />
 
-Now let us turn our attention to a more general scenario
-where functions have an arbitrary number of variables.
-Suppose that the differentiable function $y$ has variables
-$u_1, u_2, \ldots, u_m$, where each differentiable function $u_i$
-has variables $x_1, x_2, \ldots, x_n$.
-Note that $y$ is a function of $x_1, x_2, \ldots, x_n$.
-Then the chain rule gives
-
-$$\frac{dy}{dx_i} = \frac{dy}{du_1} \frac{du_1}{dx_i} + \frac{dy}{du_2} \frac{du_2}{dx_i} + \cdots + \frac{dy}{du_m} \frac{du_m}{dx_i}$$
-
-for any $i = 1, 2, \ldots, n$.
-
-
-### Differential Calculus 
-![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-
-* Differential calculus deals with the rate of change of one quantity with respect to another.
-* The sighn of differentiation is _**d/d**_
-* It is always done in respect to a variable or a function.
-* That function / variable is written along side of the denominator _**d**_.
-* And the thing to be differentiate is written alongside of the numerastor _**d**_.
-* Suppose variable x is there and a is the number to be differentiate <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}a&space;}{\mathrm{d}x&space;}" title="\frac{\mathrm{d}a }{\mathrm{d}x }" />.
-* 'a','b','c','d' are considered as constants
-* 'x','y','z' are considered as variables. 
-
-<img src="https://user-images.githubusercontent.com/12748752/136690048-0678f8ad-4254-4d0f-8ba8-e09c4f22a0e0.png" width=70%>
-
-* [**Why Delta Y/Delta X, It's Tan theta** ](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md#tan-theta)
-
-* **What are Delta X,Delta Y-** _**Change in X and change in Y to calculate slope.**_
-> <img src="https://latex.codecogs.com/svg.image?Slope&space;=&space;\frac{f(X&plus;\Delta&space;X)-f(X)}{(X&plus;\Delta&space;X)-X}" title="Slope = \frac{f(X+\Delta X)-f(X)}{(X+\Delta X)-X}" />
-* After cancelling off X and -X 
->> <img src="https://latex.codecogs.com/svg.image?Slope&space;=&space;\frac{f(X&plus;\Delta&space;X)-f(X)}{\Delta&space;X}" title="Slope = \frac{f(X+\Delta X)-f(X)}{\Delta X}" />
-* Since the slope is not on a straight line  so we can say it is **NEARLY** not equals.
->> <img src="https://latex.codecogs.com/svg.image?Slope&space;\approx&space;&space;\frac{f(X&plus;\Delta&space;X)-f(X)}{\Delta&space;X}" title="Slope \approx \frac{f(X+\Delta X)-f(X)}{\Delta X}" />
-* In order to calculate the slope of the curve we must take the limit where the value of X is very very small( small part of a curve line appears as a straight line)  
-
->> <img src="https://latex.codecogs.com/svg.image?Slope&space;=&space;\displaystyle&space;\lim_{\Delta&space;X&space;\to&space;0}&space;&space;\frac{f(X&plus;\Delta&space;X)-f(X)}{\Delta&space;X}" title="Slope = \displaystyle \lim_{\Delta X \to 0} \frac{f(X+\Delta X)-f(X)}{\Delta X}" />
-
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-
-### Formulas
-![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-
-#### Power Rule
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* Here we use the power rule in order to calculate the derivative and it’s pretty simple though.
-
-
->> <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathbf{x^2}=\mathrm{2x}" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{x^2}=\mathrm{2x}" />
-
->>   <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}&space;}{\mathrm{d}&space;x}&space;\mathbf{x^n}=\mathrm{nx^{n-1}}" title="\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{x^n}=\mathrm{nx^{n-1}}" />
-
-* The considered function f(x) is equal to x to the fifth.
-> <img src="https://latex.codecogs.com/svg.image?\begin{cases}&space;&&space;\text{&space;if&space;}&space;f(x)=x^n&space;\\&space;&&space;\text{&space;then&space;}&space;f'(x)=n.x^{n-1}&space;\end{cases}&space;" title="\begin{cases} & \text{ if } f(x)=x^n \\ & \text{ then } f'(x)=n.x^{n-1} \end{cases} " />
-
-> <img src="https://latex.codecogs.com/svg.image?\begin{cases}&space;&&space;f(x)=x^5&space;\\&space;&&space;f'(x)=5x^{(5-1)}&space;\\&space;&&space;f'(x)=5x^{4}&space;\end{cases}&space;" title="\begin{cases} & f(x)=x^5 \\ & f'(x)=5x^{(5-1)} \\ & f'(x)=5x^{4} \end{cases} " />
 
 ### Formula
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
