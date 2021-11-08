@@ -60,7 +60,7 @@ As was seen in :numref:`sec_calculus`, when computing derivatives one can oftent
 * It is a gift of mathematics that we can generalize the above derivatives and compute more complex derivatives like finding the derivative of <img src="https://latex.codecogs.com/svg.image?f(x)&space;=&space;\log\left(1&plus;(x-1)^{10}\right)" title="f(x) = \log\left(1+(x-1)^{10}\right)" />.  
 * The key to doing so is to codify what happens when we take functions and combine them in various ways, most importantly: sums, products, and compositions.
 
-> ####Sum rule: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}\left(g(x)&space;&plus;&space;h(x)\right)&space;=&space;\frac{dg}{dx}(x)&space;&plus;&space;\frac{dh}{dx}(x)" title="\frac{d}{dx}\left(g(x) + h(x)\right) = \frac{dg}{dx}(x) + \frac{dh}{dx}(x)" />
+> #### Sum rule: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}\left(g(x)&space;&plus;&space;h(x)\right)&space;=&space;\frac{dg}{dx}(x)&space;&plus;&space;\frac{dh}{dx}(x)" title="\frac{d}{dx}\left(g(x) + h(x)\right) = \frac{dg}{dx}(x) + \frac{dh}{dx}(x)" />
 > #### Product rule: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}\left(g(x)\cdot&space;h(x)\right)&space;=&space;g(x)\frac{dh}{dx}(x)&space;&plus;&space;\frac{dg}{dx}(x)h(x)" title="\frac{d}{dx}\left(g(x)\cdot h(x)\right) = g(x)\frac{dh}{dx}(x) + \frac{dg}{dx}(x)h(x)" />
 > #### Chain rule: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}g(h(x))&space;=&space;\frac{dg}{dh}(h(x))\cdot&space;\frac{dh}{dx}(x)" title="\frac{d}{dx}g(h(x)) = \frac{dg}{dh}(h(x))\cdot \frac{dh}{dx}(x)" />
 
