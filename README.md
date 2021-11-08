@@ -26,6 +26,7 @@
      * [Other Formulas](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
      * [Maxima Minima](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
      * [Gradient](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
+   * [Newton-Raphson Method]
 * Probability
 * [Statistics](https://github.com/iAmKankan/Statistics)
 * [Trigonometry](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
