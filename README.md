@@ -15,7 +15,7 @@
 
 * [Eigendecompositions](https://github.com/iAmKankan/Mathematics/blob/main/eigendecompositions.md)
 * [Series](#)
-   * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/maclaurin.md)
+   * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/formula.md#maclaurin-series)
 * [Calculus](#what-is-calculus)
    * [Differential calculus](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
      * [Derivatives and Differentiation](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
