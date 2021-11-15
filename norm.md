@@ -1,5 +1,4 @@
 ## Index
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
 
@@ -27,11 +26,18 @@
 <img src="https://user-images.githubusercontent.com/12748752/141727741-6d7f2d7b-5ee2-4a0b-8fe1-d004be7b65ee.png" width=50%/>
 
 > ### L1 Norm:
->> <img src="https://latex.codecogs.com/svg.image?\l_1\&space;norm&space;\&space;/&space;Manhattan\&space;Distance\&space;=&space;\left&space;(&space;\sum_{i=1}^{k}|X_{i}|^{1}&space;\right&space;)^{\frac{1}{1}}" title="\l_1\ norm \ / Manhattan\ Distance\ = \left ( \sum_{i=1}^{k}|X_{i}|^{1} \right )^{\frac{1}{1}}" />
-
-
+>> <img src="https://latex.codecogs.com/svg.image?\l_1\&space;norm&space;\&space;/&space;Manhattan&space;\&space;Norm\&space;=&space;\left&space;(&space;\sum_{i=1}^{k}|X_{i}|^{1}&space;\right&space;)^{\frac{1}{1}}" title="\l_1\ norm \ / Manhattan \ Norm\ = \left ( \sum_{i=1}^{k}|X_{i}|^{1} \right )^{\frac{1}{1}}" />
 <img src="https://user-images.githubusercontent.com/12748752/141729610-5eaf179c-a9b3-43c1-9ba6-b06cb528e566.png" width=50%/>
 
 > ### Generalizing Norm:
 > * l_n norm is the nth root of the summetion of all components to their powers. 
 > <img src="https://latex.codecogs.com/svg.image?\l_n\&space;norm&space;\&space;/&space;Generalized\&space;Norm\&space;=&space;\left&space;(&space;\sum_{i=1}^{k}|X_{i}|^{n}&space;\right&space;)^{\frac{1}{n}}" title="\l_n\ norm \ / Generalized\ Norm\ = \left ( \sum_{i=1}^{k}|X_{i}|^{n} \right )^{\frac{1}{n}}" />
+
+
+
+
+
+## References
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+
+* [YouTube](https://www.youtube.com/watch?v=FiSy6zWDfiA)
