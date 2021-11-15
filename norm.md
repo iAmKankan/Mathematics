@@ -37,22 +37,27 @@
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
 > ### Mean Squared Error 
+
 >> <img src="https://latex.codecogs.com/svg.image?\frac{1}{m}&space;\sum_{i=1}^{m}(Y_i-\hat{Y_i})^2" title="\frac{1}{m} \sum_{i=1}^{m}(Y_i-\hat{Y_i})^2" />
 >
 > * Can be written as-
 >> <img src="https://latex.codecogs.com/svg.image?\frac{1}{m}&space;[\l_2\&space;norm(Y_i-\hat{Y_i})]^2" title="\frac{1}{m} [\l_2\ norm(Y_i-\hat{Y_i})]^2" />
 
 
-
+---
 
 > ### Regularization where we put Constraint on weights
 
 > #### Ridge Regression Constraint
 >> <img src="https://latex.codecogs.com/svg.image?\sum_{i=1}^{k}w_i^2&space;\&space;\leq\&space;\sqrt{r}" title="\sum_{i=1}^{k}w_i^2 \ \leq\ \sqrt{r}" />
+> * Can be written as
 >> <img src="https://latex.codecogs.com/svg.image?\l_2&space;\&space;norm&space;(w)&space;\&space;\leq\&space;\sqrt{r}" title="\l_2 \ norm (w) \ \leq\ \sqrt{r}" />
 
 
-
+> #### Lasso Regression
+>> <img src="https://latex.codecogs.com/svg.image?\sum_{i=1}^{k}|w_i|\&space;\leq\&space;r" title="\sum_{i=1}^{k}|w_i|\ \leq\ r" />
+> * Can be written as
+>> <img src="https://latex.codecogs.com/svg.image?\l_1&space;\&space;norm(w)\&space;\leq\&space;r" title="\l_1 \ norm(w)\ \leq\ r" />
 
 ## References
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
