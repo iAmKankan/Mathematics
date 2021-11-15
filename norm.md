@@ -28,5 +28,5 @@
 >> <img src="https://latex.codecogs.com/svg.image?\l_2\&space;norm&space;\&space;/&space;Eucladean\&space;Distance\&space;=&space;\left&space;(&space;\sum_{i=1}^{k}|X_{i}|^{2}&space;\right&space;)^{\frac{1}{2}}&space;" title="\l_2\ norm \ / Eucladean\ Distance\ = \left ( \sum_{i=1}^{k}|X_{i}|^{2} \right )^{\frac{1}{2}} " />
 
 
-<img src="https://user-images.githubusercontent.com/12748752/141729610-5eaf179c-a9b3-43c1-9ba6-b06cb528e566.png"/>
+<img src="https://user-images.githubusercontent.com/12748752/141729610-5eaf179c-a9b3-43c1-9ba6-b06cb528e566.png" width=50%/>
 
