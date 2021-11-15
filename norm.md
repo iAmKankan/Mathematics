@@ -36,8 +36,11 @@
 ### Usesage of Norm
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
-> ### Mean Squared Error <img src="https://latex.codecogs.com/svg.image?\frac{1}{m}&space;\sum_{i=1}^{m}(Y_i-\hat{Y_i})^2" title="\frac{1}{m} \sum_{i=1}^{m}(Y_i-\hat{Y_i})^2" />
-
+> ### Mean Squared Error 
+>> <img src="https://latex.codecogs.com/svg.image?\frac{1}{m}&space;\sum_{i=1}^{m}(Y_i-\hat{Y_i})^2" title="\frac{1}{m} \sum_{i=1}^{m}(Y_i-\hat{Y_i})^2" />
+>
+> * Can be written as-
+>> <img src="https://latex.codecogs.com/svg.image?\frac{1}{m}&space;[\l_2\&space;norm(Y_i-\hat{Y_i})]^2" title="\frac{1}{m} [\l_2\ norm(Y_i-\hat{Y_i})]^2" />
 
 ## References
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
