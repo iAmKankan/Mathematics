@@ -31,7 +31,7 @@
 
 > ### Generalizing Norm:
 > * l_n norm is the nth root of the summetion of all components to their powers. 
-> <img src="https://latex.codecogs.com/svg.image?\l_n\&space;norm&space;\&space;/&space;Generalized\&space;Norm\&space;=&space;\left&space;(&space;\sum_{i=1}^{k}|X_{i}|^{n}&space;\right&space;)^{\frac{1}{n}}" title="\l_n\ norm \ / Generalized\ Norm\ = \left ( \sum_{i=1}^{k}|X_{i}|^{n} \right )^{\frac{1}{n}}" />
+>> <img src="https://latex.codecogs.com/svg.image?\l_n\&space;norm&space;\&space;/&space;Generalized\&space;Norm\&space;=&space;\left&space;(&space;\sum_{i=1}^{k}|X_{i}|^{n}&space;\right&space;)^{\frac{1}{n}}" title="\l_n\ norm \ / Generalized\ Norm\ = \left ( \sum_{i=1}^{k}|X_{i}|^{n} \right )^{\frac{1}{n}}" />
 
 
 
