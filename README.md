@@ -1,6 +1,6 @@
 ## Index
-![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 * [Linear Algebra](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
    * [Scalar](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
    * [Vector](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
@@ -16,6 +16,7 @@
 * [Eigendecompositions](https://github.com/iAmKankan/Mathematics/blob/main/eigendecompositions.md)
 * [Series](#)
    * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/formula.md#maclaurin-series)
+
 * [Calculus](#what-is-calculus)
    * [Differential calculus](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
      * [Derivatives and Differentiation](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
@@ -27,8 +28,10 @@
      * [Maxima Minima](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
      * [Gradient](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
    * [Newton-Raphson Method]
+
 * Probability
 * [Statistics](https://github.com/iAmKankan/Statistics)
+
 * [Trigonometry](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
    * [Trigonometric functions](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
      * [Sin Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
@@ -39,8 +42,11 @@
      * [Cot Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
   * [Pythagorus Theorem](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
   * [Eucledian Distance](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
-
+  
 * [Logarithm](https://github.com/iAmKankan/Mathematics/blob/main/logarithm.md)
+  
+* [Norm]()
+
 
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
