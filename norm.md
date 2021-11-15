@@ -20,13 +20,18 @@
 
 > #### Solution 1: Inorder to find out the distance between those two vectors at first we need to measure the distances of those two points from the origin.
 > * The distance from the origin to vector a is 5 and origin to vector b is <img src="https://latex.codecogs.com/svg.image?\sqrt{2}" title="\sqrt{2}" />
-> 
-
-<img src="https://user-images.githubusercontent.com/12748752/141727741-6d7f2d7b-5ee2-4a0b-8fe1-d004be7b65ee.png" width=50%/>
 
 > ### L2 Norm:
 >> <img src="https://latex.codecogs.com/svg.image?\l_2\&space;norm&space;\&space;/&space;Eucladean\&space;Distance\&space;=&space;\left&space;(&space;\sum_{i=1}^{k}|X_{i}|^{2}&space;\right&space;)^{\frac{1}{2}}&space;" title="\l_2\ norm \ / Eucladean\ Distance\ = \left ( \sum_{i=1}^{k}|X_{i}|^{2} \right )^{\frac{1}{2}} " />
 
+<img src="https://user-images.githubusercontent.com/12748752/141727741-6d7f2d7b-5ee2-4a0b-8fe1-d004be7b65ee.png" width=50%/>
+
+> ### L1 Norm:
+>> <img src="https://latex.codecogs.com/svg.image?\l_1\&space;norm&space;\&space;/&space;Manhattan\&space;Distance\&space;=&space;\left&space;(&space;\sum_{i=1}^{k}|X_{i}|^{1}&space;\right&space;)^{\frac{1}{1}}" title="\l_1\ norm \ / Manhattan\ Distance\ = \left ( \sum_{i=1}^{k}|X_{i}|^{1} \right )^{\frac{1}{1}}" />
+
 
 <img src="https://user-images.githubusercontent.com/12748752/141729610-5eaf179c-a9b3-43c1-9ba6-b06cb528e566.png" width=50%/>
 
+> ### Generalizing Norm:
+> * l_n norm is the nth root of the summetion of all components to their powers. 
+> <img src="https://latex.codecogs.com/svg.image?\l_n\&space;norm&space;\&space;/&space;Generalized\&space;Norm\&space;=&space;\left&space;(&space;\sum_{i=1}^{k}|X_{i}|^{n}&space;\right&space;)^{\frac{1}{n}}" title="\l_n\ norm \ / Generalized\ Norm\ = \left ( \sum_{i=1}^{k}|X_{i}|^{n} \right )^{\frac{1}{n}}" />
