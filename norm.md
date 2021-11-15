@@ -33,8 +33,10 @@
 > * l_n norm is the nth root of the summetion of all components to their powers. 
 >> <img src="https://latex.codecogs.com/svg.image?\l_n\&space;norm&space;\&space;/&space;Generalized\&space;Norm\&space;=&space;\left&space;(&space;\sum_{i=1}^{k}|X_{i}|^{n}&space;\right&space;)^{\frac{1}{n}}" title="\l_n\ norm \ / Generalized\ Norm\ = \left ( \sum_{i=1}^{k}|X_{i}|^{n} \right )^{\frac{1}{n}}" />
 
+### Usesage of Norm
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
-
+> ### Mean Squared Error <img src="https://latex.codecogs.com/svg.image?\frac{1}{m}&space;\sum_{i=1}^{m}(Y_i-\hat{Y_i})^2" title="\frac{1}{m} \sum_{i=1}^{m}(Y_i-\hat{Y_i})^2" />
 
 
 ## References
