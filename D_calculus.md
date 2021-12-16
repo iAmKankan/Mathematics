@@ -85,6 +85,12 @@ $$\frac{dy}{dx_i} = \frac{dy}{du_1} \frac{du_1}{dx_i} + \frac{dy}{du_2} \frac{du
 
 for any $i = 1, 2, \ldots, n$.
 
+
+#### Quotient Rule
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+<img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}=\frac{(denominator&space;*&space;\frac{d}{dx}numerator)&space;&space;-&space;(numerator&space;*&space;\frac{d}{dx}denominator)}{denominator^2}&space;" title="\frac{d}{dx}=\frac{(denominator * \frac{d}{dx}numerator) - (numerator * \frac{d}{dx}denominator)}{denominator^2} " />
+
+
 #### Power Rule
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * Here we use the power rule in order to calculate the derivative and it’s pretty simple though.
