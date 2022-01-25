@@ -159,27 +159,7 @@ v = [1, 7, 0, 1]
 
 > * The cosine takes a maximum value of  1  when the two vectors point in the same direction, 
 > * A minimum value of  −1  when they point in opposite directions,
-> * A value of  0  when the two vectors are orthogonal.
+> * A value of  0  when the two vectors are orthogonal.(We say that 2 vectors are orthogonal if they are perpendicular to each other. i.e. the dot product of the two vectors is zero)
 
 *  Note that if the components of high-dimensional vectors are sampled randomly with mean  0 , their cosine will nearly always be close to  0 .
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
