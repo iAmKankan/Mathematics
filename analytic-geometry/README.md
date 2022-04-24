@@ -1,6 +1,8 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
+<img src="https://user-images.githubusercontent.com/12748752/164981385-3d7992c2-3841-4063-804d-9a2d9a349d46.png" width=80% />
+
 ## Norms
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
