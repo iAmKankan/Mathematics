@@ -8,16 +8,11 @@
 * Norms map vectors to non-negative values
 * Norm of vector <img src="http://latex.codecogs.com/svg.image?x=[x_1,x_2,..,x_n]^\top" title="x=[x_1,x_2,..,x_n]^\top" /> is distance from origin to x.
 
-## <img src="http://latex.codecogs.com/svg.image?L^P&space;" title="L^P " width=4%/> Norm
+## <img src="http://latex.codecogs.com/svg.image?L^P&space;" title="L^P " width=4% /> Norm
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
 > ### <img src="http://latex.codecogs.com/svg.image?L^2&space;" title="L^2 " width=3%/> Norm
 * Called Euclidean norm - Simply the Euclidean distance between the origin and the point a
-
-
-
-
-
 
 ## What is norm
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
