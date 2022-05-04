@@ -73,17 +73,13 @@ As was seen in :numref:`sec_calculus`, when computing derivatives one can oftent
 > * Suppose that functions *y=f(u)* and *u=g(x)* are both differentiable, then the chain rule states that
 >> <img src="https://latex.codecogs.com/svg.image?\frac{dy}{dx}\&space;=\&space;\frac{dy}{du}\&space;\frac{du}{dx}." title="\frac{dy}{dx}\ =\ \frac{dy}{du}\ \frac{du}{dx}." />
 
-Now let us turn our attention to a more general scenario
-where functions have an arbitrary number of variables.
-Suppose that the differentiable function $y$ has variables
-$u_1, u_2, \ldots, u_m$, where each differentiable function $u_i$
-has variables $x_1, x_2, \ldots, x_n$.
-Note that $y$ is a function of $x_1, x_2, \ldots, x_n$.
-Then the chain rule gives
+Now let us turn our attention to a more general scenario where functions have an arbitrary number of variables.Suppose that the differentiable function _**y**_ has variables _**u<sub>1</sub>, u<sub>2</sub>, ..., u<sub>m</sub>**_ where each differentiable function _**u<sub>i</sub>**_ has variables _**x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>**_.
 
-$$\frac{dy}{dx_i} = \frac{dy}{du_1} \frac{du_1}{dx_i} + \frac{dy}{du_2} \frac{du_2}{dx_i} + \cdots + \frac{dy}{du_m} \frac{du_m}{dx_i}$$
+##### Note that _**y**_ is a function of _**x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>**_.
 
-for any $i = 1, 2, \ldots, n$.
+Then the chain rule gives: <img src="https://latex.codecogs.com/svg.image?\frac{dy}{dx_i}&space;=&space;\frac{dy}{du_1}&space;\frac{du_1}{dx_i}&space;&plus;&space;\frac{dy}{du_2}&space;\frac{du_2}{dx_i}&space;&plus;&space;\cdots&space;&plus;&space;\frac{dy}{du_m}&space;\frac{du_m}{dx_i}" title="https://latex.codecogs.com/svg.image?\frac{dy}{dx_i} = \frac{dy}{du_1} \frac{du_1}{dx_i} + \frac{dy}{du_2} \frac{du_2}{dx_i} + \cdots + \frac{dy}{du_m} \frac{du_m}{dx_i}" align="center" />
+
+for any **_i = 1, 2, ... , n._**
 
 
 #### Quotient Rule
