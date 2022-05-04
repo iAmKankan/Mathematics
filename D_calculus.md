@@ -49,11 +49,11 @@
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 As was seen in :numref:`sec_calculus`, when computing derivatives one can oftentimes use a series of rules to reduce the computation to a few core functions.  We repeat them here for ease of reference.
 
-> #### Derivative of constants: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}\mathbf{C}&space;=&space;0" title="\frac{d}{dx}\mathbf{C} = 0" />
-> #### Derivative of linear functions:  <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}(ax)&space;=&space;a" title="\frac{d}{dx}(ax) = a" />
-> #### Power rule: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}x^n&space;=&space;nx^{n-1}" title="\frac{d}{dx}x^n = nx^{n-1}" />
-> #### Derivative of exponentials: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}e^x&space;=&space;e^x" title="\frac{d}{dx}e^x = e^x" />
-> #### Derivative of the logarithm: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}\log(x)&space;=&space;\frac{1}{x}" title="\frac{d}{dx}\log(x) = \frac{1}{x}" />
+> #### Derivative of constants: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}\mathbf{C}&space;=&space;0" title="\frac{d}{dx}\mathbf{C} = 0" align="center" />
+> #### Derivative of linear functions:  <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}(ax)&space;=&space;a" title="\frac{d}{dx}(ax) = a" align="center" />
+> #### Power rule: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}x^n&space;=&space;nx^{n-1}" title="\frac{d}{dx}x^n = nx^{n-1}" align="center" />
+> #### Derivative of exponentials: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}e^x&space;=&space;e^x" title="\frac{d}{dx}e^x = e^x" align="center" />
+> #### Derivative of the logarithm: <img src="https://latex.codecogs.com/svg.image?\frac{d}{dx}\log(x)&space;=&space;\frac{1}{x}" title="\frac{d}{dx}\log(x) = \frac{1}{x}" align="center" />
 
 ### Derivative Rules
 * If every derivative needed to be separately computed and stored in a table, differential calculus would be near impossible.  
