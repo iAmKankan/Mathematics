@@ -26,7 +26,7 @@
 * It is always done in respect to a variable or a function.
 * That function / variable is written along side of the denominator _**d**_.
 * And the thing to be differentiate is written alongside of the numerastor _**d**_.
-* Suppose variable x is there and a is the number to be differentiate <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}a&space;}{\mathrm{d}x&space;}" title="\frac{\mathrm{d}a }{\mathrm{d}x }" />.
+* Suppose variable x is there and a is the number to be differentiate <img src="https://latex.codecogs.com/svg.image?\frac{\mathrm{d}a&space;}{\mathrm{d}x&space;}" title="\frac{\mathrm{d}a }{\mathrm{d}x }" align="center"/>.
 * 'a','b','c','d' are considered as constants
 * 'x','y','z' are considered as variables. 
 
