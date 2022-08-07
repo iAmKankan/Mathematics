@@ -45,7 +45,7 @@
   
 * [Logarithm](https://github.com/iAmKankan/Mathematics/blob/main/logarithm.md)
   
-* [Norm](https://github.com/iAmKankan/Mathematics/blob/main/norm.md)
+* [Norm](https://github.com/iAmKankan/Mathematics/tree/main/analytic-geometry#norms)
 
 
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
@@ -107,24 +107,6 @@
 - Green’s Theorem
 - Stokes’ Theorem
 - Divergence Theorem
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### References
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
