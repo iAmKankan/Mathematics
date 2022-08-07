@@ -79,3 +79,4 @@
 * [YouTube](https://www.youtube.com/watch?v=FiSy6zWDfiA)
 * [Video](https://www.youtube.com/watch?v=aMLl6jUlpqA)
 * "ML Algebra" by Srihari
+* MATHEMATICS FOR MACHINE LEARNING by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
