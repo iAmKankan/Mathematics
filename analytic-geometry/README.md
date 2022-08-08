@@ -1,10 +1,19 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
+## Analytic Geometry
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+**Analytic Geometry**, also called **coordinate geometry**, mathematical subject in which algebraic symbolism and methods are used to represent and solve problems in geometry. The importance of analytic geometry is that _it establishes a correspondence between geometric curves and algebraic equations_.
+
 <img src="https://user-images.githubusercontent.com/12748752/164981385-3d7992c2-3841-4063-804d-9a2d9a349d46.png" width=80% />
+<p align="center"><ins><i><b>Analytic Geometry</b></i></ins></p>
 
 ## Norms
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+<img src="https://user-images.githubusercontent.com/12748752/183428920-7b0cd8c6-c781-4271-8a5c-01583317d2ba.png" width=50%/>
+<p align="center"><ins><i><b>For different norms, the red lines indicate the set of vectors with norm 1. Left: Manhattan norm; Right: Euclidean distance.</b></i></ins></p>
+
+
 
 * Used for measuring the size of a vector
 * Norms map vectors to non-negative values
