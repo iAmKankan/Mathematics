@@ -1,7 +1,7 @@
 ## Index
 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-* [Linear Algebra](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
+* [Linear Algebra](https://github.com/iAmKankan/Mathematics/tree/main/LinearAlgebra)
    * [Scalar](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
    * [Vector](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
    * [Difference between Scalar and Vector quantities](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
