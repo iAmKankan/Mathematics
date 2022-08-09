@@ -19,38 +19,23 @@ Linear Algebra, mathematical discipline that deals with **vectors** and **matric
 
 ### Scaler
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-A Scaalr is a number. It is a physical quantity that is completely described by its magnitude; examples of scalars are **volume**, **density**, **speed**, **energy**, **mass**, and **time**. 
+A Scaalr is a number. It is a physical quantity that is completely described by its magnitude(size); examples of scalars are **volume**, **density**, **speed**, **energy**, **mass**, and **time**. 
 
-Other quantities, such as **force** and **velocity**, have both magnitude and direction and are called **_vectors_**.
+Other quantities, such as **force** and **velocity**, have both magnitude(size) and direction and are called **_vectors_**.
 
 Scalars are described by _real numbers_ that are _usually but not necessarily positive_. Scalars can be manipulated by the ordinary laws of algebra.
 
 #### Example:
 * Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\alpha&space;\in&space;\mathbb{R}}&space;}" title="{\color{Purple}\mathbf{\alpha \in \mathbb{R}} }" align ="center"/>, be the _learning rate_.
 * Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\eta&space;\in&space;\mathbb{N}}&space;}" title="{\color{Purple}\mathbf{\eta \in \mathbb{N}} }" align ="center"/>, be the _number of hyperparameters_.
-
-
-
-
-
-
-
-
-
-* A quantity that has magnitude but no particular direction is described as scalar. 
-* **Scalar quantities**- Scalar quantities only have magnitude (size).
-> #### For example
-> *  <img src="https://latex.codecogs.com/svg.image?11m\&space;and\&space;15ms^{-1}" title="11m\ and\ 15ms^{-1}" />  both scalar quantities.
-* Scalar quantities include:
-> * distance
-> * speed
-> * time
-> * power
-> * energy
 * Scalar quantities change when their magnitude changes.
 
 ### Vector
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+A **vector** in machine learning is simply an **array of numbers**. 
+
+Now, typically in physics or even in hard core mathematics, vectors have very specific meanings, we are not looking at that we are looking at any, even if it is an unconnected series of numbers, for example, x1 could be height, x2 could be weight, xn could be number of people. So, you can put together, any num- ber of things together, all of those put together as long as you concatenate it into a column, we call it a vector, x. So, please do remember this is a bold letter, bold small letters, we will typically use this for vectors or sometimes we might even use something like !x .
+
 * In physics, a quantity that has both magnitude and direction. 
 * In Computer Science Vector is a data in tabuler form having rows and columns.
 * Vector vs matrix -
