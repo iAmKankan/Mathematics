@@ -1,5 +1,4 @@
 ## Index
-
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 * [Linear Algebra](https://github.com/iAmKankan/Mathematics/tree/main/LinearAlgebra)
    * [Scalar](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
@@ -12,7 +11,6 @@
    * [Geometry of Vectors](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
      * [Dot Products and Angles](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
      * [Cosine Similarity](https://github.com/iAmKankan/Mathematics/blob/main/linearAlgebra.md)
-
 * [Eigendecompositions](https://github.com/iAmKankan/Mathematics/blob/main/eigendecompositions.md)
 * [Series](#)
    * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/formula.md#maclaurin-series)
@@ -47,8 +45,12 @@
   
 * [Norm](https://github.com/iAmKankan/Mathematics/tree/main/analytic-geometry#norms)
 
-
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+
+## Math Symbols cheat sheet
+<img src="https://user-images.githubusercontent.com/12748752/183649932-b355ad33-b234-4ea2-a78e-76454fc8e2a2.png" aligh="top" width=50%/> <img src="https://user-images.githubusercontent.com/12748752/183649921-58ab92ee-a5ab-4169-9f53-d5f92c9f75fd.png" aligh="top" width=50%/> 
+
+
 
 
 
