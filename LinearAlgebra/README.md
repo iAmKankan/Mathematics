@@ -34,6 +34,9 @@ Scalars are described by _real numbers_ that are _usually but not necessarily po
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 A **vector** in machine learning is simply an **array of numbers**. 
 
+#### Example:
+* Let say <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\overrightarrow{x}&space;\in&space;\mathbb{R}^n}&space;}" title="{\color{Purple}\mathbf{\overrightarrow{x} \in \mathbb{R}^n} }" />, be the inpuit vector. 
+
 Now, typically in physics or even in hard core mathematics, vectors have very specific meanings, we are not looking at that we are looking at any, even if it is an unconnected series of numbers, for example, x1 could be height, x2 could be weight, xn could be number of people. So, you can put together, any num- ber of things together, all of those put together as long as you concatenate it into a column, we call it a vector, x. So, please do remember this is a bold letter, bold small letters, we will typically use this for vectors or sometimes we might even use something like !x .
 
 * In physics, a quantity that has both magnitude and direction. 
