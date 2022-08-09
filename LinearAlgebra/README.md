@@ -18,6 +18,9 @@
 
 ### Scalar
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+A Scaalr is a number.
+#### Example:
+
 * A quantity that has magnitude but no particular direction is described as scalar. 
 * **Scalar quantities**- Scalar quantities only have magnitude (size).
 > #### For example
