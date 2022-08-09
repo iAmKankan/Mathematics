@@ -169,3 +169,7 @@ v = [1, 7, 0, 1]
 > * A value of  0  when the two vectors are orthogonal.( _We say that 2 vectors are orthogonal if they are perpendicular to each other. i.e. the dot product of the two vectors is zero_).
 *  Note that if the components of high-dimensional vectors are sampled randomly with mean  0 , their cosine will nearly always be close to  0 .
 
+## References:
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+* [NPTEL](https://www.youtube.com/watch?v=NDq_VaZ3iSQ&list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K&index=4)
+
