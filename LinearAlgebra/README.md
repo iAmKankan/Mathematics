@@ -20,6 +20,16 @@
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 A Scaalr is a number.
 #### Example:
+* Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\alpha&space;\in&space;\mathbb{R}}&space;}" title="{\color{Purple}\mathbf{\alpha \in \mathbb{R}} }" />, be the learning rate.
+* Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\eta&space;\in&space;\mathbb{N}}&space;}" title="{\color{Purple}\mathbf{\eta \in \mathbb{N}} }" />, be the number of hyperparameters.
+
+
+
+
+
+
+
+
 
 * A quantity that has magnitude but no particular direction is described as scalar. 
 * **Scalar quantities**- Scalar quantities only have magnitude (size).
