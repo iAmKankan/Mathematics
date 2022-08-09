@@ -15,13 +15,19 @@
 
 ### Linear Algebra
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+Linear Algebra, mathematical discipline that deals with **vectors** and **matrices** and, more generally, with **vector spaces** and **linear transformations**. 
 
-### Scalar
+### Scaler
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-A Scaalr is a number.
+A Scaalr is a number. It is a physical quantity that is completely described by its magnitude; examples of scalars are **volume**, **density**, **speed**, **energy**, **mass**, and **time**. 
+
+Other quantities, such as **force** and **velocity**, have both magnitude and direction and are called **_vectors_**.
+
+Scalars are described by _real numbers_ that are _usually but not necessarily positive_. Scalars can be manipulated by the ordinary laws of algebra.
+
 #### Example:
-* Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\alpha&space;\in&space;\mathbb{R}}&space;}" title="{\color{Purple}\mathbf{\alpha \in \mathbb{R}} }" />, be the learning rate.
-* Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\eta&space;\in&space;\mathbb{N}}&space;}" title="{\color{Purple}\mathbf{\eta \in \mathbb{N}} }" />, be the number of hyperparameters.
+* Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\alpha&space;\in&space;\mathbb{R}}&space;}" title="{\color{Purple}\mathbf{\alpha \in \mathbb{R}} }" align ="center"/>, be the _learning rate_.
+* Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\eta&space;\in&space;\mathbb{N}}&space;}" title="{\color{Purple}\mathbf{\eta \in \mathbb{N}} }" align ="center"/>, be the _number of hyperparameters_.
 
 
 
