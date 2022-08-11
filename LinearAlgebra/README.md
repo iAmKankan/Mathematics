@@ -75,11 +75,11 @@ In **Computer Science Vector** is a data in _tabuler form_ having _rows_ and _co
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 In Computer Science, a **matrix** is a **_multidimensional array_**. In **Machine Learning**, matrix is a **2-D array** of numbers.
 
-#### Example #1
+### Example #1
 * Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{W}=\mathbb{R}^{m\times&space;n}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{W}=\mathbb{R}^{m\times n}}" />, be the matrix of weight.
 
-#### Matrix operations
-#### <ins>Addition</ins> 
+### Matrix operations
+### <ins>Matrix Addition</ins> 
 * If <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A[a_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A[a_{ji}]_{m\times n}}} " align="center" /> and <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{B[b_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{B[b_{ji}]_{m\times n}}} " align="center" /> are two matrices of the same order then their sum `A + B` is a matrix, and each element of that matrix is the sum of the corresponding elements. i.e. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A&plus;B=[a_{ji}&plus;b_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A+B=[a_{ji}+b_{ji}]_{m\times n}}} " align="center" />
 
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\begin{bmatrix}a_1&space;&&space;b_1&space;\\c_1&space;&&space;d_1&space;\\\end{bmatrix}&space;&plus;\begin{bmatrix}a_2&space;&&space;b_2&space;\\c_2&space;&&space;d_2&space;\\\end{bmatrix}&space;=\begin{bmatrix}a_1&plus;a_2&space;&&space;b_1&plus;b_2&space;\\c_1&plus;c_2&space;&&space;d_1&plus;d_2&space;\\\end{bmatrix}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \begin{bmatrix}a_1 & b_1 \\c_1 & d_1 \\\end{bmatrix} +\begin{bmatrix}a_2 & b_2 \\c_2 & d_2 \\\end{bmatrix} =\begin{bmatrix}a_1+a_2 & b_1+b_2 \\c_1+c_2 & d_1+d_2 \\\end{bmatrix}} " />
@@ -101,7 +101,7 @@ In Computer Science, a **matrix** is a **_multidimensional array_**. In **Machin
 1. <img src="https://latex.codecogs.com/svg.image?(&space;-&space;\lambda&space;&space;A&space;)=&space;-&space;(\lambda&space;A&space;)&space;=&space;\lambda(-A)" title="( - \lambda A )= - (\lambda A ) = \lambda(-A)" />
 1.  tr ( kA )=k tr(A) 
 
-#### Properties of matrix multiplication
+### <ins>Matrix Multiplication</ins> 
 * For matrix multiplication, the number of columns in the first matrix must be equal to the number of rows in the second matrix.
 *  The resulting matrix, known as the matrix product, has the number of rows of the first and the number of columns of the second matrix. 
 *  The product of matrices A and B is denoted as AB.
