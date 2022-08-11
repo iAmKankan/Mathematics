@@ -73,7 +73,9 @@ In **Computer Science Vector** is a data in _tabuler form_ having _rows_ and _co
 
 ### Matrix
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-In Computer Science, a **matrix** is a **_multidimensional array_**. In **Machine Learning**, matrix is a **2-D array** of numbers.
+In Computer Science, a **matrix** is a **_multidimensional array_**. 
+
+In **Machine Learning**, matrix is a **2-D array** of numbers.
 
 ### Example #1
 * Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{W}=\mathbb{R}^{m\times&space;n}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{W}=\mathbb{R}^{m\times n}}" />, be the matrix of weight.
@@ -93,14 +95,6 @@ In Computer Science, a **matrix** is a **_multidimensional array_**. In **Machin
 6. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;tr(A\pm&space;B)=tr(A)\pm&space;tr(B)&space;}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} tr(A\pm B)=tr(A)\pm tr(B) } " align="center" />
 7. If **A + B = 0 = B + A**, then **B** is called additive inverse of **A** and also **A** is called the additive inverse of **A**.
 
-
-#### Properties of Scalar Multiplication: If A, B are matrices of the same order and λ and μ are any two scalars then
-1. <img src="https://latex.codecogs.com/svg.image?\lambda&space;&space;(&space;A&plus;B&space;)=\lambda&space;&space;A&plus;\lambda&space;&space;B\lambda&space;(A&plus;B)=\lambda&space;A&plus;\lambda&space;B" title="\lambda ( A+B )=\lambda A+\lambda B\lambda (A+B)=\lambda A+\lambda B" />
-1. <img src="https://latex.codecogs.com/svg.image?(&space;\lambda&space;&space;&plus;\mu&space;&space;)A=\lambda&space;&space;A&plus;\mu&space;&space;A(\lambda&space;&plus;\mu&space;)A=\lambda&space;A&plus;\mu&space;A" title="( \lambda +\mu )A=\lambda A+\mu A(\lambda +\mu )A=\lambda A+\mu A" />
-1. <img src="https://latex.codecogs.com/svg.image?\lambda&space;&space;(&space;\mu&space;&space;A&space;)=(&space;\lambda&space;&space;\,\mu&space;&space;A&space;)=\mu&space;&space;(&space;\lambda&space;&space;A&space;)\lambda&space;(\mu&space;A)=(\lambda&space;\mu&space;A)=\mu&space;(\lambda&space;A)" title="\lambda ( \mu A )=( \lambda \,\mu A )=\mu ( \lambda A )\lambda (\mu A)=(\lambda \mu A)=\mu (\lambda A)" />
-1. <img src="https://latex.codecogs.com/svg.image?(&space;-&space;\lambda&space;&space;A&space;)=&space;-&space;(\lambda&space;A&space;)&space;=&space;\lambda(-A)" title="( - \lambda A )= - (\lambda A ) = \lambda(-A)" />
-1.  tr ( kA )=k tr(A) 
-
 ### <ins>Matrix Multiplication</ins> 
 * For matrix multiplication, the **number of columns in the first matri**x must be **equal** to the **number of rows in the second matrix**.
 *  The resulting matrix, known as the **matrix product**, has the **number of rows of the first** and the **number of columns of the second matrix**. 
@@ -117,6 +111,12 @@ If **A** is an **m × n** matrix and **B** is an **n × p** matrix.
 
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{\displaystyle&space;\mathbf&space;{C}&space;={\begin{bmatrix}a_{11}b_{11}&plus;\cdots&space;&plus;a_{1n}b_{n1}&a_{11}b_{12}&plus;\cdots&space;&plus;a_{1n}b_{n2}&\cdots&space;&a_{11}b_{1p}&plus;\cdots&space;&plus;a_{1n}b_{np}\\a_{21}b_{11}&plus;\cdots&space;&plus;a_{2n}b_{n1}&a_{21}b_{12}&plus;\cdots&space;&plus;a_{2n}b_{n2}&\cdots&space;&a_{21}b_{1p}&plus;\cdots&space;&plus;a_{2n}b_{np}\\\ddots&space;&\ddots&space;&\ddots&space;&\ddots&space;\\a_{m1}b_{11}&plus;\cdots&space;&plus;a_{mn}b_{n1}&a_{m1}b_{12}&plus;\cdots&space;&plus;a_{mn}b_{n2}&\cdots&space;&a_{m1}b_{1p}&plus;\cdots&space;&plus;a_{mn}b_{np}\\\end{bmatrix}}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{\displaystyle \mathbf {C} ={\begin{bmatrix}a_{11}b_{11}+\cdots +a_{1n}b_{n1}&a_{11}b_{12}+\cdots +a_{1n}b_{n2}&\cdots &a_{11}b_{1p}+\cdots +a_{1n}b_{np}\\a_{21}b_{11}+\cdots +a_{2n}b_{n1}&a_{21}b_{12}+\cdots +a_{2n}b_{n2}&\cdots &a_{21}b_{1p}+\cdots +a_{2n}b_{np}\\\ddots &\ddots &\ddots &\ddots \\a_{m1}b_{11}+\cdots +a_{mn}b_{n1}&a_{m1}b_{12}+\cdots +a_{mn}b_{n2}&\cdots &a_{m1}b_{1p}+\cdots +a_{mn}b_{np}\\\end{bmatrix}}}}" />
 
+#### Properties of Scalar Multiplication: If A, B are matrices of the same order and λ and μ are any two scalars then
+1. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\lambda&space;(&space;A&plus;B&space;)=\lambda&space;A&plus;\lambda&space;B\lambda&space;(A&plus;B)=\lambda&space;A&plus;\lambda&space;B}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\lambda ( A+B )=\lambda A+\lambda B\lambda (A+B)=\lambda A+\lambda B}" />
+1.<img src="https://latex.codecogs.com/svg.image?{\color{Purple}(&space;\lambda&space;&plus;\mu&space;)A=\lambda&space;A&plus;\mu&space;A(\lambda&space;&plus;\mu&space;)A=\lambda&space;A&plus;\mu&space;A}" title="https://latex.codecogs.com/svg.image?{\color{Purple}( \lambda +\mu )A=\lambda A+\mu A(\lambda +\mu )A=\lambda A+\mu A}" />
+1. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\lambda&space;(&space;\mu&space;A&space;)=(&space;\lambda&space;\,\mu&space;A&space;)=\mu&space;(&space;\lambda&space;A&space;)\lambda&space;(\mu&space;A)=(\lambda&space;\mu&space;A)=\mu&space;(\lambda&space;A)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\lambda ( \mu A )=( \lambda \,\mu A )=\mu ( \lambda A )\lambda (\mu A)=(\lambda \mu A)=\mu (\lambda A)}" />
+1. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{(&space;-&space;\lambda&space;A&space;)=&space;-&space;(\lambda&space;A&space;)&space;=&space;\lambda(-A)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{( - \lambda A )= - (\lambda A ) = \lambda(-A)}" />
+1.  <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{tr&space;(&space;kA&space;)=k&space;tr(A)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{tr ( kA )=k tr(A)}" /> 
 
 
 ### Tensors
