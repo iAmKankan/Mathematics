@@ -73,9 +73,7 @@ In **Computer Science Vector** is a data in _tabuler form_ having _rows_ and _co
 
 ### Matrix
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-In Computer Science, a **matrix** is a **_multidimensional array_**. 
-
-In **Machine Learning**, matrix is a **2-D array** of numbers.
+In **Machine Learning**, matrix is a **2-D array** of numbers. In Computer Science, a **matrix** is a **_multidimensional array_**. 
 
 ### Example #1
 * Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{W}=\mathbb{R}^{m\times&space;n}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{W}=\mathbb{R}^{m\times n}}" />, be the matrix of weight.
@@ -107,7 +105,6 @@ If **A** is an **m × n** matrix and **B** is an **n × p** matrix.
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{\displaystyle&space;\mathbf&space;{A}&space;={\begin{bmatrix}a_{11}&a_{12}&\cdots&space;&a_{1n}\\a_{21}&a_{22}&\cdots&space;&a_{2n}\\\vdots&space;&\vdots&space;&\ddots&space;&\vdots&space;\\a_{m1}&a_{m2}&\cdots&space;&a_{mn}\\\end{bmatrix}},\quad&space;\mathbf&space;{B}&space;={\begin{bmatrix}b_{11}&b_{12}&\cdots&space;&b_{1p}\\b_{21}&b_{22}&\cdots&space;&b_{2p}\\\vdots&space;&\vdots&space;&\ddots&space;&\vdots&space;\\b_{n1}&b_{n2}&\cdots&space;&b_{np}\\\end{bmatrix}}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{\displaystyle \mathbf {A} ={\begin{bmatrix}a_{11}&a_{12}&\cdots &a_{1n}\\a_{21}&a_{22}&\cdots &a_{2n}\\\vdots &\vdots &\ddots &\vdots \\a_{m1}&a_{m2}&\cdots &a_{mn}\\\end{bmatrix}},\quad \mathbf {B} ={\begin{bmatrix}b_{11}&b_{12}&\cdots &b_{1p}\\b_{21}&b_{22}&\cdots &b_{2p}\\\vdots &\vdots &\ddots &\vdots \\b_{n1}&b_{n2}&\cdots &b_{np}\\\end{bmatrix}}}}" />
 
 ##### Therefore, AB can also be written as
-
 
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{\displaystyle&space;\mathbf&space;{C}&space;={\begin{bmatrix}a_{11}b_{11}&plus;\cdots&space;&plus;a_{1n}b_{n1}&a_{11}b_{12}&plus;\cdots&space;&plus;a_{1n}b_{n2}&\cdots&space;&a_{11}b_{1p}&plus;\cdots&space;&plus;a_{1n}b_{np}\\a_{21}b_{11}&plus;\cdots&space;&plus;a_{2n}b_{n1}&a_{21}b_{12}&plus;\cdots&space;&plus;a_{2n}b_{n2}&\cdots&space;&a_{21}b_{1p}&plus;\cdots&space;&plus;a_{2n}b_{np}\\\ddots&space;&\ddots&space;&\ddots&space;&\ddots&space;\\a_{m1}b_{11}&plus;\cdots&space;&plus;a_{mn}b_{n1}&a_{m1}b_{12}&plus;\cdots&space;&plus;a_{mn}b_{n2}&\cdots&space;&a_{m1}b_{1p}&plus;\cdots&space;&plus;a_{mn}b_{np}\\\end{bmatrix}}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{\displaystyle \mathbf {C} ={\begin{bmatrix}a_{11}b_{11}+\cdots +a_{1n}b_{n1}&a_{11}b_{12}+\cdots +a_{1n}b_{n2}&\cdots &a_{11}b_{1p}+\cdots +a_{1n}b_{np}\\a_{21}b_{11}+\cdots +a_{2n}b_{n1}&a_{21}b_{12}+\cdots +a_{2n}b_{n2}&\cdots &a_{21}b_{1p}+\cdots +a_{2n}b_{np}\\\ddots &\ddots &\ddots &\ddots \\a_{m1}b_{11}+\cdots +a_{mn}b_{n1}&a_{m1}b_{12}+\cdots +a_{mn}b_{n2}&\cdots &a_{m1}b_{1p}+\cdots +a_{mn}b_{np}\\\end{bmatrix}}}}" />
 
