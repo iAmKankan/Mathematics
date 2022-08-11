@@ -44,3 +44,41 @@
 |<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{$\parallel.\parallel$}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{$\parallel.\parallel$} }" />   | **Norm**; **Euclidean**, unless specified                              |
 | <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{$\lambda$}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{$\lambda$}}" />  | Eigenvalue or Lagrange multiplier                              |
 | <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{E$_{\lambda}$}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{E$_{\lambda}$}}" />  | Eigenspace corresponding to eigenvalue <img src="https://latex.codecogs.com/svg.image?\lambda" title="https://latex.codecogs.com/svg.image?\lambda" />.                       |
+|<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{x&space;$\perp$&space;y}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{x $\perp$ y}}" />   | Vectors x and y are orthogonal          |
+|<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textit{V}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textit{V}}" />   | Vector space                            |
+| <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textit{V&space;$^\perp$}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textit{V $^\perp$}}" />  | Orthogonal complement of vector space V |
+|<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{$\sum_{n=1}^{N}&space;x_n$}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{$\sum_{n=1}^{N} x_n$}}" />   | Sum of the x<sub>n</sub> : x<sub>1</sub> + ... + x<sub>N</sub>        |
+| <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{$\prod_{n=1}^{N}&space;&space;x_n$}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{$\prod_{n=1}^{N} x_n$}}" />  | Product of the x<sub>n</sub> : x<sub>1</sub> * ... * x<sub>N</sub>                                         |
+|<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{$\theta$}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{$\theta$}}" />   | Parameter vector                                        |
+| <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{$\frac{\partial&space;f}{\partial&space;x}$}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{$\frac{\partial f}{\partial x}$}}" />  |  Partial derivative of _f_ with respect to _x_                                       |
+|<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\frac{\mathrm{d}&space;f}{\mathrm{d}&space;x}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\frac{\mathrm{d} f}{\mathrm{d} x}" />   | Total derivative of _f_ with respect to _x_                                        |
+| <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{$\bigtriangledown&space;$}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{$\bigtriangledown $}}" />  |  Gradient                                       |
+|   |   The smallest function value of _f_                                      |
+|   |   The value x* that minimizes f (note: arg min returns a set of values)                                      |
+|   |   Lagrangian                                      |
+|   |    Negative log-likelihood                                     |
+|   |    Binomial coefficient, n choose k                                     |
+|   |    Variance of x with respect to the random variable X                                     |
+|   |  Expectation of x with respect to the random variable X                                       |
+|   |  Covariance between x and y.                                       |
+|   |   X is conditionally independent of Y given Z                                      |
+|   | Random variable X is distributed according to p                                        |
+|   | Gaussian distribution with mean  and covariance                                         |
+|   |  Bernoulli distribution with parameter                                        |
+|   |  Binomial distribution with parameters N;                                        |
+|   |  Beta distribution with parameters ;                                        |
+|   |==================================                  |
+|   | -----------------------                             |
+|Acronym |Meaning|
+|e.g. |Exempli gratia (Latin: for example)|
+|GMM |Gaussian mixture model|
+|i.e.| Id est (Latin: this means)|
+|i.i.d.| Independent, identically distributed|
+|MAP| Maximum a posteriori|
+|MLE |Maximum likelihood estimation/estimator|
+|ONB |Orthonormal basis|
+|PCA| Principal component analysis|
+|PPCA| Probabilistic principal component analysis|
+|REF |Row-echelon form|
+|SPD |Symmetric, positive definite|
+|SVM |Support vector machine|
