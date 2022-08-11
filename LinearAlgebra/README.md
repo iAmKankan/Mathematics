@@ -18,7 +18,7 @@ Linear Algebra, mathematical discipline that deals with **vectors** and **matric
 
 ### Scaler
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-A Scaalr is a number. It is a physical quantity that is completely described by its magnitude(size); examples of scalars are **volume**, **density**, **speed**, **energy**, **mass**, and **time**. 
+_A Scaalr is a number_. It is a physical quantity that is completely described by its magnitude(size); examples of scalars are **volume**, **density**, **speed**, **energy**, **mass**, and **time**. 
 
 Other quantities, such as **force** and **velocity**, have both magnitude(size) and direction and are called **_vectors_**.
 
@@ -33,53 +33,49 @@ Scalars are described by _real numbers_ that are _usually but not necessarily po
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 A **vector** in machine learning is simply an **array of numbers**. 
 
-#### Example:
-* Let say <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\overrightarrow{x}&space;\in&space;\mathbb{R}^n}&space;}" title="{\color{Purple}\mathbf{\overrightarrow{x} \in \mathbb{R}^n} }" />, be the inpuit vector. 
+In **physics**, Vector is a quantity that has both **magnitude** and **direction**. 
 
-Now, typically in physics or even in hard core mathematics, vectors have very specific meanings, we are not looking at that we are looking at any, even if it is an unconnected series of numbers, for example, x1 could be height, x2 could be weight, xn could be number of people. So, you can put together, any num- ber of things together, all of those put together as long as you concatenate it into a column, we call it a vector, x. So, please do remember this is a bold letter, bold small letters, we will typically use this for vectors or sometimes we might even use something like !x .
+In **Computer Science Vector** is a data in _tabuler form_ having _rows_ and _columns_. 
+   *  A vector is just an array of numbers.
+   *  Every vector has a length. 
+   *  In mathematics notation- If we want to say that a vector  _x_  consists of  _n_  real-valued scalars, we can express this as <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;x\in&space;\mathbb{R}^n}" title="https://latex.codecogs.com/svg.image?{\color{Purple} x\in \mathbb{R}^n}" />.
+   *  The _length_ of a vector is commonly called the _dimension_ of the vector.
+   *  When a tensor represents a vector (with precisely one axis), we can also access its length via the .shape attribute. The shape is a tuple that lists the length (dimensionality) along each axis of the tensor. For tensors with just one axis, the shape has just one element.
 
-* In physics, a quantity that has both magnitude and direction. 
-* In Computer Science Vector is a data in tabuler form having rows and columns.
-* Vector vs matrix -
-   *  A matrix is a rectangular array of numbers while a vector is a list of number. 
-   *  Vector have one index, matrix having two index.
+#### Example #1
+* Let say <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\overrightarrow{x}&space;\in&space;\mathbb{R}^n}&space;}" title="{\color{Purple}\mathbf{\overrightarrow{x} \in \mathbb{R}^n} }" />, be the inpuit vector. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}x=\begin{bmatrix}&space;{\color{Purple}x_1}\\&space;{\color{Purple}x_2}\\{\color{Purple}\vdots&space;}\\{\color{Purple}x_n}\end{bmatrix}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}x=\begin{bmatrix} {\color{Purple}x_1}\\ {\color{Purple}x_2}\\{\color{Purple}\vdots }\\{\color{Purple}x_n}\end{bmatrix}}" align="center"/>
+ 
+* <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{11m\&space;east\&space;and\&space;15ms^{-1}\&space;at\&space;30^{\circ}&space;}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{11m\ east\ and\ 15ms^{-1}\ at\ 30^{\circ} }}" /> to the horizontal are both vector quantities.
 
-* **Vector quantities** have both magnitude and direction. 
-> #### For example
-> * <img src="https://latex.codecogs.com/svg.image?\mathrm{11m\&space;east\&space;and\&space;15ms^{-1}\&space;at\&space;30^{\circ}&space;}&space;" title="\mathrm{11m\ east\ and\ 15ms^{-1}\ at\ 30^{\circ} } " /> to the horizontal are both vector quantities.
-> * Vector qualities include
->   * displacement
->   * velocity
->   * acceleration
->   * force
->   * weight
->   * momentum
 
-* Vector quantities change when:
-> * their magnitude changes
-> * their direction changes
-> * their magnitude and direction both change
 
-### Difference between Scalar and Vector quantities
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* Speed is a scalar quantity – **it is the rate of change in the distance travelled by an object.**
-* While velocity is a vector quantity – **it is the speed of an object in a particular direction.**
+#### Vector qualities include - 
+* displacement
+* velocity
+* acceleration
+* force
+* weight
+* momentum
 
-> #### Example
-> * A geostationary satellite is in orbit above Earth. 
-> * It moves at constant speed but its velocity is constantly changing (since its direction is always changing).
+#### Vector quantities change when:
+* their magnitude changes
+* their direction changes
+* their magnitude and direction both change
 
-* The difference in two vectors quantities = final vector - initial vector
-* The difference in two scalar quantities = large value - small value
+#### Example #2
+* A geostationary satellite is in orbit above Earth. It moves at constant speed but its velocity is constantly changing (since its direction is always changing).
 
-### Length Dimensionality and Shape
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* A vector is just an array of numbers.
-*  Every vector has a length. 
-> #### In mathematics notation- If we want to say that a vector  x  consists of  n  real-valued scalars, we can express this as 
->>  <img src="https://latex.codecogs.com/svg.image?x\in&space;\mathbb{R}^n" title="x\in \mathbb{R}^n" />. 
-* The length of a vector is commonly called the dimension of the vector.
-* When a tensor represents a vector (with precisely one axis), we can also access its length via the .shape attribute. The shape is a tuple that lists the length (dimensionality) along each axis of the tensor. For tensors with just one axis, the shape has just one element.
+
+
+#### Difference between Scalar and Vector quantities
+* **Speed** is a scalar quantity – **it is the rate of change in the distance travelled by an object.**
+* While **velocity** is a **vector quantity** – **it is the speed of an object in a particular direction.**
+
+
+#### Difference between Vector and Matrix -
+*  A matrix is a rectangular array of numbers while a vector is a list of number. 
+*  Vector have one index, matrix having two index.
+
 ### Matrix
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 * If <img src="https://latex.codecogs.com/svg.image?A[a_{ji}]_{mXn}" title="A[a_{ji}]_{mXn}" /> and <img src="https://latex.codecogs.com/svg.image?B[b_{ji}]_{mXn}" title="B[b_{ji}]_{mXn}" /> are two matrices of the same order then their sum A + B is a matrix, and each element of that matrix is the sum of the corresponding elements. i.e. <img src="https://latex.codecogs.com/svg.image?A&plus;B&space;=&space;[a_{ji}&plus;b_{ji}]_{mXn}" title="A+B = [a_{ji}+b_{ji}]_{mXn}" />
