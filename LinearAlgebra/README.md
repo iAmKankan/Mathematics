@@ -47,8 +47,6 @@ In **Computer Science Vector** is a data in _tabuler form_ having _rows_ and _co
  
 * <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{11m\&space;east\&space;and\&space;15ms^{-1}\&space;at\&space;30^{\circ}&space;}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{11m\ east\ and\ 15ms^{-1}\ at\ 30^{\circ} }}" /> to the horizontal are both vector quantities.
 
-
-
 #### Vector qualities include - 
 * displacement
 * velocity
@@ -65,12 +63,9 @@ In **Computer Science Vector** is a data in _tabuler form_ having _rows_ and _co
 #### Example #2
 * A geostationary satellite is in orbit above Earth. It moves at constant speed but its velocity is constantly changing (since its direction is always changing).
 
-
-
 #### Difference between Scalar and Vector quantities
 * **Speed** is a scalar quantity – **it is the rate of change in the distance travelled by an object.**
 * While **velocity** is a **vector quantity** – **it is the speed of an object in a particular direction.**
-
 
 #### Difference between Vector and Matrix -
 *  A matrix is a rectangular array of numbers while a vector is a list of number. 
@@ -78,23 +73,25 @@ In **Computer Science Vector** is a data in _tabuler form_ having _rows_ and _co
 
 ### Matrix
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* If <img src="https://latex.codecogs.com/svg.image?A[a_{ji}]_{mXn}" title="A[a_{ji}]_{mXn}" /> and <img src="https://latex.codecogs.com/svg.image?B[b_{ji}]_{mXn}" title="B[b_{ji}]_{mXn}" /> are two matrices of the same order then their sum A + B is a matrix, and each element of that matrix is the sum of the corresponding elements. i.e. <img src="https://latex.codecogs.com/svg.image?A&plus;B&space;=&space;[a_{ji}&plus;b_{ji}]_{mXn}" title="A+B = [a_{ji}+b_{ji}]_{mXn}" />
-* Sum of the two matrix
-* <img src="https://latex.codecogs.com/svg.image?\begin{vmatrix}a1&space;&&space;b1&space;\\c1&space;&&space;d1&space;\\\end{vmatrix}&space;&plus;\begin{vmatrix}a2&space;&&space;b2&space;\\c2&space;&&space;d2&space;\\\end{vmatrix}&space;=\begin{vmatrix}a1&plus;a2&space;&&space;b1&plus;b2&space;\\c1&plus;c2&space;&&space;d1&plus;d2&space;\\\end{vmatrix}&space;" title="\begin{vmatrix}a1 & b1 \\c1 & d1 \\\end{vmatrix} +\begin{vmatrix}a2 & b2 \\c2 & d2 \\\end{vmatrix} =\begin{vmatrix}a1+a2 & b1+b2 \\c1+c2 & d1+d2 \\\end{vmatrix} " />
+In Computer Science, a **matrix** is a **_multidimensional array_**. In **Machine Learning**, matrix is a **2-D array** of numbers.
+
+#### Example #1
+* Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{W}=\mathbb{R}^{m\times&space;n}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{W}=\mathbb{R}^{m\times n}}" />, be the matrix of weight.
+
+#### Matrix operations
+#### <ins>Addition</ins> 
+* If <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A[a_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A[a_{ji}]_{m\times n}}} " align="center" /> and <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{B[b_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{B[b_{ji}]_{m\times n}}} " align="center" /> are two matrices of the same order then their sum `A + B` is a matrix, and each element of that matrix is the sum of the corresponding elements. i.e. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A&plus;B=[a_{ji}&plus;b_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A+B=[a_{ji}+b_{ji}]_{m\times n}}} " align="center" />
+
+<img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\begin{bmatrix}a_1&space;&&space;b_1&space;\\c_1&space;&&space;d_1&space;\\\end{bmatrix}&space;&plus;\begin{bmatrix}a_2&space;&&space;b_2&space;\\c_2&space;&&space;d_2&space;\\\end{bmatrix}&space;=\begin{bmatrix}a_1&plus;a_2&space;&&space;b_1&plus;b_2&space;\\c_1&plus;c_2&space;&&space;d_1&plus;d_2&space;\\\end{bmatrix}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \begin{bmatrix}a_1 & b_1 \\c_1 & d_1 \\\end{bmatrix} +\begin{bmatrix}a_2 & b_2 \\c_2 & d_2 \\\end{bmatrix} =\begin{bmatrix}a_1+a_2 & b_1+b_2 \\c_1+c_2 & d_1+d_2 \\\end{bmatrix}} " />
+
 #### Properties of Matrix Addition: If A, B and C are matrices of same order, then-
-(a) Commutative Law: A + B = B + A
-
-(b) Associative Law:  (A + B) + C = A + (B + C)
-
-(c) Identity of the Matrix: A + O =  O + A = A, where O is zero matrix which is additive identity of the matrix,
-
-(d) Additive Inverse: A + (-A) = 0 = (-A) + A, where (-A) is obtained by changing the sign of every element of A which is additive inverse of the matrix,
-
-(e) <img src="https://latex.codecogs.com/svg.image?\left.\begin{matrix}A&plus;B&space;&&space;=&space;&&space;A&plus;C&space;\\B&plus;A&space;&&space;=&space;&&space;C&plus;A&space;\\\end{matrix}\right\}\Rightarrow&space;B=C" title="\left.\begin{matrix}A+B & = & A+C \\B+A & = & C+A \\\end{matrix}\right\}\Rightarrow B=C" />
-
-(f) <img src="https://latex.codecogs.com/svg.image?tr(A\pm&space;B)=tr(A)\pm&space;tr(B)" title="tr(A\pm B)=tr(A)\pm tr(B)" />
-
-(g) If A + B = 0 = B + A, then B is called additive inverse of A and also A is called the additive inverse of A.
+1. Commutative Law: **A + B = B + A**
+2. Associative Law:  **(A + B) + C = A + (B + C)**
+3. Identity of the Matrix: **A + O =  O + A = A**, where **O** is zero matrix which is additive identity of the matrix,
+4. Additive Inverse: **A + (-A) = 0 = (-A) + A**, where **(-A)** is obtained by changing the sign of every element of **A** which is additive inverse of the matrix,
+5. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\left.\begin{matrix}A&plus;B&space;&&space;=&space;&&space;A&plus;C&space;\\B&plus;A&space;&&space;=&space;&&space;C&plus;A&space;\\\end{matrix}\right\}\Rightarrow&space;B=C&space;}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \left.\begin{matrix}A+B & = & A+C \\B+A & = & C+A \\\end{matrix}\right\}\Rightarrow B=C } " align="center"/>
+6. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;tr(A\pm&space;B)=tr(A)\pm&space;tr(B)&space;}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} tr(A\pm B)=tr(A)\pm tr(B) } " align="center" />
+7. If **A + B = 0 = B + A**, then **B** is called additive inverse of **A** and also **A** is called the additive inverse of **A**.
 
 
 #### Properties of Scalar Multiplication: If A, B are matrices of the same order and λ and μ are any two scalars then
