@@ -122,9 +122,9 @@ In Machine Learning, Tensors are array of numbers with **dimensions greater than
 #### Example #1
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}A_{i,j,k}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}A_{i,j,k}}" />
 
-* Just as vectors generalize scalars, and matrices generalize vectors, we can build data structures with even more axes. 
-* Tensors ("tensors" in this subsection refer to algebraic objects) give us a generic way of describing  n -dimensional arrays with an arbitrary number of axes.
-*  Vectors, for example, are first-order tensors, and matrices are second-order tensors. Tensors are denoted with capital letters of a special font face (e.g.,  X ,  Y , and  Z ) and their indexing mechanism (<img src="https://latex.codecogs.com/svg.image?e.g.\&space;\&space;x_{ijk}\&space;\&space;and\&space;\&space;&space;[X]_{1,2i-1,3}" title="e.g.\ \ x_{ijk}\ \ and\ \ [X]_{1,2i-1,3}" />) is similar to that of matrices.
+Just as vectors generalize scalars, and matrices generalize vectors, we can build data structures with even more axes. Tensors ("tensors" in this subsection refer to algebraic objects) give us a generic way of describing  **n -dimensional arrays** with an arbitrary number of axes.
+
+**Vectors** are **first-order tensors** and **Matrix** are **second-order tensors**. Tensors are denoted with capital letters of a special font face (e.g.,  X ,  Y , and  Z ) and their indexing mechanism (e.g. <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Purple}e.g.\&space;\&space;x_{ijk}\&space;\&space;and\&space;\&space;[X]_{1,2i-1,3}}" title="https://latex.codecogs.com/svg.image?\large {\color{Purple}e.g.\ \ x_{ijk}\ \ and\ \ [X]_{1,2i-1,3}}" align="center"/>) is similar to that of matrices.
 
 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
