@@ -63,19 +63,15 @@ In **Computer Science Vector** is a data in _tabuler form_ having _rows_ and _co
 #### Example #2
 * A geostationary satellite is in orbit above Earth. It moves at constant speed but its velocity is constantly changing (since its direction is always changing).
 
-#### Difference between Scalar and Vector quantities
+### Difference between Scalar and Vector quantities
 * **Speed** is a scalar quantity – **it is the rate of change in the distance travelled by an object.**
 * While **velocity** is a **vector quantity** – **it is the speed of an object in a particular direction.**
-
-#### Difference between Vector and Matrix -
-*  A matrix is a rectangular array of numbers while a vector is a list of number. 
-*  Vector have one index, matrix having two index.
 
 ### Matrix
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 In **Machine Learning**, matrix is a **2-D array** of numbers. In Computer Science, a **matrix** is a **_multidimensional array_**. 
 
-### Example #1
+#### Example #1
 * Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{W}=\mathbb{R}^{m\times&space;n}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{W}=\mathbb{R}^{m\times n}}" />, be the matrix of weight.
 
 ### Matrix operations
@@ -115,22 +111,24 @@ If **A** is an **m × n** matrix and **B** is an **n × p** matrix.
 1. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{(&space;-&space;\lambda&space;A&space;)=&space;-&space;(\lambda&space;A&space;)&space;=&space;\lambda(-A)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{( - \lambda A )= - (\lambda A ) = \lambda(-A)}" />
 1.  <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{tr&space;(&space;kA&space;)=k&space;tr(A)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{tr ( kA )=k tr(A)}" /> 
 
+### Difference between Vector and Matrix -
+*  A **matrix** is a rectangular array of numbers while a **vector** is a list of number. 
+*  Vector have one index, matrix having two index.
 
 ### Tensors
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+In Machine Learning, Tensors are array of numbers with **dimensions greater than two(2)**.
+
+#### Example #1
+<img src="https://latex.codecogs.com/svg.image?{\color{Purple}A_{i,j,k}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}A_{i,j,k}}" />
+
 * Just as vectors generalize scalars, and matrices generalize vectors, we can build data structures with even more axes. 
 * Tensors ("tensors" in this subsection refer to algebraic objects) give us a generic way of describing  n -dimensional arrays with an arbitrary number of axes.
 *  Vectors, for example, are first-order tensors, and matrices are second-order tensors. Tensors are denoted with capital letters of a special font face (e.g.,  X ,  Y , and  Z ) and their indexing mechanism (<img src="https://latex.codecogs.com/svg.image?e.g.\&space;\&space;x_{ijk}\&space;\&space;and\&space;\&space;&space;[X]_{1,2i-1,3}" title="e.g.\ \ x_{ijk}\ \ and\ \ [X]_{1,2i-1,3}" />) is similar to that of matrices.
 
 
-
-
-
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-
-
-
 
 ### Geometry of Vectors
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
