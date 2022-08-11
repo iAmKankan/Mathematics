@@ -11,9 +11,8 @@
 * [Geometry of Vectors](#geometry-of-vectors)
    * [Dot Products and Angles](#dot-products-and-angles)
    * [Cosine Similarity](#cosine-similarity)
-
-
-### Linear Algebra
+   
+## Linear Algebra
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 Linear Algebra, mathematical discipline that deals with **vectors** and **matrices** and, more generally, with **vector spaces** and **linear transformations**. 
 
