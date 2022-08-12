@@ -93,7 +93,6 @@ In **Machine Learning**, matrix is a **2-D array** of numbers. In Computer Scien
 * For matrix multiplication, the **number of columns in the first matri**x must be **equal** to the **number of rows in the second matrix**.
 *  The resulting matrix, known as the **matrix product**, has the **number of rows of the first** and the **number of columns of the second matrix**. 
 *  The product of matrices **A** and **B** is denoted as **AB**.
-<img src="https://user-images.githubusercontent.com/12748752/132519557-d232aedb-4676-4043-8f07-d87c8e9f87bb.png" />
 
 
 #### Properties of Scalar Multiplication: If A, B are matrices of the same order and λ and μ are any two scalars then
@@ -170,6 +169,8 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 
 * The size of the two matrix **A** and **B** must match, 
 * Multiplication of two matrices involves dot products between **all the rows of first matrix** and **all the columns of the second matrix**. 
+
+<img src="https://user-images.githubusercontent.com/12748752/132519557-d232aedb-4676-4043-8f07-d87c8e9f87bb.png" />
 
 * <img src="https://latex.codecogs.com/svg.image?\textrm{If&space;}&space;{\color{Purple}\mathbf{A}}&space;\textrm{&space;is&space;a&space;}{\color{Purple}m&space;\times&space;n}&space;\textrm{&space;matrix&space;and&space;}{\color{Purple}\mathbf{B}}&space;\textrm{&space;is&space;a&space;}&space;{\color{Purple}n&space;\times&space;p}&space;\textrm{&space;matrix&space;then&space;their&space;product&space;}({\color{Purple}\mathbf{A.B}})&space;\textrm{&space;would&space;be&space;a&space;}&space;{\color{Purple}m&space;\times&space;p}&space;\textrm{&space;matrix,&space;}&space;{\color{Purple}\mathbf{C}_{m&space;\times&space;p}}" title="https://latex.codecogs.com/svg.image?\textrm{If } {\color{Purple}\mathbf{A}} \textrm{ is a }{\color{Purple}m \times n} \textrm{ matrix and }{\color{Purple}\mathbf{B}} \textrm{ is a } {\color{Purple}n \times p} \textrm{ matrix then their product }({\color{Purple}\mathbf{A.B}}) \textrm{ would be a } {\color{Purple}m \times p} \textrm{ matrix, } {\color{Purple}\mathbf{C}_{m \times p}}" align="center"/>
 
