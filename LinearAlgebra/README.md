@@ -186,7 +186,8 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 * Why is it that, the normal matrix product is dened in this weird way, it turns out that it has several advantages, linear algebra wise. We do not have the time to go through that, in this course. But, it turns out that more often they are not when the products occur, they usually occur as matrix products
 #### Example
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{\displaystyle&space;{\begin{bmatrix}a_{11}&a_{12}&a_{13}\\a_{21}&a_{22}&a_{23}\\a_{31}&a_{32}&a_{33}\end{bmatrix}}\odot&space;{\begin{bmatrix}b_{11}&b_{12}&b_{13}\\b_{21}&b_{22}&b_{23}\\b_{31}&b_{32}&b_{33}\end{bmatrix}}={\begin{bmatrix}a_{11}\,b_{11}&a_{12}\,b_{12}&a_{13}\,b_{13}\\a_{21}\,b_{21}&a_{22}\,b_{22}&a_{23}\,b_{23}\\a_{31}\,b_{31}&a_{32}\,b_{32}&a_{33}\,b_{33}\end{bmatrix}}.}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{\displaystyle {\begin{bmatrix}a_{11}&a_{12}&a_{13}\\a_{21}&a_{22}&a_{23}\\a_{31}&a_{32}&a_{33}\end{bmatrix}}\odot {\begin{bmatrix}b_{11}&b_{12}&b_{13}\\b_{21}&b_{22}&b_{23}\\b_{31}&b_{32}&b_{33}\end{bmatrix}}={\begin{bmatrix}a_{11}\,b_{11}&a_{12}\,b_{12}&a_{13}\,b_{13}\\a_{21}\,b_{21}&a_{22}\,b_{22}&a_{23}\,b_{23}\\a_{31}\,b_{31}&a_{32}\,b_{32}&a_{33}\,b_{33}\end{bmatrix}}.} }" />
-<img src="https://user-images.githubusercontent.com/12748752/184334723-45a452b9-ea57-4ce9-b8d2-222b86125a29.png" width="60%"/>
+<img src="https://user-images.githubusercontent.com/12748752/184334723-45a452b9-ea57-4ce9-b8d2-222b86125a29.png" width="30%"/>
+
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
