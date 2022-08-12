@@ -199,7 +199,9 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 
 ### <ins>_Matrix Transpose_</ins> <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{B&space;=&space;A^\top&space;}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{B = A^\top }}" />
 
-<img src="https://en.wikipedia.org/wiki/Transpose#/media/File:Matrix_transpose.gif"/>
+<img src="https://en.wikipedia.org/wiki/Transpose#/media/File:Matrix_transpose.gif" />
+
+![](https://en.wikipedia.org/wiki/Transpose#/media/File:Matrix_transpose.gif)
 
 #### Example
 1) <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{{\displaystyle&space;{\begin{bmatrix}1&2\end{bmatrix}}^{\top&space;}=\,{\begin{bmatrix}1&space;\\2\end{bmatrix}}}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{{\displaystyle {\begin{bmatrix}1&2\end{bmatrix}}^{\top }=\,{\begin{bmatrix}1 \\2\end{bmatrix}}}}}" align="center" />
