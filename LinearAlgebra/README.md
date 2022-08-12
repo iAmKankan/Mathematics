@@ -183,7 +183,7 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 
 #### Hadamard Product (_Elimentwise Multiplication_) <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{C=A&space;\odot&space;B}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{C=A \odot B}}"  align="center"/>
 * This technique is similar to matrix addition.
-* Hadamard Product has several advantages, linear algebra wise it turns out that more often they are not when the products occur, they usually occur as matrix products rather than as Hadamard products, but none the less in deep learning and in machine learning, we will encounter this kind of elementwise multiplication multiple times which is why that, is being written out as a separate thing.
+* Hadamard Product has several advantages, linear algebra wise it turns out that more often they use in deep learning and in machine learning, we see this kind of elementwise multiplication.
 
 #### Usage 
 * Hadamard product is used in image compression techniques such as JPEG. It is also known as Schur product( the result of Hadamard Product or **A &odot B** = **C**, here **C** is the Schur product)
@@ -192,6 +192,9 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 #### Example
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{\displaystyle&space;{\begin{bmatrix}a_{11}&a_{12}&a_{13}\\a_{21}&a_{22}&a_{23}\\a_{31}&a_{32}&a_{33}\end{bmatrix}}\odot&space;{\begin{bmatrix}b_{11}&b_{12}&b_{13}\\b_{21}&b_{22}&b_{23}\\b_{31}&b_{32}&b_{33}\end{bmatrix}}={\begin{bmatrix}a_{11}\,b_{11}&a_{12}\,b_{12}&a_{13}\,b_{13}\\a_{21}\,b_{21}&a_{22}\,b_{22}&a_{23}\,b_{23}\\a_{31}\,b_{31}&a_{32}\,b_{32}&a_{33}\,b_{33}\end{bmatrix}}.}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{\displaystyle {\begin{bmatrix}a_{11}&a_{12}&a_{13}\\a_{21}&a_{22}&a_{23}\\a_{31}&a_{32}&a_{33}\end{bmatrix}}\odot {\begin{bmatrix}b_{11}&b_{12}&b_{13}\\b_{21}&b_{22}&b_{23}\\b_{31}&b_{32}&b_{33}\end{bmatrix}}={\begin{bmatrix}a_{11}\,b_{11}&a_{12}\,b_{12}&a_{13}\,b_{13}\\a_{21}\,b_{21}&a_{22}\,b_{22}&a_{23}\,b_{23}\\a_{31}\,b_{31}&a_{32}\,b_{32}&a_{33}\,b_{33}\end{bmatrix}}.} }" />
 <img src="https://user-images.githubusercontent.com/12748752/184334723-45a452b9-ea57-4ce9-b8d2-222b86125a29.png" width="30%"/>
+
+#### Dot Product <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\overrightarrow{a}&space;\cdot&space;\overrightarrow{b}=\overrightarrow{\alpha}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\overrightarrow{a} \cdot \overrightarrow{b}=\overrightarrow{\alpha}}}" align="center"/>
+
 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
