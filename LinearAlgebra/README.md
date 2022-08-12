@@ -74,10 +74,6 @@ In **Machine Learning**, matrix is a **2-D array** of numbers. In Computer Scien
 #### Example #1
 * Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{W}=\mathbb{R}^{m\times&space;n}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{W}=\mathbb{R}^{m\times n}}" />, be the matrix of weight.
 
-### Matrix operations
-### <ins>Matrix Addition</ins> 
-* If <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A[a_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A[a_{ji}]_{m\times n}}} " align="center" /> and <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{B[b_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{B[b_{ji}]_{m\times n}}} " align="center" /> are two matrices of the same order then their sum `A + B` is a matrix, and each element of that matrix is the sum of the corresponding elements. i.e. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A&plus;B=[a_{ji}&plus;b_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A+B=[a_{ji}+b_{ji}]_{m\times n}}} " align="center" />
-
 ### Difference between Vector and Matrix -
 *  A **matrix** is a rectangular array of numbers while a **vector** is a list of number. 
 *  Vector have one index, matrix having two index.
