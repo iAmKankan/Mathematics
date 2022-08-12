@@ -162,6 +162,12 @@ Just as **vectors** generalize **scalars**, and **matrices** generalize **vector
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\begin{bmatrix}a_1&space;&&space;b_1&space;\\c_1&space;&&space;d_1&space;\\\end{bmatrix}&space;&plus;\begin{bmatrix}a_2&space;&&space;b_2&space;\\c_2&space;&&space;d_2&space;\\\end{bmatrix}&space;=\begin{bmatrix}a_1&plus;a_2&space;&&space;b_1&plus;b_2&space;\\c_1&plus;c_2&space;&&space;d_1&plus;d_2&space;\\\end{bmatrix}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \begin{bmatrix}a_1 & b_1 \\c_1 & d_1 \\\end{bmatrix} +\begin{bmatrix}a_2 & b_2 \\c_2 & d_2 \\\end{bmatrix} =\begin{bmatrix}a_1+a_2 & b_1+b_2 \\c_1+c_2 & d_1+d_2 \\\end{bmatrix}} " align="center" />
 
 #### Broadcasting <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A_{ij}&plus;&space;b_{j}&space;=&space;C_{ij}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A_{ij}+ b_{j} = C_{ij}}}" align="center"/>
+* It can be done, only if the vector that we are choosing either has the same number of rows or the same number of columns matches with the matrix.
+* Adding a vector to a matrix by repeating the vector.
+* Done autometically by MATLAB and Numpy.
+#### Example #1
+Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A_{i,j}}=&space;\begin{bmatrix}1&space;&&space;2&space;&space;&&space;3&space;\\4&space;&&space;5&space;&&space;5&space;\\\end{bmatrix}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A_{i,j}}= \begin{bmatrix}1 & 2 & 3 \\4 & 5 & 5 \\\end{bmatrix}}" align="center"/> and a vector is <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{b}_j=&space;\begin{bmatrix}&space;1&&space;1&space;&&space;1&space;\\\end{bmatrix}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{b}_j= \begin{bmatrix} 1& 1 & 1 \\\end{bmatrix}}" />
+
 
 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
