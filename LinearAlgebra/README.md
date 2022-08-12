@@ -153,7 +153,7 @@ Just as **vectors** generalize **scalars**, and **matrices** generalize **vector
 * **Matrix Transpose** 
 * **Matrix Inverse**
 
-### <ins>Matrix _Addition_ _Broadcasting_</ins> 
+### <ins>_Addition_ and _Broadcasting_ of Matrix</ins> 
 #### Normal Addition <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A_{i,j}&plus;&space;B_{i,j}&space;=&space;C_{i,j}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A_{i,j}+ B_{i,j} = C_{i,j}}}" align="center" />
 
 * If <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A[a_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A[a_{ji}]_{m\times n}}} " align="center" /> and <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{B[b_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{B[b_{ji}]_{m\times n}}} " align="center" /> are two matrices of the same order then their sum **A + B** is a matrix <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{{\color{Purple}&space;\mathbf{[C_{ji}]_{m\times&space;n}}}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{{\color{Purple} \mathbf{[C_{ji}]_{m\times n}}}}}" align="center" />, and each element of that matrix is the sum of the corresponding elements. i.e. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A&plus;B=[a_{ji}&plus;b_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A+B=[a_{ji}+b_{ji}]_{m\times n}}} "  /> 
@@ -163,12 +163,13 @@ Just as **vectors** generalize **scalars**, and **matrices** generalize **vector
 
 #### Broadcasting <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A_{ij}&plus;&space;b_{j}&space;=&space;C_{ij}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A_{ij}+ b_{j} = C_{ij}}}" align="center"/>
 * It can be done, only if the vector that we are choosing either has the same number of rows or the same number of columns matches with the matrix.
+* We repeat the vector as if its a matrix of the same size.
 * Adding a vector to a matrix by repeating the vector.
 * Done autometically by MATLAB and Numpy.
 #### Example #1
-Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A_{i,j}}=&space;\begin{bmatrix}1&space;&&space;2&space;&space;&&space;3&space;\\4&space;&&space;5&space;&&space;5&space;\\\end{bmatrix}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A_{i,j}}= \begin{bmatrix}1 & 2 & 3 \\4 & 5 & 5 \\\end{bmatrix}}" align="center"/> and a vector is <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{b}_j=&space;\begin{bmatrix}&space;1&&space;1&space;&&space;1&space;\\\end{bmatrix}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{b}_j= \begin{bmatrix} 1& 1 & 1 \\\end{bmatrix}}" />
+Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A_{i,j}}=&space;\begin{bmatrix}1&space;&&space;2&space;&space;&&space;3&space;\\4&space;&&space;5&space;&&space;5&space;\\\end{bmatrix}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A_{i,j}}= \begin{bmatrix}1 & 2 & 3 \\4 & 5 & 5 \\\end{bmatrix}}" align="center"/> and a vector(or a row matrix) is <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{b}_j=&space;\begin{bmatrix}&space;1&&space;1&space;&&space;1&space;\\\end{bmatrix}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{b}_j= \begin{bmatrix} 1& 1 & 1 \\\end{bmatrix}}" align="center" />
 
-
+* This <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[&space;1,&space;1,&space;1&space;]}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[ 1, 1, 1 ]}}" />, gets added to the **1<sup>st</sup>(first) row** gives you- <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[&space;2,&space;3,&space;4&space;]}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[ 2, 3, 4 ]}}" />, it also gets added to the **2<sup>nd</sup>(second) row** which is- <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[&space;4,&space;5,&space;5&space;]}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[ 4, 5, 5 ]}}" /> and gives you- <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[&space;5,&space;6,&space;6&space;]}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[ 5, 6, 6 ]}}" />.
 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
