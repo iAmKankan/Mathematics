@@ -170,11 +170,11 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 * The size of the two matrix **A** and **B** must match, 
 * Multiplication of two matrices involves dot products between **all the rows of first matrix** and **all the columns of the second matrix**. 
 
-<img src="https://user-images.githubusercontent.com/12748752/132519557-d232aedb-4676-4043-8f07-d87c8e9f87bb.png" />
-
 * <img src="https://latex.codecogs.com/svg.image?\textrm{If&space;}&space;{\color{Purple}\mathbf{A}}&space;\textrm{&space;is&space;a&space;}{\color{Purple}m&space;\times&space;n}&space;\textrm{&space;matrix&space;and&space;}{\color{Purple}\mathbf{B}}&space;\textrm{&space;is&space;a&space;}&space;{\color{Purple}n&space;\times&space;p}&space;\textrm{&space;matrix&space;then&space;their&space;product&space;}({\color{Purple}\mathbf{A.B}})&space;\textrm{&space;would&space;be&space;a&space;}&space;{\color{Purple}m&space;\times&space;p}&space;\textrm{&space;matrix,&space;}&space;{\color{Purple}\mathbf{C}_{m&space;\times&space;p}}" title="https://latex.codecogs.com/svg.image?\textrm{If } {\color{Purple}\mathbf{A}} \textrm{ is a }{\color{Purple}m \times n} \textrm{ matrix and }{\color{Purple}\mathbf{B}} \textrm{ is a } {\color{Purple}n \times p} \textrm{ matrix then their product }({\color{Purple}\mathbf{A.B}}) \textrm{ would be a } {\color{Purple}m \times p} \textrm{ matrix, } {\color{Purple}\mathbf{C}_{m \times p}}" align="center"/>
 
 * A matrix can be Multiplied with a **column matrix** or **vector**.
+
+<img src="https://user-images.githubusercontent.com/12748752/132519557-d232aedb-4676-4043-8f07-d87c8e9f87bb.png" />
 
 #### Example
 * <img src="https://latex.codecogs.com/svg.image?\textrm{If&space;}&space;{\color{Purple}\mathbf{A}}&space;\textrm{&space;is&space;a&space;}{\color{Purple}m&space;\times&space;n}&space;\textrm{&space;matrix&space;and&space;}{\color{Purple}\mathbf{B}}&space;\textrm{&space;is&space;a&space;}&space;{\color{Purple}n&space;\times&space;p}&space;\textrm{&space;matrix&space;then&space;their&space;product&space;}({\color{Purple}\mathbf{A.B}})&space;\textrm{&space;would&space;be&space;a&space;}&space;{\color{Purple}m&space;\times&space;p}&space;\textrm{&space;matrix,&space;}&space;{\color{Purple}\mathbf{C}_{m&space;\times&space;p}}" title="https://latex.codecogs.com/svg.image?\textrm{If } {\color{Purple}\mathbf{A}} \textrm{ is a }{\color{Purple}m \times n} \textrm{ matrix and }{\color{Purple}\mathbf{B}} \textrm{ is a } {\color{Purple}n \times p} \textrm{ matrix then their product }({\color{Purple}\mathbf{A.B}}) \textrm{ would be a } {\color{Purple}m \times p} \textrm{ matrix, } {\color{Purple}\mathbf{C}_{m \times p}}" align="center"/>
@@ -208,21 +208,6 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 <img src="https://latex.codecogs.com/svg.image?\\\textrm{If&space;}&space;{\color{Purple}\mathbf{a=}\textbf{[1&space;2&space;3]&space;&space;}&space;}&space;\textrm{&space;and&space;}&space;{\color{Purple}\mathbf{b=}\textbf{[4&space;5&space;6]&space;}&space;}\textrm{&space;then&space;the&space;dot&space;of&space;the&space;two&space;is-&space;}&space;{\color{Purple}\mathbf{a.b^\top&space;=&space;\alpha}&space;}&space;\textrm{&space;or&space;}&space;{\color{Purple}&space;\textbf{[1&space;2&space;3]}&space;\cdot&space;\begin{bmatrix}4&space;\\5&space;\\6\end{bmatrix}}&space;\\{\color{Purple}\mathbf{\alpha}&space;}&space;=&space;{\color{Purple}\mathbf{[(4&space;\times&space;1)&plus;&space;(5&space;\times&space;2)&space;&plus;&space;(6&space;\times&space;3)]&space;=\&space;32}}&space;\textrm{,&space;which&space;is&space;a&space;Scaler.}" title="https://latex.codecogs.com/svg.image?\\\textrm{If } {\color{Purple}\mathbf{a=}\textbf{[1 2 3] } } \textrm{ and } {\color{Purple}\mathbf{b=}\textbf{[4 5 6] } }\textrm{ then the dot of the two is- } {\color{Purple}\mathbf{a.b^\top = \alpha} } \textrm{ or } {\color{Purple} \textbf{[1 2 3]} \cdot \begin{bmatrix}4 \\5 \\6\end{bmatrix}} \\{\color{Purple}\mathbf{\alpha} } = {\color{Purple}\mathbf{[(4 \times 1)+ (5 \times 2) + (6 \times 3)] =\ 32}} \textrm{, which is a Scaler.}" />
 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-
-### Geometry of Vectors
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* There are two common geometric interpretations of vectors, as either **points** or **directions** in space.
-*  Fundamentally, a vector is a list of numbers such as the Python list below.
-```python
-v = [1, 7, 0, 1]
-```
-* Mathematicians most often write this as either a **column vector** or **row vector**, which is to say either as
-
-### Dot Products and Angles
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-* If we take two column vectors  u  and  v , we can form their dot product by computing:
-> <img src="https://latex.codecogs.com/svg.image?u^{T}v\&space;=\&space;\sum_{i}u_i.v_i" title="u^{T}v\ =\ \sum_{i}u_i.v_i" />
 
 ### Cosine Similarity
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
