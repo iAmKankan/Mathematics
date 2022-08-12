@@ -80,28 +80,6 @@ In **Machine Learning**, matrix is a **2-D array** of numbers. In Computer Scien
 
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\begin{bmatrix}a_1&space;&&space;b_1&space;\\c_1&space;&&space;d_1&space;\\\end{bmatrix}&space;&plus;\begin{bmatrix}a_2&space;&&space;b_2&space;\\c_2&space;&&space;d_2&space;\\\end{bmatrix}&space;=\begin{bmatrix}a_1&plus;a_2&space;&&space;b_1&plus;b_2&space;\\c_1&plus;c_2&space;&&space;d_1&plus;d_2&space;\\\end{bmatrix}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \begin{bmatrix}a_1 & b_1 \\c_1 & d_1 \\\end{bmatrix} +\begin{bmatrix}a_2 & b_2 \\c_2 & d_2 \\\end{bmatrix} =\begin{bmatrix}a_1+a_2 & b_1+b_2 \\c_1+c_2 & d_1+d_2 \\\end{bmatrix}} " />
 
-#### Properties of Matrix Addition: If A, B and C are matrices of same order, then-
-1. Commutative Law: **A + B = B + A**
-2. Associative Law:  **(A + B) + C = A + (B + C)**
-3. Identity of the Matrix: **A + O =  O + A = A**, where **O** is zero matrix which is additive identity of the matrix,
-4. Additive Inverse: **A + (-A) = 0 = (-A) + A**, where **(-A)** is obtained by changing the sign of every element of **A** which is additive inverse of the matrix,
-5. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\left.\begin{matrix}A&plus;B&space;&&space;=&space;&&space;A&plus;C&space;\\B&plus;A&space;&&space;=&space;&&space;C&plus;A&space;\\\end{matrix}\right\}\Rightarrow&space;B=C&space;}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \left.\begin{matrix}A+B & = & A+C \\B+A & = & C+A \\\end{matrix}\right\}\Rightarrow B=C } " align="center"/>
-6. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;tr(A\pm&space;B)=tr(A)\pm&space;tr(B)&space;}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} tr(A\pm B)=tr(A)\pm tr(B) } " align="center" />
-7. If **A + B = 0 = B + A**, then **B** is called additive inverse of **A** and also **A** is called the additive inverse of **A**.
-
-### <ins>Matrix Multiplication</ins> 
-* For matrix multiplication, the **number of columns in the first matri**x must be **equal** to the **number of rows in the second matrix**.
-*  The resulting matrix, known as the **matrix product**, has the **number of rows of the first** and the **number of columns of the second matrix**. 
-*  The product of matrices **A** and **B** is denoted as **AB**.
-
-
-#### Properties of Scalar Multiplication: If A, B are matrices of the same order and λ and μ are any two scalars then
-1. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\lambda&space;(&space;A&plus;B&space;)=\lambda&space;A&plus;\lambda&space;B\lambda&space;(A&plus;B)=\lambda&space;A&plus;\lambda&space;B}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\lambda ( A+B )=\lambda A+\lambda B\lambda (A+B)=\lambda A+\lambda B}" />
-2. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}(&space;\lambda&space;&plus;\mu&space;)A=\lambda&space;A&plus;\mu&space;A(\lambda&space;&plus;\mu&space;)A=\lambda&space;A&plus;\mu&space;A}" title="https://latex.codecogs.com/svg.image?{\color{Purple}( \lambda +\mu )A=\lambda A+\mu A(\lambda +\mu )A=\lambda A+\mu A}" />
-3. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\lambda&space;(&space;\mu&space;A&space;)=(&space;\lambda&space;\,\mu&space;A&space;)=\mu&space;(&space;\lambda&space;A&space;)\lambda&space;(\mu&space;A)=(\lambda&space;\mu&space;A)=\mu&space;(\lambda&space;A)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\lambda ( \mu A )=( \lambda \,\mu A )=\mu ( \lambda A )\lambda (\mu A)=(\lambda \mu A)=\mu (\lambda A)}" />
-4. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{(&space;-&space;\lambda&space;A&space;)=&space;-&space;(\lambda&space;A&space;)&space;=&space;\lambda(-A)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{( - \lambda A )= - (\lambda A ) = \lambda(-A)}" />
-5. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{tr&space;(&space;kA&space;)=k&space;tr(A)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{tr ( kA )=k tr(A)}" /> 
-
 ### Difference between Vector and Matrix -
 *  A **matrix** is a rectangular array of numbers while a **vector** is a list of number. 
 *  Vector have one index, matrix having two index.
@@ -163,6 +141,15 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 
 * This <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[&space;1,&space;1,&space;1&space;]}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[ 1, 1, 1 ]}}" align="center"/>, gets added to the **1<sup>st</sup>(first) row** gives you- <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[&space;2,&space;3,&space;4&space;]}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[ 2, 3, 4 ]}}" align="center"/>, it also gets added to the **2<sup>nd</sup>(second) row** which is- <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[&space;4,&space;5,&space;5&space;]}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[ 4, 5, 5 ]}}" align="center" /> and gives you- <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[&space;5,&space;6,&space;6&space;]}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[ 5, 6, 6 ]}}" align="center"/>.
 
+#### Properties of Matrix Addition: If A, B and C are matrices of same order, then-
+1. Commutative Law: **A + B = B + A**
+2. Associative Law:  **(A + B) + C = A + (B + C)**
+3. Identity of the Matrix: **A + O =  O + A = A**, where **O** is zero matrix which is additive identity of the matrix,
+4. Additive Inverse: **A + (-A) = 0 = (-A) + A**, where **(-A)** is obtained by changing the sign of every element of **A** which is additive inverse of the matrix,
+5. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\left.\begin{matrix}A&plus;B&space;&&space;=&space;&&space;A&plus;C&space;\\B&plus;A&space;&&space;=&space;&&space;C&plus;A&space;\\\end{matrix}\right\}\Rightarrow&space;B=C&space;}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \left.\begin{matrix}A+B & = & A+C \\B+A & = & C+A \\\end{matrix}\right\}\Rightarrow B=C } " align="center"/>
+6. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;tr(A\pm&space;B)=tr(A)\pm&space;tr(B)&space;}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} tr(A\pm B)=tr(A)\pm tr(B) } " align="center" />
+7. If **A + B = 0 = B + A**, then **B** is called additive inverse of **A** and also **A** is called the additive inverse of **A**.
+
 ### <ins>_Multiplication_ of Matrix</ins> 
 #### Matrix Product <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{C&space;=&space;AB}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{C = AB}}" align="center"/>
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{C_{ij}&space;=}\sum_{k}\&space;\mathbf{A}_{ik}\mathbf{B}_{kj}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{C_{ij} =}\sum_{k}\ \mathbf{A}_{ik}\mathbf{B}_{kj}}" align="center"/>
@@ -206,6 +193,16 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 * As we know the the dot product of two vector gives a **Scaler**. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\overrightarrow{a}&space;\cdot&space;\overrightarrow{b}=\alpha}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\overrightarrow{a} \cdot \overrightarrow{b}=\alpha}}" align="center"/>
 
 <img src="https://latex.codecogs.com/svg.image?\\\textrm{If&space;}&space;{\color{Purple}\mathbf{a=}\textbf{[1&space;2&space;3]&space;&space;}&space;}&space;\textrm{&space;and&space;}&space;{\color{Purple}\mathbf{b=}\textbf{[4&space;5&space;6]&space;}&space;}\textrm{&space;then&space;the&space;dot&space;of&space;the&space;two&space;is-&space;}&space;{\color{Purple}\mathbf{a.b^\top&space;=&space;\alpha}&space;}&space;\textrm{&space;or&space;}&space;{\color{Purple}&space;\textbf{[1&space;2&space;3]}&space;\cdot&space;\begin{bmatrix}4&space;\\5&space;\\6\end{bmatrix}}&space;\\{\color{Purple}\mathbf{\alpha}&space;}&space;=&space;{\color{Purple}\mathbf{[(4&space;\times&space;1)&plus;&space;(5&space;\times&space;2)&space;&plus;&space;(6&space;\times&space;3)]&space;=\&space;32}}&space;\textrm{,&space;which&space;is&space;a&space;Scaler.}" title="https://latex.codecogs.com/svg.image?\\\textrm{If } {\color{Purple}\mathbf{a=}\textbf{[1 2 3] } } \textrm{ and } {\color{Purple}\mathbf{b=}\textbf{[4 5 6] } }\textrm{ then the dot of the two is- } {\color{Purple}\mathbf{a.b^\top = \alpha} } \textrm{ or } {\color{Purple} \textbf{[1 2 3]} \cdot \begin{bmatrix}4 \\5 \\6\end{bmatrix}} \\{\color{Purple}\mathbf{\alpha} } = {\color{Purple}\mathbf{[(4 \times 1)+ (5 \times 2) + (6 \times 3)] =\ 32}} \textrm{, which is a Scaler.}" />
+
+
+#### Properties of Scalar Multiplication: If A, B are matrices of the same order and λ and μ are any two scalars then
+1. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\lambda&space;(&space;A&plus;B&space;)=\lambda&space;A&plus;\lambda&space;B\lambda&space;(A&plus;B)=\lambda&space;A&plus;\lambda&space;B}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\lambda ( A+B )=\lambda A+\lambda B\lambda (A+B)=\lambda A+\lambda B}" />
+2. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}(&space;\lambda&space;&plus;\mu&space;)A=\lambda&space;A&plus;\mu&space;A(\lambda&space;&plus;\mu&space;)A=\lambda&space;A&plus;\mu&space;A}" title="https://latex.codecogs.com/svg.image?{\color{Purple}( \lambda +\mu )A=\lambda A+\mu A(\lambda +\mu )A=\lambda A+\mu A}" />
+3. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\lambda&space;(&space;\mu&space;A&space;)=(&space;\lambda&space;\,\mu&space;A&space;)=\mu&space;(&space;\lambda&space;A&space;)\lambda&space;(\mu&space;A)=(\lambda&space;\mu&space;A)=\mu&space;(\lambda&space;A)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\lambda ( \mu A )=( \lambda \,\mu A )=\mu ( \lambda A )\lambda (\mu A)=(\lambda \mu A)=\mu (\lambda A)}" />
+4. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{(&space;-&space;\lambda&space;A&space;)=&space;-&space;(\lambda&space;A&space;)&space;=&space;\lambda(-A)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{( - \lambda A )= - (\lambda A ) = \lambda(-A)}" />
+5. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{tr&space;(&space;kA&space;)=k&space;tr(A)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{tr ( kA )=k tr(A)}" /> 
+
+
 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
