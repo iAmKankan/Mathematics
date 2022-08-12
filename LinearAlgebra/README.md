@@ -166,10 +166,17 @@ Just as **vectors** generalize **scalars**, and **matrices** generalize **vector
 * We repeat the vector as if its a matrix of the same size.
 * Adding a vector to a matrix by repeating the vector.
 * Done autometically by MATLAB and Numpy.
-#### Example #1
+* In Numpy, also this kind of addition is done automatically it is assumed that, if you have a size mismatch then, you actually have broadcasting going on.
+#### Example
 Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A_{i,j}}=&space;\begin{bmatrix}1&space;&&space;2&space;&space;&&space;3&space;\\4&space;&&space;5&space;&&space;5&space;\\\end{bmatrix}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A_{i,j}}= \begin{bmatrix}1 & 2 & 3 \\4 & 5 & 5 \\\end{bmatrix}}" align="center"/> and a vector(or a row matrix) is <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{b}_j=&space;\begin{bmatrix}&space;1&&space;1&space;&&space;1&space;\\\end{bmatrix}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{b}_j= \begin{bmatrix} 1& 1 & 1 \\\end{bmatrix}}" align="center" />
 
 * This <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[&space;1,&space;1,&space;1&space;]}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[ 1, 1, 1 ]}}" align="center"/>, gets added to the **1<sup>st</sup>(first) row** gives you- <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[&space;2,&space;3,&space;4&space;]}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[ 2, 3, 4 ]}}" align="center"/>, it also gets added to the **2<sup>nd</sup>(second) row** which is- <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[&space;4,&space;5,&space;5&space;]}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[ 4, 5, 5 ]}}" align="center" /> and gives you- <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[&space;5,&space;6,&space;6&space;]}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{[ 5, 6, 6 ]}}" align="center"/>.
+
+### <ins>_Multiplication_ of Matrix</ins> 
+#### Matrix Product <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{C&space;=&space;AB}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{C = AB}}" align="center"/>
+* <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{C_{ij}&space;=}\sum_{k}\&space;\mathbf{A}_{ik}\mathbf{B}_{kj}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{C_{ij} =}\sum_{k}\ \mathbf{A}_{ik}\mathbf{B}_{kj}}" align="center"/>
+* The size of the two matrix **A** and **B** must match, 
+
 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
