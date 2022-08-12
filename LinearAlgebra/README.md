@@ -197,6 +197,13 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 5. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}{tr&space;(&space;kA&space;)=k&space;tr(A)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}{tr ( kA )=k tr(A)}" /> 
 
 
+### <ins>_Matrix Transpose_</ins> <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{B&space;=&space;A^\top&space;}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{B = A^\top }}" />
+
+#### Example
+1) <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{{\displaystyle&space;{\begin{bmatrix}1&2\end{bmatrix}}^{\top&space;}=\,{\begin{bmatrix}1&space;\\2\end{bmatrix}}}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{{\displaystyle {\begin{bmatrix}1&2\end{bmatrix}}^{\top }=\,{\begin{bmatrix}1 \\2\end{bmatrix}}}}}" align="center" />
+2) <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;{\begin{bmatrix}1&2\\3&4\end{bmatrix}}^{\top&space;}={\begin{bmatrix}1&3\\2&4\end{bmatrix}}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle {\begin{bmatrix}1&2\\3&4\end{bmatrix}}^{\top }={\begin{bmatrix}1&3\\2&4\end{bmatrix}}}}" align="center"/>
+3) <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;{\begin{bmatrix}1&2\\3&4\\5&6\end{bmatrix}}^{\top&space;}={\begin{bmatrix}1&3&5\\2&4&6\end{bmatrix}}}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle {\begin{bmatrix}1&2\\3&4\\5&6\end{bmatrix}}^{\top }={\begin{bmatrix}1&3&5\\2&4&6\end{bmatrix}}} }" align="center"/>
+
 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
