@@ -222,6 +222,16 @@ The transpose of a matrix is an operator which flips a matrix over its diagonal;
 
 The inverse of matrix is another matrix, which on multiplication with the given matrix gives the multiplicative identity. For a matrix **A**, its inverse is **A<sup>-1</sup>**, and **A** · **A<sup>-1</sup>** = **A<sup>-1</sup>**· **A = I**, where **I** is the identity matrix.
 
+* Above definition is for a **square matrix**
+* _Not all square matrices have an inverse_ 
+* For **non-square** cases we can define something called the **pseudoinverse**
+> _Identity matrix_ <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\begin{bmatrix}&space;\textbf{1.0000}&&space;-0.0000&space;&&space;0.0000&space;\\&space;0.0000&&space;\textbf{1.0000}&space;&&space;-0.0000&space;\\&space;0.0000&&space;-0.0000&space;&&space;\textbf{1.0000}&space;\\\end{bmatrix}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \begin{bmatrix} \textbf{1.0000}& -0.0000 & 0.0000 \\ 0.0000& \textbf{1.0000} & -0.0000 \\ 0.0000& -0.0000 & \textbf{1.0000} \\\end{bmatrix}} " />
+
+#### _Note:_
+#### Finite Precision and Double Precision
+The **0s** are not quite **0**, have some decimal places of accuracy, this is something very important, this is called **_Finite Precision_**, which means just like in your calculator you have only a certain number of digits, that you can represent **accurately**, it depending on the calculator you might have **8** or 10 places. In many cases, the result that the computer gives will actually, be accurate only up till a certain number of digits, typically **16** number of digits, that is called **_Double Precision_**. 
+
+Some of the non-diagonal terms, it calls **positive** and some of them it calls **negative**, because, you know may be the 10th or 11th digit.
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
 ### Cosine Similarity
