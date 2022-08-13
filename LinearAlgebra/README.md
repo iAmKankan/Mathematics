@@ -18,7 +18,8 @@
    * [Hadamard Product(Elimentwise Multiplication)](#%EF%B8%8F-hadamard-product-elimentwise-multiplication-) 
 * [Matrix Transpose](#matrix-transpose-)
 * [Matrix Inverse](#matrix-inverse--)
-* [Cosine Similarity](#cosine-similarity)
+
+#### [Cosine Similarity](#cosine-similarity)
 
 ### [References](#references)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
