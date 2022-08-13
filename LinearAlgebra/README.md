@@ -199,10 +199,10 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 
 
 ### <ins>_Matrix Transpose_</ins> <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{B&space;=&space;A^\top&space;}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{B = A^\top }}" />
+<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{b}_{ij}=\textbf{a}_{ji}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{b}_{ij}=\textbf{a}_{ji}}" />
 
-<img src="https://user-images.githubusercontent.com/12748752/184396146-ea23685c-7ca2-4fd5-a366-536f4848e4c3.gif" width=60%/>
 
-![](https://en.wikipedia.org/wiki/Transpose#/media/File:Matrix_transpose.gif)
+<img src="https://user-images.githubusercontent.com/12748752/184396146-ea23685c-7ca2-4fd5-a366-536f4848e4c3.gif" width=50% align="right"/>
 
 #### Example
 1) <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{{\displaystyle&space;{\begin{bmatrix}1&2\end{bmatrix}}^{\top&space;}=\,{\begin{bmatrix}1&space;\\2\end{bmatrix}}}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{{\displaystyle {\begin{bmatrix}1&2\end{bmatrix}}^{\top }=\,{\begin{bmatrix}1 \\2\end{bmatrix}}}}}" align="center" />
