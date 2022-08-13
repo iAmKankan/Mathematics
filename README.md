@@ -1,7 +1,7 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-### _Linear Algebra_
-#### [The Definition](#what-is-linear-algebra)
+### [_Linear Algebra_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/README.md)
+#### [The Definition](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/README.md#what-is-linear-algebra)
 * [Scalar](#scaler)
 * [Vector](#vector)
     * [Difference between Scalar and Vector quantities](#difference-between-scalar-and-vector-quantities)
@@ -20,7 +20,7 @@
 * [Matrix Transpose](#matrix-transpose-)
 * [Matrix Inverse](#matrix-inverse--)
 #### [Cosine Similarity](#cosine-similarity)
-
+---
 * [Eigendecompositions](https://github.com/iAmKankan/Mathematics/blob/main/eigendecompositions.md)
 * [Series]()
    * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/formula.md#maclaurin-series)
