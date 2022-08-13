@@ -199,8 +199,7 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 
 
 ### <ins>_Matrix Transpose_</ins> <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{B&space;=&space;A^\top&space;}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{B = A^\top }}" />
-<img src="https://user-images.githubusercontent.com/12748752/184492228-284b2153-2b32-469d-b9fa-7506f1656282.gif" align="right"  width=40%/>
-
+<img src="https://user-images.githubusercontent.com/12748752/184492726-f777555c-85b1-4fdc-80c6-126767e13678.gif" align="right"  width=40%/>
 
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{b}_{ij}=\textbf{a}_{ji}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{b}_{ij}=\textbf{a}_{ji}}" />
 
