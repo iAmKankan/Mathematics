@@ -225,7 +225,8 @@ The inverse of matrix is another matrix, which on multiplication with the given 
 * Above definition is for a **square matrix**
 * _Not all square matrices have an inverse_ 
 * For **non-square** cases we can define something called the **pseudoinverse**
-> _Identity matrix_ <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\begin{bmatrix}&space;\textbf{1.0000}&&space;-0.0000&space;&&space;0.0000&space;\\&space;0.0000&&space;\textbf{1.0000}&space;&&space;-0.0000&space;\\&space;0.0000&&space;-0.0000&space;&&space;\textbf{1.0000}&space;\\\end{bmatrix}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \begin{bmatrix} \textbf{1.0000}& -0.0000 & 0.0000 \\ 0.0000& \textbf{1.0000} & -0.0000 \\ 0.0000& -0.0000 & \textbf{1.0000} \\\end{bmatrix}} " />
+> **_Identity matrix_** 
+<img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\begin{bmatrix}&space;\textbf{1.0000}&&space;-0.0000&space;&&space;0.0000&space;\\&space;0.0000&&space;\textbf{1.0000}&space;&&space;-0.0000&space;\\&space;0.0000&&space;-0.0000&space;&&space;\textbf{1.0000}&space;\\\end{bmatrix}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \begin{bmatrix} \textbf{1.0000}& -0.0000 & 0.0000 \\ 0.0000& \textbf{1.0000} & -0.0000 \\ 0.0000& -0.0000 & \textbf{1.0000} \\\end{bmatrix}} " />
 
 #### _Note:_
 #### Finite Precision and Double Precision
@@ -246,5 +247,5 @@ Some of the non-diagonal terms, it calls **positive** and some of them it calls 
 
 ## References:
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-* [NPTEL](https://www.youtube.com/watch?v=NDq_VaZ3iSQ&list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K&index=4)
+* [NPTEL(NOC:Machine Learning for Engineering and Science Applications, IIT Madras Prof. Balaji Srinivasan, Prof. Ganapathy)](https://nptel.ac.in/courses/106106198)
 
