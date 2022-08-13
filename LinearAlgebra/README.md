@@ -6,6 +6,17 @@
 * [Difference between Scalar and Vector quantities](#difference-between-scalar-and-vector-quantities)
 * [Matrix](#matrix)
 * [Tensors](#tensors)
+   * [Tensors Orders](#tensors-orders)
+#### [Basic Operations](#basic-operations)
+* [Addition, Broadcasting(a special type of addition)](#addition-and-broadcasting-of-matrix)
+   *  [Normal Addition](#%EF%B8%8F-normal-addition-)
+   *  [Broadcasting](#%EF%B8%8F-broadcasting-)
+* [Multiplication](#multiplication-of-matrix)
+   * [Matrix product](#%EF%B8%8F-matrix-product-) 
+   * [Dot product](#%EF%B8%8F-dot-product---vector-notation-or--matrix-notation) 
+   * [Hadamard Product(Elimentwise Multiplication)](#%EF%B8%8F-hadamard-product-elimentwise-multiplication-) 
+* [Matrix Transpose](#matrix-transpose-)
+* [Matrix Inverse](#matrix-inverse--)
 * [Cosine Similarity](#cosine-similarity)
 
 ### [References](#references)
@@ -90,7 +101,7 @@ Just as **vectors** generalize **scalars**, and **matrices** generalize **vector
 **Vectors** are **first-order tensors** and **Matrix** are **second-order tensors**. Tensors are denoted with capital letters of a special font face (e.g.,  **X** ,  **Y** , and  **Z** ) and their **indexing mechanism** (e.g. <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Purple}\&space;\&space;x_{ijk}\&space;\&space;and\&space;\&space;[X]_{1,2i-1,3}}" title="https://latex.codecogs.com/svg.image?\large {\color{Purple}\ \ x_{ijk}\ \ and\ \ [X]_{1,2i-1,3}}" />) is similar to that of **matrices**.
 
 
-### Tensors types
+### Tensors Orders
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
 #### Scalar(**0<sup>th</sup>** order **Tensor**) <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\alpha=3}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\alpha=3} }" align="center"/>
