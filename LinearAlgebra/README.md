@@ -117,14 +117,14 @@ Just as **vectors** generalize **scalars**, and **matrices** generalize **vector
 * **Matrix Inverse**
 
 ### <ins>_Addition_ and _Broadcasting_ of Matrix</ins> 
-#### Normal Addition <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A_{i,j}&plus;&space;B_{i,j}&space;=&space;C_{i,j}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A_{i,j}+ B_{i,j} = C_{i,j}}}" align="center" />
+#### ◼️ _Normal Addition_ <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A_{i,j}&plus;&space;B_{i,j}&space;=&space;C_{i,j}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A_{i,j}+ B_{i,j} = C_{i,j}}}" align="center" />
 
 * If <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A[a_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A[a_{ji}]_{m\times n}}} " align="center" /> and <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{B[b_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{B[b_{ji}]_{m\times n}}} " align="center" /> are two matrices of the same order then their sum **A + B** is a matrix <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{{\color{Purple}&space;\mathbf{[C_{ji}]_{m\times&space;n}}}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{{\color{Purple} \mathbf{[C_{ji}]_{m\times n}}}}}" align="center" />, and each element of that matrix is the sum of the corresponding elements. i.e. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A&plus;B=[a_{ji}&plus;b_{ji}]_{m\times&space;n}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A+B=[a_{ji}+b_{ji}]_{m\times n}}} "  /> 
 
 #### Example
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\begin{bmatrix}a_1&space;&&space;b_1&space;\\c_1&space;&&space;d_1&space;\\\end{bmatrix}&space;&plus;\begin{bmatrix}a_2&space;&&space;b_2&space;\\c_2&space;&&space;d_2&space;\\\end{bmatrix}&space;=\begin{bmatrix}a_1&plus;a_2&space;&&space;b_1&plus;b_2&space;\\c_1&plus;c_2&space;&&space;d_1&plus;d_2&space;\\\end{bmatrix}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \begin{bmatrix}a_1 & b_1 \\c_1 & d_1 \\\end{bmatrix} +\begin{bmatrix}a_2 & b_2 \\c_2 & d_2 \\\end{bmatrix} =\begin{bmatrix}a_1+a_2 & b_1+b_2 \\c_1+c_2 & d_1+d_2 \\\end{bmatrix}} " align="center" />
 
-#### Broadcasting <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A_{ij}&plus;&space;b_{j}&space;=&space;C_{ij}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A_{ij}+ b_{j} = C_{ij}}}" align="center"/>
+#### ◼️ _Broadcasting_ <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A_{ij}&plus;&space;b_{j}&space;=&space;C_{ij}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A_{ij}+ b_{j} = C_{ij}}}" align="center"/>
 * It can be done, only if the vector that we are choosing either has the same number of rows or the same number of columns matches with the matrix.
 * We repeat the vector as if its a matrix of the same size.
 * Adding a vector to a matrix by repeating the vector.
