@@ -218,8 +218,9 @@ The transpose of a matrix is an operator which flips a matrix over its diagonal;
 2) <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;{\begin{bmatrix}1&2\\3&4\end{bmatrix}}^{\top&space;}={\begin{bmatrix}1&3\\2&4\end{bmatrix}}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle {\begin{bmatrix}1&2\\3&4\end{bmatrix}}^{\top }={\begin{bmatrix}1&3\\2&4\end{bmatrix}}}}" align="center"/>
 3) <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;{\begin{bmatrix}1&2\\3&4\\5&6\end{bmatrix}}^{\top&space;}={\begin{bmatrix}1&3&5\\2&4&6\end{bmatrix}}}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle {\begin{bmatrix}1&2\\3&4\\5&6\end{bmatrix}}^{\top }={\begin{bmatrix}1&3&5\\2&4&6\end{bmatrix}}} }" align="center"/>
 
-### <ins>_Matrix Inverse_</ins> 
+### <ins>_Matrix Inverse_</ins>  <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;\mathbf&space;{I=&space;AA}^{-1}=\mathbf&space;{A}^{-1}\mathbf&space;{A}}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle \mathbf {I= AA}^{-1}=\mathbf {A}^{-1}\mathbf {A}}} " />
 
+The inverse of matrix is another matrix, which on multiplication with the given matrix gives the multiplicative identity. For a matrix **A**, its inverse is **A<sup>-1</sup>**, and **A** · **A<sup>-1</sup>** = **A<sup>-1</sup>**· **A = I**, where **I** is the identity matrix.
 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
