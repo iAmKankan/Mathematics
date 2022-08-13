@@ -1,7 +1,7 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 ### Linear Algebra
-#### [Linear Algebra Definition](d#what-is-linear-algebra)
+#### [The Definition](#what-is-linear-algebra)
 * [Scalar](#scaler)
 * [Vector](#vector)
 * [Difference between Scalar and Vector quantities](#difference-between-scalar-and-vector-quantities)
