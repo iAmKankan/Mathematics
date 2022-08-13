@@ -1,13 +1,14 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-### [_Linear Algebra_](#linear-algebra)
+### Linear Algebra
+#### [Linear Algebra Definition](d#what-is-linear-algebra)
 * [Scalar](#scaler)
 * [Vector](#vector)
 * [Difference between Scalar and Vector quantities](#difference-between-scalar-and-vector-quantities)
 * [Matrix](#matrix)
 * [Tensors](#tensors)
    * [Tensors Orders](#tensors-orders)
-#### [Basic Operations](#basic-operations)
+#### [Basic Operations of Linear algebra](#basic-operations)
 * [Addition, Broadcasting(a special type of addition)](#addition-and-broadcasting-of-matrix)
    *  [Normal Addition](#%EF%B8%8F-normal-addition-)
    *  [Broadcasting](#%EF%B8%8F-broadcasting-)
@@ -21,7 +22,7 @@
 
 ### [References](#references)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-## Linear Algebra
+## What is Linear Algebra?
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 Linear Algebra is a mathematical discipline that deals with **vectors** and **matrices** and, more generally, with **vector spaces** and **linear transformations**. 
 
