@@ -8,7 +8,7 @@
 * [Matrix](#matrix)
 * [Tensors](#tensors)
    * [Tensors Orders](#tensors-orders)
-#### [Basic Operations of Linear algebra](#basic-operations)
+#### [Basic Operations on Linear algebra](#basic-operations)
 * [Addition, Broadcasting(a special type of addition)](#addition-and-broadcasting-of-matrix)
    *  [Normal Addition](#%EF%B8%8F-normal-addition-)
    *  [Broadcasting](#%EF%B8%8F-broadcasting-)
