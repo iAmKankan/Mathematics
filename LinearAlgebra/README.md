@@ -199,9 +199,10 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 
 
 ### <ins>_Matrix Transpose_</ins> <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{B&space;=&space;A^\top&space;}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{B = A^\top }}" />
-<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{b}_{ij}=\textbf{a}_{ji}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{b}_{ij}=\textbf{a}_{ji}}" />
+<img src="https://user-images.githubusercontent.com/12748752/184492228-284b2153-2b32-469d-b9fa-7506f1656282.gif" align="right"  width=40%/>
 
-<img src="https://user-images.githubusercontent.com/12748752/184396146-ea23685c-7ca2-4fd5-a366-536f4848e4c3.gif" align="right"  width=40%/>
+
+<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{b}_{ij}=\textbf{a}_{ji}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{b}_{ij}=\textbf{a}_{ji}}" />
 
 The transpose of a matrix is an operator which flips a matrix over its diagonal; that is, it switches the **row** and **column** indices of the matrix **A** by producing another matrix, often denoted by **A<sup>T</sup>**.
 
@@ -212,8 +213,6 @@ The transpose of a matrix is an operator which flips a matrix over its diagonal;
 4. A _square complex_ matrix whose transpose is equal to the negation of its complex conjugate is called a **skew-Hermitian matrix**; that is, **A** is **skew-Hermitian** if <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;\mathbf&space;{A}&space;^{\operatorname&space;{T}&space;}={-\overline&space;{\mathbf&space;{A}&space;}}.}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle \mathbf {A} ^{\operatorname {T} }={-\overline {\mathbf {A} }}.} }" />
 5. A _square matrix_ whose transpose is equal to its inverse is called an **_orthogonal matrix_**; that is, **A** is **orthogonal** if <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;\mathbf&space;{A}&space;^{\operatorname&space;{T}&space;}=\mathbf&space;{A}&space;^{-1}.}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle \mathbf {A} ^{\operatorname {T} }=\mathbf {A} ^{-1}.} }" />
 6. A _square complex_ matrix whose transpose is equal to its conjugate inverse is called a **Unitary Matrix**; that is, **A** is **unitary** if <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;\mathbf&space;{A}&space;^{\operatorname&space;{T}&space;}={\overline&space;{\mathbf&space;{A}&space;^{-1}}}.}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle \mathbf {A} ^{\operatorname {T} }={\overline {\mathbf {A} ^{-1}}}.} }" />
-
-
 
 
 #### Example
