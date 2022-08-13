@@ -4,8 +4,9 @@
 #### [The Definition](#what-is-linear-algebra)
 * [Scalar](#scaler)
 * [Vector](#vector)
-* [Difference between Scalar and Vector quantities](#difference-between-scalar-and-vector-quantities)
+    * [Difference between Scalar and Vector quantities](#difference-between-scalar-and-vector-quantities)
 * [Matrix](#matrix)
+   * [Difference between Vector and Matrix](#difference-between-vector-and-matrix)
 * [Tensors](#tensors)
    * [Tensors Orders](#tensors-orders)
 #### [Basic Operations on Linear algebra](#basic-operations)
@@ -85,7 +86,7 @@ In **Machine Learning**, matrix is a **2-D array** of numbers. In Computer Scien
 #### Example #1
 * Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{W}=\mathbb{R}^{m\times&space;n}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{W}=\mathbb{R}^{m\times n}}" />, be the matrix of weight.
 
-### Difference between Vector and Matrix -
+### Difference between Vector and Matrix
 *  A **matrix** is a rectangular array of numbers while a **vector** is a list of number. 
 *  Vector have one index, matrix having two index.
 
