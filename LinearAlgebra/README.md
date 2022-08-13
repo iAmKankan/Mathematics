@@ -201,13 +201,28 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 ### <ins>_Matrix Transpose_</ins> <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{B&space;=&space;A^\top&space;}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{B = A^\top }}" />
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{b}_{ij}=\textbf{a}_{ji}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{b}_{ij}=\textbf{a}_{ji}}" />
 
+<img src="https://user-images.githubusercontent.com/12748752/184396146-ea23685c-7ca2-4fd5-a366-536f4848e4c3.gif" align="right"  width=40%/>
 
-<img src="https://user-images.githubusercontent.com/12748752/184396146-ea23685c-7ca2-4fd5-a366-536f4848e4c3.gif" width=50% align="right"/>
+The transpose of a matrix is an operator which flips a matrix over its diagonal; that is, it switches the **row** and **column** indices of the matrix **A** by producing another matrix, often denoted by **A<sup>T</sup>**.
+
+#### Matrix definitions involving transposition
+1. A _square matrix_ whose transpose is equal to itself is called a **Symmetric Matrix**; that is, **A** is **symmetric** if <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;\mathbf&space;{A}&space;^{\operatorname&space;{T}&space;}=\mathbf&space;{A}&space;.&space;}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle \mathbf {A} ^{\operatorname {T} }=\mathbf {A} . } }" />. 
+2. A _square matrix_ whose transpose is equal to its negative is called a **Skew-Symmetric matrix**; that is, **A** is **skew-symmetric** if <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;\mathbf&space;{A}&space;^{\operatorname&space;{T}&space;}=\mathbf&space;{-A}&space;.&space;}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle \mathbf {A} ^{\operatorname {T} }=\mathbf {-A} . } }" />
+3. A _Square complex matrix_ whose transpose is equal to the matrix with every entry replaced by its complex conjugate (denoted here with an overline) is called a **Hermitian matrix** (_equivalent to the matrix being equal to its conjugate transpose_); that is, **A** is **Hermitian** if <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;\mathbf&space;{A}&space;^{\operatorname&space;{T}&space;}={\overline&space;{\mathbf&space;{A}&space;}}.}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle \mathbf {A} ^{\operatorname {T} }={\overline {\mathbf {A} }}.} }" />
+4. A _square complex_ matrix whose transpose is equal to the negation of its complex conjugate is called a **skew-Hermitian matrix**; that is, **A** is **skew-Hermitian** if <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;\mathbf&space;{A}&space;^{\operatorname&space;{T}&space;}={-\overline&space;{\mathbf&space;{A}&space;}}.}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle \mathbf {A} ^{\operatorname {T} }={-\overline {\mathbf {A} }}.} }" />
+5. A _square matrix_ whose transpose is equal to its inverse is called an **_orthogonal matrix_**; that is, **A** is **orthogonal** if <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;\mathbf&space;{A}&space;^{\operatorname&space;{T}&space;}=\mathbf&space;{A}&space;^{-1}.}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle \mathbf {A} ^{\operatorname {T} }=\mathbf {A} ^{-1}.} }" />
+6. A _square complex_ matrix whose transpose is equal to its conjugate inverse is called a **Unitary Matrix**; that is, **A** is **unitary** if <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;\mathbf&space;{A}&space;^{\operatorname&space;{T}&space;}={\overline&space;{\mathbf&space;{A}&space;^{-1}}}.}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle \mathbf {A} ^{\operatorname {T} }={\overline {\mathbf {A} ^{-1}}}.} }" />
+
+
+
 
 #### Example
 1) <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{{\displaystyle&space;{\begin{bmatrix}1&2\end{bmatrix}}^{\top&space;}=\,{\begin{bmatrix}1&space;\\2\end{bmatrix}}}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{{\displaystyle {\begin{bmatrix}1&2\end{bmatrix}}^{\top }=\,{\begin{bmatrix}1 \\2\end{bmatrix}}}}}" align="center" />
 2) <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;{\begin{bmatrix}1&2\\3&4\end{bmatrix}}^{\top&space;}={\begin{bmatrix}1&3\\2&4\end{bmatrix}}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle {\begin{bmatrix}1&2\\3&4\end{bmatrix}}^{\top }={\begin{bmatrix}1&3\\2&4\end{bmatrix}}}}" align="center"/>
 3) <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\displaystyle&space;{\begin{bmatrix}1&2\\3&4\\5&6\end{bmatrix}}^{\top&space;}={\begin{bmatrix}1&3&5\\2&4&6\end{bmatrix}}}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\displaystyle {\begin{bmatrix}1&2\\3&4\\5&6\end{bmatrix}}^{\top }={\begin{bmatrix}1&3&5\\2&4&6\end{bmatrix}}} }" align="center"/>
+
+### <ins>_Matrix Inverse_</ins> 
+
 
 
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
