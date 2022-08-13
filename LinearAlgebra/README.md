@@ -1,17 +1,18 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 ### [_Linear Algebra_](#linear-algebra)
-   * [Scalar](#scaler)
-   * [Vector](#vector)
-   * [Difference between Scalar and Vector quantities](#difference-between-scalar-and-vector-quantities)
-   * [Length, Dimensionality and Shape](#length-dimensionality-and-shape)
-   * [Matrix](#matrix)
-      * [Properties of Matrix]()
-   * [Tensors](#tensors)
-* [Geometry of Vectors](#geometry-of-vectors)
-   * [Dot Products and Angles](#dot-products-and-angles)
-   * [Cosine Similarity](#cosine-similarity)
-   
+* [Scalar](#scaler)
+* [Vector](#vector)
+* [Difference between Scalar and Vector quantities](#difference-between-scalar-and-vector-quantities)
+* [Matrix](#matrix)
+* [Tensors](#tensors)
+
+* [Cosine Similarity](#cosine-similarity)
+
+### [References](#references)
+
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+
 ## Linear Algebra
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 Linear Algebra is a mathematical discipline that deals with **vectors** and **matrices** and, more generally, with **vector spaces** and **linear transformations**. 
@@ -245,7 +246,7 @@ Some of the non-diagonal terms, it calls **positive** and some of them it calls 
 > * A value of  0  when the two vectors are orthogonal.( _We say that 2 vectors are orthogonal if they are perpendicular to each other. i.e. the dot product of the two vectors is zero_).
 *  Note that if the components of high-dimensional vectors are sampled randomly with mean  0 , their cosine will nearly always be close to  0 .
 
-## References:
+## References
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 * [NPTEL(NOC:Machine Learning for Engineering and Science Applications, IIT Madras Prof. Balaji Srinivasan, Prof. Ganapathy)](https://nptel.ac.in/courses/106106198)
 
