@@ -28,6 +28,6 @@ The length of the vector **v=[3, 4]** is **5**
    * That is how "big" the difference between two tensors is 
    * i.e. How close is one image to another?
 #### Example #1
-<img src="https://user-images.githubusercontent.com/12748752/184551532-9895abf9-cbe4-4576-bc83-7b3d527ac981.png" width=20%/>
+<img src="https://user-images.githubusercontent.com/12748752/184551915-eee5194c-45bb-4443-b0ae-6aa95db7d8ac.png" width=20%/>
 
 * So, the difference between two vector is another vector(as we already know) here <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\Delta&space;\textbf{v}=&space;\textbf{v}_1-\textbf{v}_2}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\Delta \textbf{v}= \textbf{v}_1-\textbf{v}_2}" align="center"/>
