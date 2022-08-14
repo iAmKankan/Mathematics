@@ -4,6 +4,8 @@
 
 
 ## Norms in ML
+**_A simple vector that we are trying to findout its length._**
+
 The basic reason why machine learning and many other fields use norms is because we usually use **vectors** or **matrices** as our **basic units of representation**. In fact anything that goes our input or output is usually measured by **vectors** and **matrices**. Norm is the _generalization_ of the notion of **_length_** to **vectors**, **matrices** and **tensors**
 
 #### There are two basic reasons that we use norms in Machine Learning-
@@ -17,6 +19,9 @@ The basic reason why machine learning and many other fields use norms is because
  
  #### Example #1
 <img src="https://user-images.githubusercontent.com/12748752/184543636-a6340663-4c85-4fbc-b85b-4c0767702553.png" width=20%/>
+
+* The usual notion of length of a norm is denoted by **parallel** or **double bar** or  **||x||** sign, just like for scalar we use **|&alpha;|** for absolute values.
+
 
 <b>2. <ins><i>To estimate how close one tensor is to another(Proximity)</i></ins></b>**:** 
    * That is how "big" the difference between two tensors is 
