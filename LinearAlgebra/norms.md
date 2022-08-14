@@ -45,3 +45,15 @@ Mathemetically norms is any function _f_ that satisfies
 3. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\forall&space;\alpha&space;\in&space;\mathbb{R},}\&space;\&space;f\mathbf{(\alpha&space;v)}=|\alpha|&space;f\mathbf{(v)}&space;\textrm{,&space;(Linearity)}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\forall \alpha \in \mathbb{R},}\ \ f\mathbf{(\alpha v)}=|\alpha| f\mathbf{(v)} \textrm{, (Linearity)}}" align="center" />. If we increase the length of the vector, suppose increase both coordinate by the factor of e.g **2** (here **&alpha;**) then its norms should be increase by the factor of **2** (here **&alpha;**)
 <img src="https://user-images.githubusercontent.com/12748752/184554702-8449c6cf-ce3a-4765-bd3c-fd5d088cc0b7.png" width=25%/>
 
+#### From above three rules we can derive other formulas like- 
+* <img src="https://latex.codecogs.com/svg.image?{\color{Purple}f(\overrightarrow{\mathbf{v}})&space;\mathbf{\rightarrow&space;Scaler(&plus;ve)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}f(\overrightarrow{\mathbf{v}}) \mathbf{\rightarrow Scaler(+ve)}" align="center"/>
+ 
+ ### Vector Norms
+**Suppose we have a vector**  
+ <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\overrightarrow{\mathbf{v}}&space;=&space;\begin{bmatrix}\mathbf{-5}&space;\\\mathbf{3}\\\mathbf{2}\\\end{bmatrix}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple}\overrightarrow{\mathbf{v}} = \begin{bmatrix}\mathbf{-5} \\\mathbf{3}\\\mathbf{2}\\\end{bmatrix}} " align="center"/>, severel norms can be used on this simple vector such as the following-
+ 
+ 1. **Euclidean Norm** or **Pythagorean Norm:** <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel&space;v&space;\parallel_2}&space;=&space;(\mathbf{v_1^2}&space;&plus;&space;\mathbf{v_2^2}&space;&plus;&space;\mathbf{v_2^2}&space;&plus;&space;\cdots&space;&plus;\mathbf{v_n^2}&space;)^{\mathbf{\frac{1}{2}}&space;}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel v \parallel_2} = (\mathbf{v_1^2} + \mathbf{v_2^2} + \mathbf{v_2^2} + \cdots +\mathbf{v_n^2} )^{\mathbf{\frac{1}{2}} } }" align="center"/> 
+
+ 
+ 
+ 
