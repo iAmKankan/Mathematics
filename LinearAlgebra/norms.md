@@ -34,3 +34,14 @@ The length of the vector **v=[3, 4]** is **5**
 
   <img src="https://latex.codecogs.com/svg.image?\\{\color{Purple}\Delta&space;\textbf{v}=&space;\textbf{v}_1-\textbf{v}_2&space;}\\{\color{Purple}\parallel\Delta&space;\textbf{v}\parallel=&space;\parallel\textbf{v}_1-\textbf{v}_2&space;\parallel}&space;" title="https://latex.codecogs.com/svg.image?\\{\color{Purple}\Delta \textbf{v}= \textbf{v}_1-\textbf{v}_2 }\\{\color{Purple}\parallel\Delta \textbf{v}\parallel= \parallel\textbf{v}_1-\textbf{v}_2 \parallel} " />
 
+### Definition of Norms
+Norms is a way of measuring the length of a Vector or Metrices etc
+
+Mathemetically norms is any function _f_ that satisfies
+1. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}f(\textbf{x})=0&space;\Rightarrow&space;\textbf{x}=0}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple}f(\textbf{x})=0 \Rightarrow \textbf{x}=0} " align="center"/> - If the vector is **0** (**x=0**) then its length (or norm) is **0** [ At the origin of the **x,y** coordinate].
+2. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}f\mathbf{(v_1&plus;v_2)}\leq&space;f\mathbf{(v_1)}&plus;f\mathbf{(v_2)}&space;\textrm{,&space;(Triangle&space;Inequality)}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple}f\mathbf{(v_1+v_2)}\leq f\mathbf{(v_1)}+f\mathbf{(v_2)} \textrm{, (Triangle Inequality)}} " align="center"/>. Now what the **triangle inequality rule** for the **norm** says is that the length of _f_(x + y) has to be always less that the length of _f_(x) plus the length of _f_(y) , we know this from the **normal triangle inequality**, the length of two sides is always going to be larger than the length of the third side, **the sum of two sides** is always going to be **larger than the third side** that is because the shortest distance between any two points is a straight line.
+<img src="https://user-images.githubusercontent.com/12748752/184553296-168a93e1-ebb9-487a-8caa-37a551ca7088.png" width=20%/>
+
+3. <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\forall&space;\alpha&space;\in&space;\mathbb{R},}\&space;\&space;f\mathbf{(\alpha&space;v)}=|\alpha|&space;f\mathbf{(v)}&space;\textrm{,&space;(Linearity)}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\forall \alpha \in \mathbb{R},}\ \ f\mathbf{(\alpha v)}=|\alpha| f\mathbf{(v)} \textrm{, (Linearity)}}" align="center" />. If we increase the length of the vector, suppose increase both coordinate by the factor of let say 2 (here **&alpha;**) then its norms should be increase by the factor of 2 (here **&alpha;**)
+<img src="https://user-images.githubusercontent.com/12748752/184554702-8449c6cf-ce3a-4765-bd3c-fd5d088cc0b7.png" width="25%/>
+
