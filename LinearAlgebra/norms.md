@@ -52,12 +52,21 @@ Mathemetically norms is any function _f_ that satisfies
 **Suppose we have a vector**  
  <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\overrightarrow{\mathbf{v}}&space;=&space;\begin{bmatrix}\mathbf{-5}&space;\\\mathbf{3}\\\mathbf{2}\\\end{bmatrix}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple}\overrightarrow{\mathbf{v}} = \begin{bmatrix}\mathbf{-5} \\\mathbf{3}\\\mathbf{2}\\\end{bmatrix}} " align="center"/>, severel norms can be used on this simple vector such as the following-
  
-### 1. **_Euclidean Norm_** or **_Pythagorean Norm_** or **_2- Norm_** or **_L_<sup>2</sup>** 
+### 1. _Euclidean Norm_ or _Pythagorean Norm_ or _2-Norm_ or _L<sup>2</sup>_
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel&space;v&space;\parallel_2}&space;=&space;(\mathbf{v_1^2}&space;&plus;&space;\mathbf{v_2^2}&space;&plus;&space;\mathbf{v_2^2}&space;&plus;&space;\cdots&space;&plus;\mathbf{v_n^2}&space;)^{\mathbf{\frac{1}{2}}&space;}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel v \parallel_2} = (\mathbf{v_1^2} + \mathbf{v_2^2} + \mathbf{v_2^2} + \cdots +\mathbf{v_n^2} )^{\mathbf{\frac{1}{2}} } }" align="center"/> 
 
   * The result would be <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\parallel&space;\overrightarrow{\mathbf{v}}&space;\parallel&space;=&space;\sqrt{\mathbf{5^2&plus;3^2&plus;2^2}}&space;\\&space;\approx&space;6.16}" title="https://latex.codecogs.com/svg.image?{\color{Purple} \parallel \overrightarrow{\mathbf{v}} \parallel = \sqrt{\mathbf{5^2+3^2+2^2}} \\ \approx 6.16}" align="center"/>
 
+### 2. _Manhattan Norm_ or _1-norm_ or  _L<sup>1</sup>_ 
+<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel&space;v&space;\parallel_1}&space;=&space;(\mathbf{|v_1|}&space;&plus;&space;\mathbf{|v_2|}&space;&plus;&space;\mathbf{|v_2|}&space;&plus;&space;\cdots&space;&plus;\mathbf{|v_n|}&space;)&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel v \parallel_1} = (\mathbf{|v_1|} + \mathbf{|v_2|} + \mathbf{|v_2|} + \cdots +\mathbf{|v_n|} ) }" />
 
+* The result would be <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{|5|&plus;|3|&plus;|2|=10}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{|5|+|3|+|2|=10} }" align="center"/>
+
+### 3. By generelizing _L<sup>2</sup>_ and _L<sup>1</sup>_ norms we get **p-Norms**
+<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel&space;v&space;\parallel_p}&space;=&space;(\mathbf{|v_1|^p}&space;&plus;&space;\mathbf{|v_2|^p}&space;&plus;&space;\mathbf{|v_2|^p}&space;&plus;&space;\cdots&space;&plus;\mathbf{|v_n|^p}&space;)^{\mathbf{\frac{1}{p}}&space;}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel v \parallel_p} = (\mathbf{|v_1|^p} + \mathbf{|v_2|^p} + \mathbf{|v_2|^p} + \cdots +\mathbf{|v_n|^p} )^{\mathbf{\frac{1}{p}} } }" />
+
+* Provided <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{p&space;\geq&space;1&space;}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{p \geq 1 } }" />
  
- 
+ ### 4. &infin;-Norm or Max-Norm
+ <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel&space;v&space;\parallel_{\infty}}&space;=&space;max(\mathbf{|v_1|}&space;&plus;&space;\mathbf{|v_2|}&space;&plus;&space;\mathbf{|v_2|}&space;&plus;&space;\cdots&space;&plus;\mathbf{|v_n|}&space;)&space;}&space;&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel v \parallel_{\infty}} = max(\mathbf{|v_1|} + \mathbf{|v_2|} + \mathbf{|v_2|} + \cdots +\mathbf{|v_n|} ) } " />
  
