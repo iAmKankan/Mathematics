@@ -17,13 +17,16 @@ The basic reason why machine learning and many other fields use norms is because
 
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{Norms&space;is&space;to&space;map&space;from&space;a&space;\underline{Vector}&space;or&space;\underline{Tensor}&space;to&space;a&space;\underline{Scaler}(&plus;ve)&space;value}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{Norms is to map from a \underline{Vector} or \underline{Tensor} to a \underline{Scaler}(+ve) value}}" align="center" />
  
+* The usual notion of length of a norm is denoted by **parallel** or **double bar** or  **||x||** sign, just like for scalar we use **|&alpha;|** for absolute values.
+
  #### Example #1
 <img src="https://user-images.githubusercontent.com/12748752/184543636-a6340663-4c85-4fbc-b85b-4c0767702553.png" width=20%/>
 
-* The usual notion of length of a norm is denoted by **parallel** or **double bar** or  **||x||** sign, just like for scalar we use **|&alpha;|** for absolute values.
-
+The length of the vector **v=[3, 4]** is **5**
 
 <b>2. <ins><i>To estimate how close one tensor is to another(Proximity)</i></ins></b>**:** 
    * That is how "big" the difference between two tensors is 
-   * **Example**: How close is one image to another?
-
+   * i.e. How close is one image to another?
+#### Example #1
+<img src="https://user-images.githubusercontent.com/12748752/184551076-1a0465bf-cede-4fa8-b494-22bffd2980fd.png" width=20%/>
+* So, the difference between two vector is another vector(as we already know) here <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\Delta&space;\textbf{v}=&space;\textbf{v}_1-\textbf{v}_2}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\Delta \textbf{v}= \textbf{v}_1-\textbf{v}_2}" align="center"/>
