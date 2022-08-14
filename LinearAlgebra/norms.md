@@ -30,4 +30,7 @@ The length of the vector **v=[3, 4]** is **5**
 #### Example #1
 <img src="https://user-images.githubusercontent.com/12748752/184551915-eee5194c-45bb-4443-b0ae-6aa95db7d8ac.png" width=20%/>
 
-* So, the difference between two vector is another vector(as we already know) here <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\Delta&space;\textbf{v}=&space;\textbf{v}_1-\textbf{v}_2}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\Delta \textbf{v}= \textbf{v}_1-\textbf{v}_2}" align="center"/>
+* So, the difference between two vector is another vector(as we already know) here 
+
+  <img src="https://latex.codecogs.com/svg.image?\\{\color{Purple}\Delta&space;\textbf{v}=&space;\textbf{v}_1-\textbf{v}_2&space;}\\{\color{Purple}\parallel\Delta&space;\textbf{v}\parallel=&space;\parallel\textbf{v}_1-\textbf{v}_2&space;\parallel}&space;" title="https://latex.codecogs.com/svg.image?\\{\color{Purple}\Delta \textbf{v}= \textbf{v}_1-\textbf{v}_2 }\\{\color{Purple}\parallel\Delta \textbf{v}\parallel= \parallel\textbf{v}_1-\textbf{v}_2 \parallel} " />
+
