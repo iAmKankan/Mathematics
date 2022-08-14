@@ -20,7 +20,7 @@ The basic reason why machine learning and many other fields use norms is because
 * The usual notion of length of a norm is denoted by **parallel** or **double bar** or  **||x||** sign, just like for scalar we use **|&alpha;|** for absolute values.
 
  #### Example #1
-<img src="https://user-images.githubusercontent.com/12748752/184543636-a6340663-4c85-4fbc-b85b-4c0767702553.png" width=20%/>
+<img src="https://user-images.githubusercontent.com/12748752/184551530-c001d8d0-da77-49a9-b829-ae2bb145e9e5.png" width=20%/>
 
 The length of the vector **v=[3, 4]** is **5**
 
@@ -28,5 +28,6 @@ The length of the vector **v=[3, 4]** is **5**
    * That is how "big" the difference between two tensors is 
    * i.e. How close is one image to another?
 #### Example #1
-<img src="https://user-images.githubusercontent.com/12748752/184551076-1a0465bf-cede-4fa8-b494-22bffd2980fd.png" width=20%/>
+<img src="https://user-images.githubusercontent.com/12748752/184551532-9895abf9-cbe4-4576-bc83-7b3d527ac981.png" width=20%/>
+
 * So, the difference between two vector is another vector(as we already know) here <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\Delta&space;\textbf{v}=&space;\textbf{v}_1-\textbf{v}_2}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\Delta \textbf{v}= \textbf{v}_1-\textbf{v}_2}" align="center"/>
