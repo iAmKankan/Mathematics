@@ -17,4 +17,10 @@ A linear combination of the set of vectors <img src="https://latex.codecogs.com/
 
 #### Note: <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{v_{3}=&space;[v_{1}&space;&space;v_{2}]\begin{bmatrix}1&space;\\&space;2&space;\end{bmatrix}&space;=&space;\begin{bmatrix}1&space;&&space;2&space;\\2&space;&&space;0\\3&3\end{bmatrix}\begin{bmatrix}1&space;\\&space;2&space;\end{bmatrix}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{v_{3}= [v_{1} v_{2}]\begin{bmatrix}1 \\ 2 \end{bmatrix} = \begin{bmatrix}1 & 2 \\2 & 0\\3&3\end{bmatrix}\begin{bmatrix}1 \\ 2 \end{bmatrix}}" align="center"/>
 
-> Matrix multiplications can be interpreted in terms of linear combinations of columns
+#### Matrix multiplications can be interpreted in terms of linear combinations of columns
+
+* <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{v&space;=}\begin{bmatrix}1&space;&&space;2&space;\\2&space;&&space;0\\3&3\\\end{bmatrix}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{v =}\begin{bmatrix}1 & 2 \\2 & 0\\3&3\\\end{bmatrix} }" align="center"/>
+* <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A&space;=}\begin{bmatrix}1&space;&&space;3&space;\\2&space;&&space;4\end{bmatrix}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A =}\begin{bmatrix}1 & 3 \\2 & 4\end{bmatrix} }" align="center"/>
+* If **V * A** 
+<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{V&space;*&space;A&space;=}\begin{bmatrix}5&space;&&space;11&space;\\2&space;&&space;6\\9&space;&&space;21\end{bmatrix}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{V * A =}\begin{bmatrix}5 & 11 \\2 & 6\\9 & 21\end{bmatrix} }" />
+
