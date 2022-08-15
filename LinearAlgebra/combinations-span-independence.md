@@ -15,6 +15,7 @@ A linear combination of the set of vectors <img src="https://latex.codecogs.com/
 
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{v_{3}=&space;v_{1}&space;&plus;&space;2v_{2}=&space;\begin{bmatrix}5&space;\\2&space;\\9\end{bmatrix}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{v_{3}= v_{1} + 2v_{2}= \begin{bmatrix}5 \\2 \\9\end{bmatrix}}" align="center"/>
 
+#### Note: <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{v_{3}=&space;[v_{1}&space;&space;v_{2}]\begin{bmatrix}1&space;\\&space;2&space;\end{bmatrix}&space;=&space;\begin{bmatrix}1&space;&&space;2&space;\\2&space;&&space;0\\3&3\end{bmatrix}\begin{bmatrix}1&space;\\&space;2&space;\end{bmatrix}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{v_{3}= [v_{1} v_{2}]\begin{bmatrix}1 \\ 2 \end{bmatrix} = \begin{bmatrix}1 & 2 \\2 & 0\\3&3\end{bmatrix}\begin{bmatrix}1 \\ 2 \end{bmatrix}}" align="center"/>
 
 Matrix multiplications can be interpreted in terms of linear combinations of columns
 
