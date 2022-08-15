@@ -40,9 +40,6 @@
 
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
-## Math Symbols cheat sheet
-<img src="https://user-images.githubusercontent.com/12748752/183649932-b355ad33-b234-4ea2-a78e-76454fc8e2a2.png" aligh="top" width=50%/> <img src="https://user-images.githubusercontent.com/12748752/183649921-58ab92ee-a5ab-4169-9f53-d5f92c9f75fd.png" aligh="top" width=50%/> 
-
 ### Multivariate Calculus
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
