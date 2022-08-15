@@ -87,3 +87,7 @@ In Machine Learning the most common norm that we use is what is called the **Fro
 * Suppose we have a matrix  <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A}&space;=&space;\begin{bmatrix}1&space;&&space;2&space;\\2&space;&&space;0&space;\\\end{bmatrix}}&space;&space;&space;&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A} = \begin{bmatrix}1 & 2 \\2 & 0 \\\end{bmatrix}} " align="center"/>
 
 * <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{\parallel&space;A\parallel_F}&space;=&space;\sqrt{1^2&plus;2^2&plus;2^2&plus;0^2}=\sqrt{9}=3}&space;&space;&space;&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{\parallel A\parallel_F} = \sqrt{1^2+2^2+2^2+0^2}=\sqrt{9}=3} " />
+
+## Uses of Norms
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+* One of the main uses that we use in Machine Learning is using **iterative procedure** for a **vector**, suppose you are trying to find out some **particular parameter vector** or **some particular image** and you are trying to go slowly go there through an iterative process your initial guess is bad and you are slowly getting there, you want to find out how close each guess is to the final guess and one of those ways to find out is as we saw earlier find out the difference between the two and take there norm.
