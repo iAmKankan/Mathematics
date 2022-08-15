@@ -21,7 +21,7 @@
 * [Matrix Inverse](#matrix-inverse--)
 
 #### [Cosine Similarity](#cosine-similarity)
-
+### [_Norms_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/norms.md)
 ### [References](#references)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 ## What is Linear Algebra?
