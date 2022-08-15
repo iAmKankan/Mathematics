@@ -90,4 +90,7 @@ In Machine Learning the most common norm that we use is what is called the **Fro
 
 ## Uses of Norms
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-* One of the main uses that we use in Machine Learning is using **iterative procedure** for a **vector**, suppose you are trying to find out some **particular parameter vector** or **some particular image** and you are trying to go slowly go there through an iterative process your initial guess is bad and you are slowly getting there, you want to find out how close each guess is to the final guess and one of those ways to find out is as we saw earlier find out the difference between the two and take there norm.
+* One of the main uses that we use in Machine Learning is using **iterative procedure** for a **vector**, suppose you are trying to find out some **particular parameter vector** or **some particular image** and you are trying to go slowly go there through an iterative process your initial guess is bad and you are slowly getting there, you want to find out how close each guess is to the final guess and one of those ways to find out is as we saw earlier find out the difference between the two and take there norm. 
+The norm is generally used to evaluate the error of the model.
+
+For instance, it is used to calculate the error between the output of a Neural network and what is expected(the actual value or label) or can be used in defining a regularization term which includes the magnitude of the weights, to encourage small weights.
