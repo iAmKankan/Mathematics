@@ -7,7 +7,7 @@
 * Cosine Similarity
 ---
 * [Eigendecompositions](https://github.com/iAmKankan/Mathematics/blob/main/eigendecompositions.md)
-* [Series]()
+* Series
    * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/formula.md#maclaurin-series)
 
 * [Calculus](#what-is-calculus)
@@ -40,7 +40,7 @@
   
 * [Norm](https://github.com/iAmKankan/Mathematics/tree/main/analytic-geometry#norms)
 
-### [_Symbols_](https://github.com/iAmKankan/Mathematics/blob/main/symbols.md)
+### [_Mathematical Symbols_](https://github.com/iAmKankan/Mathematics/blob/main/symbols.md)
 
 ## [References](#references)
 
