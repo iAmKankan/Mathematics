@@ -1,7 +1,6 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-### Linear Algebra
-[**_The Definition_**](#what-is-linear-algebra)
+### [_Linear Algebra_](#what-is-linear-algebra)
 * [Scalar](#scaler)
 * [Vector](#vector)
     * [Difference between Scalar and Vector quantities](#difference-between-scalar-and-vector-quantities)
@@ -9,8 +8,7 @@
    * [Difference between Vector and Matrix](#difference-between-vector-and-matrix)
 * [Tensors](#tensors)
    * [Tensors Orders](#tensors-orders)
----   
-[**_Basic Operations on Linear algebra_**](#basic-operations)
+### [_Basic Operations on Linear algebra_](#basic-operations)
 * [Addition, Broadcasting(a special type of addition)](#addition-and-broadcasting-of-matrix)
    *  [Normal Addition](#%EF%B8%8F-normal-addition-)
    *  [Broadcasting](#%EF%B8%8F-broadcasting-)
@@ -20,13 +18,10 @@
    * [Hadamard Product(Elimentwise Multiplication)](#%EF%B8%8F-hadamard-product-elimentwise-multiplication-) 
 * [Matrix Transpose](#matrix-transpose-)
 * [Matrix Inverse](#matrix-inverse--)
----
-[**_Norms_**](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/norms.md)
-
-
+### [_Norms_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/norms.md)
 [**Cosine Similarity**](#cosine-similarity)
 
-### [References](#references)
+### [_References_](#references)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 ## What is Linear Algebra?
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
