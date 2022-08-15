@@ -1,6 +1,7 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-### [_Linear Algebra_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/README.md)
+### _Linear Algebra_
+* Scalar, Vector, Matrix and Tensors
 * [_Basic Operations on Linear algebra_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/basic-operations.md)
 * [_Norms_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/norms.md)
 * [Linear Combinations, Span, Linear Independence](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/combinations-span-independence.md)
