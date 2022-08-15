@@ -1,17 +1,17 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 ### _Linear Algebra_
-* Scalar, Vector, Matrix and Tensors
+* [Scalar, Vector, Matrix and Tensors](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/README.md)
 * [_Basic Operations on Linear algebra_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/basic-operations.md)
 * [_Norms_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/norms.md)
 * [Linear Combinations, Span, Linear Independence](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/combinations-span-independence.md)
-* Cosine Similarity
----
-* [Eigendecompositions](https://github.com/iAmKankan/Mathematics/blob/main/eigendecompositions.md)
-* Series
+* [Cosine Similarity](https://github.com/iAmKankan/Mathematics/edit/main/LinearAlgebra/README.md#cosine-similarity)
+
+### [_Eigendecompositions_](https://github.com/iAmKankan/Mathematics/blob/main/eigendecompositions.md)
+### _Series_
    * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/formula.md#maclaurin-series)
 
-* [Calculus](#what-is-calculus)
+#### [_Calculus_](#what-is-calculus)
    * [Differential calculus](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
      * [Derivatives and Differentiation](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
      * [Partial Derivatives](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
@@ -22,11 +22,9 @@
      * [Maxima Minima](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
      * [Gradient](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
    * [Newton-Raphson Method]
-
-* Probability
-* [Statistics](https://github.com/iAmKankan/Statistics)
-
-* [Trigonometry](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
+### Probability
+### [_Statistics_](https://github.com/iAmKankan/Statistics)
+### [_Trigonometry_](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
    * [Trigonometric functions](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
      * [Sin Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
      * [Cos or Cosin Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
@@ -36,13 +34,8 @@
      * [Cot Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
   * [Pythagorus Theorem](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
   * [Eucledian Distance](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
-  
-* [Logarithm](https://github.com/iAmKankan/Mathematics/blob/main/logarithm.md)
-  
-* [Norm](https://github.com/iAmKankan/Mathematics/tree/main/analytic-geometry#norms)
-
+### [_Logarithm_](https://github.com/iAmKankan/Mathematics/blob/main/logarithm.md)
 ### [_Mathematical Symbols_](https://github.com/iAmKankan/Mathematics/blob/main/symbols.md)
-
 ## [References](#references)
 
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
