@@ -1,5 +1,4 @@
 ## Index
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
 
@@ -49,6 +48,7 @@ Mathemetically norms is any function _f_ that satisfies
 * <img src="https://latex.codecogs.com/svg.image?{\color{Purple}f(\overrightarrow{\mathbf{v}})&space;\mathbf{\rightarrow&space;Scaler(&plus;ve)}" title="https://latex.codecogs.com/svg.image?{\color{Purple}f(\overrightarrow{\mathbf{v}}) \mathbf{\rightarrow Scaler(+ve)}" align="center"/>
  
  ### Vector Norms
+ ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 **Suppose we have a vector**  
  <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\overrightarrow{\mathbf{v}}&space;=&space;\begin{bmatrix}\mathbf{-5}&space;\\\mathbf{3}\\\mathbf{2}\\\end{bmatrix}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple}\overrightarrow{\mathbf{v}} = \begin{bmatrix}\mathbf{-5} \\\mathbf{3}\\\mathbf{2}\\\end{bmatrix}} " align="center"/>, severel norms can be used on this simple vector such as the following-
  
@@ -71,3 +71,19 @@ Mathemetically norms is any function _f_ that satisfies
  <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel&space;v&space;\parallel_{\infty}}&space;=&space;max(\mathbf{|v_1|}&space;,&space;\mathbf{|v_2|}&space;,&space;\mathbf{|v_2|}&space;,&space;\cdots&space;,\mathbf{|v_n|}&space;)&space;}&space;&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel v \parallel_{\infty}} = max(\mathbf{|v_1|} , \mathbf{|v_2|} , \mathbf{|v_2|} , \cdots ,\mathbf{|v_n|} ) } " />
  
  * In our problem it would be <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel&space;v\parallel_\infty=&space;max(|5|,\&space;|3|,\&space;|2|)}&space;=&space;5}&space;&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel v\parallel_\infty= max(|5|,\ |3|,\ |2|)} = 5} " align="center"/>
+
+### Metrices Norms
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+The idea of Norms for vector, Merices or tensor are the same. 
+
+In Machine Learning the most common norm that we use is what is called the **Frobenius norm**.
+
+### _Frobenius Norm_
+<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_F&space;=\left&space;(\sum_{i,&space;j}A_{i,j}^2\right&space;)^{\frac{1}{2}}}}&space;&space;&space;&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_F =\left (\sum_{i, j}A_{i,j}^2\right )^{\frac{1}{2}}}} " />
+
+*  It is similar to  _Euclidean Norm_ or _L<sup>2</sup>_ but <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel&space;A\parallel_F&space;\&space;\neq&space;\&space;\parallel&space;A\parallel_2}}&space;&space;&space;&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel A\parallel_F \ \neq \ \parallel A\parallel_2}} " align="center"/>
+
+#### Example:
+* Suppose we have a matrix  <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A}&space;=&space;\begin{bmatrix}1&space;&&space;2&space;\\2&space;&&space;0&space;\\\end{bmatrix}}&space;&space;&space;&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A} = \begin{bmatrix}1 & 2 \\2 & 0 \\\end{bmatrix}} " align="center"/>
+
+* <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{\parallel&space;A\parallel_F}&space;=&space;\sqrt{1^2&plus;2^2&plus;2^2&plus;0^2}=\sqrt{9}=3}&space;&space;&space;&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{\parallel A\parallel_F} = \sqrt{1^2+2^2+2^2+0^2}=\sqrt{9}=3} " />
