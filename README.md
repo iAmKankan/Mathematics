@@ -11,7 +11,7 @@
 ### _Series_
    * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/formula.md#maclaurin-series)
 
-#### [_Calculus_](#what-is-calculus)
+### _Calculus_
    * [Differential calculus](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
      * [Derivatives and Differentiation](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
      * [Partial Derivatives](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
