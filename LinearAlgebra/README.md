@@ -184,7 +184,7 @@ Suppose we have a matrix <img src="https://latex.codecogs.com/svg.image?{\color{
 * Hadamard Product has several advantages, linear algebra wise it turns out that more often they use in deep learning and in machine learning, we see this kind of elementwise multiplication.
 
 #### Usage 
-* Hadamard product is used in image compression techniques such as JPEG. It is also known as Schur product( the result of Hadamard Product or **A &odot B** = **C**, here **C** is the Schur product)
+* Hadamard product is used in image compression techniques such as JPEG. It is also known as Schur product( the result of Hadamard Product or **A &odot; B** = **C**, here **C** is the Schur product)
 * Hadamard Product is used in **LSTM** (Long Short-Term Memory) cells of Recurrent Neural Networks (**RNNs**).
 
 #### Example
