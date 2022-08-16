@@ -28,13 +28,18 @@ How we have come up with this answer lets see-
 
 = <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\color{Blue}&space;1}&space;\times&space;\overrightarrow{\mathbf{v_1}}&space;&plus;&space;{\color{Blue}&space;2}&space;\times&space;\overrightarrow{\mathbf{v_2}}=&space;\begin{bmatrix}5&space;\\2&space;\\9\end{bmatrix}}&space;&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\color{Blue} 1} \times \overrightarrow{\mathbf{v_1}} + {\color{Blue} 2} \times \overrightarrow{\mathbf{v_2}}= \begin{bmatrix}5 \\2 \\9\end{bmatrix}} " align="center" />
 
-<img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\color{Blue}&space;1}&space;\mathbf{v_1}&space;&plus;&space;{\color{Blue}&space;2}&space;\mathbf{v_2}=&space;\begin{bmatrix}5&space;\\2&space;\\9\end{bmatrix}}" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\color{Blue} 1} \mathbf{v_1} + {\color{Blue} 2} \mathbf{v_2}= \begin{bmatrix}5 \\2 \\9\end{bmatrix}}" align="center" />
-
-* Inorder to generate the second column of the resulting matrix, we have to do the same as previous considering the columns of matrix **_V_** as vectors **v<sub>1</sub>** and **v<sub>2</sub>** and consider the **second column** of matrix **A** < as the **"Scaler Coefficient"** for  **v<sub>1</sub>** and **v<sub>2</sub>** and we get-
+$$
+{\color{Purple} = 
+\begin{bmatrix}5 
+\\ 2 
+\\ 9
+\end{bmatrix}}
+$$
+     
+* Inorder to generate the second column of the resulting matrix, we have to do the same as previous considering the columns of matrix ${\color{Purple} \mathbf{V}}$ as vectors ${\color{Purple} \mathbf{v_1}}$ and ${\color{Purple} \mathbf{v_2}}$ and consider the **second column** of matrix ${\color{Purple} \mathbf{A}}$  as the **"Scaler Coefficient"** for  ${\color{Purple} \mathbf{v_1}}$ and ${\color{Purple} \mathbf{v_2}}$ finally we get-
 
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{V&space;=}\begin{bmatrix}{\color{Blue}&space;\overrightarrow{\mathbf{v_1&space;}}}&{\color{Blue}\overrightarrow{\mathbf{v_2}&space;}&space;}\\1&space;&&space;2&space;\\2&space;&&space;0\\3&3\\\end{bmatrix}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{V =}\begin{bmatrix}{\color{Blue} \overrightarrow{\mathbf{v_1 }}}&{\color{Blue}\overrightarrow{\mathbf{v_2} } }\\1 & 2 \\2 & 0\\3&3\\\end{bmatrix} }" align="center"/> *  <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A&space;=}\begin{bmatrix}1&space;&&space;{\color{Blue}&space;3}&space;\\2&space;&{\color{Blue}&space;4}\end{bmatrix}&space;}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A =}\begin{bmatrix}1 & {\color{Blue} 3} \\2 &{\color{Blue} 4}\end{bmatrix} }" align="center"/> 
 
 = <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\color{Blue}&space;3&space;}&space;&space;\mathbf{v_1}&space;&plus;&space;{\color{Blue}&space;4}&space;\mathbf{v_2}=&space;\begin{bmatrix}11&space;\\6&space;\\21\end{bmatrix}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\color{Blue} 3 } \mathbf{v_1} + {\color{Blue} 4} \mathbf{v_2}= \begin{bmatrix}11 \\6 \\21\end{bmatrix}} " align="center"/>
 
 So the result of matrix multiplication each of the columns of matrix multiplication can actually be thought of as some particular linear combination of the columns of the matrix **V** that we are multiplying here
-
