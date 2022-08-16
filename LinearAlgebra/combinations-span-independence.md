@@ -36,5 +36,5 @@ How we have come up with this answer lets see-
 
 = <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;{\color{Blue}&space;3&space;}&space;&space;\mathbf{v_1}&space;&plus;&space;{\color{Blue}&space;4}&space;\mathbf{v_2}=&space;\begin{bmatrix}11&space;\\6&space;\\21\end{bmatrix}}&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} {\color{Blue} 3 } \mathbf{v_1} + {\color{Blue} 4} \mathbf{v_2}= \begin{bmatrix}11 \\6 \\21\end{bmatrix}} " align="center"/>
 
-
+So the result of matrix multiplication each of the columns of matrix multiplication can actually be thought of as some particular linear combination of the columns of the matrix **V** that we are multiplying here
 
