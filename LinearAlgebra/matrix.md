@@ -41,7 +41,18 @@ $$
 
 
 ### Determinant of a Matrix
-In mathematics, the determinant is a **scalar** value that is a function of the entries of a **square matrix**. It allows characterizing some properties of the matrix and the linear map represented by the matrix. In particular, the determinant is nonzero if and only if the matrix is invertible and the linear map represented by the matrix is an isomorphism. The determinant of a product of matrices is the product of their determinants (the preceding property is a corollary of this one).
+In mathematics, the determinant is a **scalar** value that is a function of the entries of a **square matrix**. It allows characterizing some properties of the matrix and the linear map represented by the matrix. In particular, the determinant is nonzero if and only if the matrix is **invertible** and the linear map represented by the matrix is an **isomorphism**. The determinant of a product of matrices is the product of their determinants (the preceding property is a corollary of this one).
+
+$$ \large
+{\color{Purple}
+{\displaystyle 
+{\begin{aligned}|A|=
+{\begin{bmatrix}
+a&b\\
+c&d
+\end{bmatrix}}=ad-bc.\end{aligned}}}}
+$$
+
 #### Easiest to define recursivly.
 
 $$
