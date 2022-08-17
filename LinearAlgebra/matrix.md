@@ -41,7 +41,7 @@ $$
 
 
 ### Determinant of a Matrix
-Easiest to define recursivly.
+#### Easiest to define recursivly.
 
 $$
 \large {\color{Purple} \begin{bmatrix}
@@ -49,3 +49,12 @@ a_{11} & a_{12} \\
 a_{21} & a_{22} \\
 \end{bmatrix}= a_{11}a_{22}- a_{12}a_{21}}
 $$
+
+#### Laplace expansion: For a ${\color{Purple} n \times n}$ matrix **A**
+
+$$ \large {\color{Purple} det(\textbf{A})= \sum_{j=1}^{n} (-1)^{i+j}\textbf{A}_{ij}\ det(\textbf{a}_{ij})}$$
+
+* a<sub>ij</sub> is the sub matrix 
+
+### Invertibility of a Matrix
+#### A square matrix is invertible if and only if  ${\color{Purple} det(\mathbf{A}) \neq 0 } $
