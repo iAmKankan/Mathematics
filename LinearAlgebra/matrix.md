@@ -74,4 +74,4 @@ $$ \large {\color{Purple} det(\textbf{A})= \sum_{j=1}^{n} (-1)^{i+j}\mathbf{A_{\
 
 $$\large {\color{Purple} \mathbf{A^{-1}}} \textrm{exists if and only if } {\color{Purple} det(\mathbf{A})} \textrm{or} {\color{Purple} |A| \neq 0 } $$
 
-
+#### Note that this automatically means that the columns of A have to be linearly independent
