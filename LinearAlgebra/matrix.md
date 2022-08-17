@@ -75,3 +75,39 @@ $$ \large {\color{Purple} det(\textbf{A})= \sum_{j=1}^{n} (-1)^{i+j}\mathbf{A_{\
 $$\large {\color{Purple} \mathbf{A^{-1}}} \textrm{exists if and only if } {\color{Purple} det(\mathbf{A})} \textrm{or} {\color{Purple} |A| \neq 0 } $$
 
 #### Note that this automatically means that the columns of A have to be linearly independent
+
+
+## Special Matrices and vectors
+
+### 1 _Diagonal Matrix_ - Only diagonal entries are non-zero
+
+$$\large {\color{Purple} \mathbf{D_{\textit{ij}} = 0},\ \ \textrm{if} \ \ i \neq j }  $$
+
+### 2 _Symmetric Matrix_ - Matrix is equal to its transpose
+
+$$\large {\color{Purple} \mathbf{A = A^{\top} }} $$
+
+### 3 _Unit Vector_ - Vector with unit "length"( or Norm)
+
+$$\large {\color{Purple} \mathbf{\parallel v \parallel= 1}} $$
+
+* Usually we use **2 Norms** or $\large {\color{Purple} \mathbf{\parallel v \parallel_2}}$ or **Euclidean Norm**
+
+### 4 _Orthogonal Vectors_ - Mutually perpendicular
+$$\large {\color{Purple} \overrightarrow{\mathbf{x}}.\overrightarrow{\mathbf{y}}=0 \ \Rightarrow \ \mathbf{x^{\top}y=0}}  $$
+
+* **Orthonormal Vctors :** Unit vectors perpendicular to each other.
+
+### 5 _Orthogonal Matrix_ - Transpose is equal to inverse (e)
+$$\large
+{\color{Purple} 
+\begin{matrix}
+\mathbf{A^{\top}=A^{-1}}\\
+\mathbf{\Rightarrow A^{\top}A = AA^{\top}=I}
+\end{matrix}
+} 
+$$
+* Simple Orthogonal Matrix is the identity matrix
+
+
+### Eigen Decomposition:
