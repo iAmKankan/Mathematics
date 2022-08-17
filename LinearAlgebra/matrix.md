@@ -26,3 +26,22 @@ $$\large{\color{Purple}\mathbf{A} = \begin{bmatrix}
 $$
 
 The Trace of the matrix is - $\large {\color{Purple}Tr(\mathbf{A}) = 1+ 2+ 3= 6}$
+
+The idea of trace you can use for **non-square** matrices also, so let us say this ${\color{Purple}\mathbf{A}_{3 \times 6}}$ is longer you had  you would still look at only <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A}_{ii}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A}_{ii}}" align="center"/> which are <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_{11},A_{22},A_{33}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_{11},A_{22},A_{33}}}" align="center"/> it would still be **6**, okay. So typically however we will be using trace for square matrices.
+
+#### Proparties
+
+$$
+{\color{Purple} \begin{gather*}
+tr(A + B) = tr(A) + tr(B), \\
+tr(AB) = tr(BA)\\
+Similarly\ tr(A) = tr(A^\top )
+\end{gather*}}
+$$
+
+
+
+
+
+
+
