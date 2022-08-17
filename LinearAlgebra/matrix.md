@@ -8,7 +8,8 @@
 * Special Matrices
 * Matrix Decompositions
 
-## Why we need Matrix Decomposition?
+## Why we need Matrix Decomposition also known as Matrix Factorization?
+So if you pre _multiply one vector by a matrix_ you get another _vector_.
 
 
 ### Trace of a Matrix
@@ -36,4 +37,15 @@ $$
  {\color{Purple}\mathbf{\ tr(AB)}} & =& {\color{Purple} \mathbf{tr(BA)} [Even\ AB \neq BA]}\\ 
  {\color{Purple}\mathbf{\ tr(A)}} & =& {\color{Purple} \mathbf{tr(A^\top )}}
 \end{matrix}
+$$
+
+
+### Determinant of a Matrix
+Easiest to define recursivly.
+
+$$
+\large {\color{Purple} \begin{bmatrix}
+a_{11} & a_{12} \\
+a_{21} & a_{22} \\
+\end{bmatrix}= a_{11}a_{22}- a_{12}a_{21}}
 $$
