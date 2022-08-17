@@ -64,7 +64,7 @@ $$
 
 #### Laplace expansion: For a ${\color{Purple} n \times n}$ matrix **A**
 
-$$ \large {\color{Purple} det(\textbf{A})= \sum_{j=1}^{n} (-1)^{i+j}\textbf{A}_{ij}\ det(\textbf{a}_{ij})}$$
+$$ \large {\color{Purple} det(\textbf{A})= \sum_{j=1}^{n} (-1)^{i+j}\mathbf{A_{ij}} det(\mathbf{a}_{ij})}$$
 
 * a<sub>ij</sub> is the sub matrix 
 
