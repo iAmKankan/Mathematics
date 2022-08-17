@@ -66,7 +66,7 @@ $$
 
 $$ \large {\color{Purple} det(\textbf{A})= \sum_{j=1}^{n} (-1)^{i+j}\mathbf{A_{\textit{ij}}} \ det(\mathbf{a_{\textit{ij}}})}$$
 
-* a<sub>ij</sub> is the sub matrix 
+* a<sub><i>ij</i></sub> is the sub matrix 
 
 ### Invertibility of a Matrix
 #### A square matrix is invertible if and only if  ${\color{Purple} det(\mathbf{A}) \neq 0 } $
