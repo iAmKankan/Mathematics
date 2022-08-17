@@ -70,3 +70,8 @@ $$ \large {\color{Purple} det(\textbf{A})= \sum_{j=1}^{n} (-1)^{i+j}\mathbf{A_{\
 
 ### Invertibility of a Matrix
 #### A square matrix is invertible if and only if  ${\color{Purple} det(\mathbf{A}) \neq 0 } $
+
+
+$$\large {\color{Purple} \mathbf{A^{-1}}} \textrm{exists if and only if } {\color{Purple} det(\mathbf{A})} \textrm{or} {\color{Purple} |A| \neq 0 } $$
+
+
