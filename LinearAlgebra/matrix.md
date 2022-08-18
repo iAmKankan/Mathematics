@@ -110,4 +110,6 @@ $$
 * Simple Orthogonal Matrix is the identity matrix
 
 
-### Eigen Decomposition:
+### Eigen Decomposition
+* This is typically very useful for square symmetric matrices specially square symmetric real matrices even though you can use it for other matrices as well and I am sure you would have done it before.
+
