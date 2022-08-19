@@ -114,6 +114,6 @@ $$
 * This is typically very useful for **square symmetric matrices** specially square symmetric real matrices even though you can use it for other matrices as well and I am sure you would have done it before.
 
 #### Physical meaning
-Every real matrix can be thought of as a combination of rotation and stretching
+Every real matrix can be thought of as a combination of rotation and stretching $\overrightarrow{x}_{ij}$
 
-$$\large {\color{Purple} \mathbf{A}_{n\times n}  \overrightarrow{\mathbf{v}}_{n \times i} = \overrightarrow{\mathbf{w}}_{n \times i}}$$
+$$\large {\color{Purple} \mathbf{A_{\mathit{n\times n}}}  \overrightarrow{v}_{n\times i} = \overrightarrow{\mathbf{w}}_{\mathit{n\times i}}}$$
