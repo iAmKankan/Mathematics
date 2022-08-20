@@ -25,3 +25,5 @@ So if this is the curve $\large {\color{Purple} y = f(x)}$ and if this is the po
 * **_`f`_ prime _`p`_ $\large{\color{Purple}\displaystyle{f^\prime (p)}}$ or  _`f`_ prime _`x`_ equals _`p`_ $\large{\color{Purple}\displaystyle{f^\prime (x = p)}}$**
 
 $$\large{\color{Purple}\displaystyle{f^\prime (a)=\frac{\mathrm{d} f}{\mathrm{d} x}(x=a)=\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}}}$$
+
+<img src="https://user-images.githubusercontent.com/12748752/185731247-dd55fb41-9147-4d1c-88a6-b3501efc15d4.png" width=20%/>
