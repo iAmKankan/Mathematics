@@ -15,10 +15,13 @@ Given some input vector $\large{\color{Purple}\vec{\mathbf{v}}}$, if you want to
 
 * In linear regression you have $\large{\color{Purple} \vec{x}}$, you multiply by $\large{\color{Purple} w}$ and run it through a summation $\large{\color{Purple} \sum }$ and you get $\large{\color{Purple} \hat{y}}$, this is linear regression.
 
-### logistic  regression <img src="https://user-images.githubusercontent.com/12748752/185735906-6b3d9fe7-ee91-4e53-9abd-43c2b8fe95ef.png" width=60% align="center"/>
+### Logistic  Regression <img src="https://user-images.githubusercontent.com/12748752/185735906-6b3d9fe7-ee91-4e53-9abd-43c2b8fe95ef.png" width=60% align="center"/>
 
+* You take $\large{\color{Purple} \vec{x}}$, again the same parameters $\large{\color{Purple} w}$, run it through a summation and we add a one small change, we add a nonlinear function. This is called a non-linear activation function and this gives our $\large{\color{Purple} \hat{y}}$, this is called **logistic regression** for certain choices of activation functions. 
+* An Activision function is on your linear combination you add nonlinearity over this ok, so we will typically denote the non-linear activation function by $\large{\color{Purple} g}$ so $\large{\color{Purple} g()}$ stands for some non-linear function.
 ### Neural net flow <img src="https://user-images.githubusercontent.com/12748752/185735910-f1f42ebb-aeb1-4009-9391-e2a6c3e641af.png" width=80% align="center"/>
 * More than a layer is called Deep network.
+* So you take your $\large{\color{Purple} \vec{x}}$, run it through a linear combination with some weight $\large{\color{Purple} w}$, run it through a nonlinear function $\large{\color{Purple} g()}$. Then run it through another linear combination with some other weights let us call them $\large{\color{Purple} w_1}$, some other weights $\large{\color{Purple} w_2}$, and another non-linear combination $\large{\color{Purple} g()}$ and so on and so forth and finally you get your output prediction $\large{\color{Purple} \hat{y}}$.
 
 ### Important notes
 * how do we characterize the output y or ^y.
