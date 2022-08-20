@@ -133,8 +133,3 @@ $$\large{\color{Purple} {\displaystyle \mathbf {A} \mathbf {v} =\lambda \mathbf 
 
 
 
-$$\mathbf{\vec{v_{q}} + \mathbf{\vec{v_{q}}- \mathbf{\vec{v_{q}}$$
-
-
-
-$$ \large{\color{Purple} {\displaystyle \mathbf{A_{\mathit{n\times n}}} \mathbf{\overrightarrow{v}}_{n \times i} = \overrightarrow{\mathbf{w}}_{n \times i} } }$$
