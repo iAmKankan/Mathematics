@@ -35,6 +35,7 @@
   * [Pythagorus Theorem](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
   * [Eucledian Distance](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
 ### [_Logarithm_](https://github.com/iAmKankan/Mathematics/blob/main/logarithm.md)
+### [Mathematical Optimization](https://github.com/iAmKankan/Mathematics/tree/main/optimization)
 ### [_Mathematical Symbols_](https://github.com/iAmKankan/Mathematics/blob/main/symbols.md)
 ## [References](#references)
 
