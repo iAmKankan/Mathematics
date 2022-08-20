@@ -13,6 +13,8 @@ Given some input vector $\large{\color{Purple}\vec{\mathbf{v}}}$, if you want to
 
 ### Linear  regression <img src="https://user-images.githubusercontent.com/12748752/185735909-33c47ed4-affa-486e-89e0-353ca7e0c9a7.png" width=60% align="center"/>
 
+* In linear regression you have $\large{\color{Purple} \vec{x}}$, you multiply by $\large{\color{Purple} w}$ and run it through a summation $\large{\color{Purple} \sum }$ and you get $\large{\color{Purple} \hat{y}}$, this is linear regression.
+
 ### logistic  regression <img src="https://user-images.githubusercontent.com/12748752/185735906-6b3d9fe7-ee91-4e53-9abd-43c2b8fe95ef.png" width=60% align="center"/>
 
 ### Neural net flow <img src="https://user-images.githubusercontent.com/12748752/185735910-f1f42ebb-aeb1-4009-9391-e2a6c3e641af.png" width=80% align="center"/>
