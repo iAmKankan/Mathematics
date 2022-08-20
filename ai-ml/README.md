@@ -23,5 +23,5 @@ Given some input vector $\large{\color{Purple}\vec{\mathbf{v}}}$, if you want to
 * Next is of course what is the feed forward model
 * The 3rd thing is what is the loss function **J**
 * Fourth, what you have to find out is how do we calculate $\large{\color{Purple} \frac{\partial J}{\partial w}}$ ? in other words this is the **gradient problem**
-* There is a 5th problem which will not be discussing very much which is how do we use $\large{\color{Purple} \frac{\partial J}{\partial w}}$ to find better **w**,
+* There is a 5th problem which will not be discussing very much which is how do we use $\large{\color{Purple} \frac{\partial J}{\partial w}}$ to find better **w**, **Optimization problem**.
 
