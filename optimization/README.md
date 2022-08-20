@@ -20,4 +20,8 @@ If you have something like ${\color{Purple}\displaystyle{\frac{dy}{dx}}}$ it mea
 
 So if this is the curve $\large {\color{Purple} y = f(x)}$ and if this is the point let us say $\large {\color{Purple} p}$, if we differentiate $\large {\color{Purple} y}$ with respect to $\large {\color{Purple} x}$ at $\large {\color{Purple} x\ equal\ to\ p}$ we will get the slope of this tangent, 
 
-#### We can denote this as $\large{\color{Purple}\displaystyle{\frac{dy}{dx}[x = p]}}$ or $\LARGE{\color{Purple}\left.{\frac {dy}{dx}}\right|_{x=a}}$
+#### We can denote this as- you can denote this as 
+* **_`dy`_ by _`dx`_ at _`x`_ equal to `p` $\large{\color{Purple}\displaystyle{\frac{dy}{dx}[x = p]}}$ or $\LARGE{\color{Purple}\left.{\frac {dy}{dx}}\right|_{x=p}}$ or**
+* **_`f`_ prime _`p`_ $\large{\color{Purple}\displaystyle{f^\prime (p)}}$ or  _`f`_ prime _`x`_ equals _`p`_ $\large{\color{Purple}\displaystyle{f^\prime (x = p)}}$**
+
+$$\large{\color{Purple}\displaystyle{f^\prime (a)=\frac{\mathrm{d} f}{\mathrm{d} x}(x=a)=\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}}}$$
