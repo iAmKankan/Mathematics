@@ -46,6 +46,30 @@ A model which computes the probability for **(1)** or predicting the next word *
 1. The vocabulary size of emma corpus is 7079. If we plot all the words in the real space $\large{\color{Purple}\mathbb{R}}$, we get 7079 axes
 2. The vocabulary size of Google News Corpus corpus is 3 million. If we plot all the words in the real space $\large{\color{Purple}\mathbb{R}}$ , we get 3 million axes
 
+### CREATION OF SEMANTICALLY CONNECTED VECTORS
+* Identify a model that enumerates the relationships between terms and documents
+* Identify a model that tries to put similar items closer to each other in some space or structure
+* A model that discovers/uncovers the semantic similarity between words and documents in the latent semantic domain
+* Develop a distributed word vectors or dense vectors that captures the linear combination of word vectors in the transformed domain
+### WHY DENSE VECTORS?
+* Sparse vectors are too long and not very convenient as features machine learning
+* Abstracts more than just frequency counts
+* It captures neighborhood words that are connected by synonyms
+  * Consider these two documents (1) Automobile association (2) car driver
+  * Connects the neighbor of Automobile and the neighbor of car 
+  * "Automobile association" with "car driver" - driver and association could be connected using the similar words _Automobile_ and _car_
+
+### HUMAN/MACHINE LEARNING
+* How do we solve problems when we lack sufficient knowledge?
+* Finding Examples and using experience gained are useful
+* Examples provide certain underlying patterns
+* Patterns give the ability to predict some outcome or help in constructing an approximate model
+* The model may help resolve some problems, though may not be an ideal one
+* Learning is the key to the ambiguous world * Linear and non-linear classification
+* Perceptron, perceptron learning, cost function, feed forward neural network, back propagation algorithm
+
+
+
 ## Reference
 ![deep](https://user-images.githubusercontent.com/12748752/126882429-37cbd66d-213c-4c00-b145-37773c820bf3.png)
 * [Applied Natural Language Processing Prof. Ramaseshan Ramachandran Department of Computer Science and Engineering Chennai Mathematical Institute, Madras](https://archive.nptel.ac.in/courses/106/106/106106211/)
