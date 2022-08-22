@@ -8,6 +8,7 @@
    * [Difference between Vector and Matrix](#difference-between-vector-and-matrix)
 * [Tensors](#tensors)
    * [Tensors Orders](#tensors-orders)
+### [Matrix in depth](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/matrix.md)
 ### [_Basic Operations on Linear algebra_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/basic-operations.md)
 
 ### [_Norms_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/norms.md)
