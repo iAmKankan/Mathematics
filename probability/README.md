@@ -46,3 +46,6 @@ A model which computes the probability for **(1)** or predicting the next word *
 1. The vocabulary size of emma corpus is 7079. If we plot all the words in the real space $\large{\color{Purple}\mathbb{R}}$, we get 7079 axes
 2. The vocabulary size of Google News Corpus corpus is 3 million. If we plot all the words in the real space $\large{\color{Purple}\mathbb{R}}$ , we get 3 million axes
 
+## Reference
+![deep](https://user-images.githubusercontent.com/12748752/126882429-37cbd66d-213c-4c00-b145-37773c820bf3.png)
+* [Applied Natural Language Processing Prof. Ramaseshan Ramachandran Department of Computer Science and Engineering Chennai Mathematical Institute, Madras](https://archive.nptel.ac.in/courses/106/106/106106211/)
