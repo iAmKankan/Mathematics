@@ -12,4 +12,24 @@
 *  Likelihood of the next word is formalized through an observation by conducting experiment - counting the words in a document
 Discrete Sample Space, experiment, joint and conditional probability,
 
+### PROBABILISTIC LANGUAGE MODEL
+**Goal:** Compute the probability of a sequence of words
 
+$$\large{\color{Purple} 
+\begin{equation}
+P(W) P(w_1, w_2, w_3,\cdots ,w_n) \small{\color{Black}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \textbf{(1)}}
+\end{equation}
+}
+$$
+
+**Task:** To predict the next word using probability. Given the context, find the next word using
+
+$$\large{\color{Purple} 
+\begin{equation}
+ P(w_n|w_1, w_2, w_3,\cdots ,w_{n-1})  \small{\color{Black}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \textbf{(2)}}
+\end{equation}
+}
+$$
+
+
+A model which computes the probability for **(1)** or predicting the next word **(2)** or complete the partial sentence is called as Probabilistic Language Model. The goal is to learn the joint probability function of sequences of words in a language. The probability of P(The cat roars) is less likely to happen than P(The cat meows) n-grams are used to build predictive and generative language models
