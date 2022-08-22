@@ -1,6 +1,5 @@
 ## Index
 ![deep](https://user-images.githubusercontent.com/12748752/126882429-37cbd66d-213c-4c00-b145-37773c820bf3.png)
-![light](https://user-images.githubusercontent.com/12748752/126882430-cb0aa865-0c15-43f9-85d6-e6ce589c8772.png)
 
 ## Why we need Probability in NLP?
 ![deep](https://user-images.githubusercontent.com/12748752/126882429-37cbd66d-213c-4c00-b145-37773c820bf3.png)
@@ -12,7 +11,9 @@
 *  Likelihood of the next word is formalized through an observation by conducting experiment - counting the words in a document
 Discrete Sample Space, experiment, joint and conditional probability,
 
-### PROBABILISTIC LANGUAGE MODEL
+### Probabilistic Language Model
+![light](https://user-images.githubusercontent.com/12748752/126882430-cb0aa865-0c15-43f9-85d6-e6ce589c8772.png)
+
 **Goal:** Compute the probability of a sequence of words
 
 $$\large{\color{Purple} 
@@ -32,4 +33,16 @@ $$\large{\color{Purple}
 $$
 
 
-A model which computes the probability for **(1)** or predicting the next word **(2)** or complete the partial sentence is called as Probabilistic Language Model. The goal is to learn the joint probability function of sequences of words in a language. The probability of P(The cat roars) is less likely to happen than P(The cat meows) n-grams are used to build predictive and generative language models
+A model which computes the probability for **(1)** or predicting the next word **(2)** or complete the partial sentence is called as Probabilistic Language Model. The goal is to learn the joint probability function of sequences of words in a language. The probability of **_P(The cat roars)_** is less likely to happen than **_P(The cat meows)_** **n-grams** are used to build predictive and generative language models
+
+### Vector space
+![light](https://user-images.githubusercontent.com/12748752/126882430-cb0aa865-0c15-43f9-85d6-e6ce589c8772.png)
+* Let us assume that the words in a corpus are considered as linearly independent basis vectors.
+* If a corpus contains $\large{\color{Purple}\mathbb{|\mathbb{N}|}}$ words which are _linearly independent_, then every word represents an axis in the continuous vector space $\large{\color{Purple}\mathbb{R}}$.
+* Each word takes an independent axis which is [orthogonal](https://en.wikipedia.org/wiki/Orthonormality)(perpendicular) to other words/axes. 
+* Then $\large{\color{Purple}\mathbb{R}}$ will contain $\large{\color{Purple}\mathbb{|\mathbb{N}|}}$ axes.
+
+#### Examples
+1. The vocabulary size of emma corpus is 7079. If we plot all the words in the real space $\large{\color{Purple}\mathbb{R}}$, we get 7079 axes
+2. The vocabulary size of Google News Corpus corpus is 3 million. If we plot all the words in the real space $\large{\color{Purple}\mathbb{R}}$ , we get 3 million axes
+
