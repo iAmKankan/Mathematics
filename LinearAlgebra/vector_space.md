@@ -38,6 +38,8 @@ continuous vector spacer.
 #### EXAMPLE BINARY INCIDENCE MATRIX
 Let us consider three words - **good**, **car**, **mechanic** and we will represent these words in a 3-D vector space
 
+<img src="https://user-images.githubusercontent.com/12748752/186108579-79c183ea-d8fd-403d-b370-05a2244e5ab8.png" width=20% align="right"/>
+
 | |good|car|mechanic|
 |----|----|---|----|
 |D1|1|1|1|
@@ -45,4 +47,11 @@ Let us consider three words - **good**, **car**, **mechanic** and we will repres
 |D3|0|1|1|
 
 
+#### TF-IDF represent these words like
+| |good|car|mechanic|
+|----|----|---|----|
+|D1|0.91|1|0.0011|
+|D2|0.21|0|0.1|
+|D3|0.15|1|0.921|
 
+<img src="https://user-images.githubusercontent.com/12748752/186113858-3b37fed8-8935-4941-9635-cc0496af8ed7.png" width=20% align="right"
