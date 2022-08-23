@@ -17,3 +17,14 @@ A **3-D** vector-space is defined as a set of linearly Independent basis vectors
 <img src="https://user-images.githubusercontent.com/12748752/186029942-00189cf6-bb7a-4f0d-97fe-04d71b1d203f.png" width=50%/>
 
 Linearly independent vectors of size **N** will result in **N**-dimensional axes which are mutually orthogonal to each other. 
+
+### Vector Space model for Words
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+Let us assume that all the words in the corpus are considered as _linearly independent basis vectors_; that means, every word is different, they are not connected to any other word. 
+
+Suppose if you are having about 300 words, all 300 words are **independent** and they have no relation to each other(considered as **_linearly independent vectors_**); that means if I do a dot product of word **a** and **b** that result would be going to be **0**. So, again we will be using the notation of v this length of your vocabulary if you consider all of them as linear and then all the vectors related to the words in the vocabulary or linearly independent.
+
+
+$\large {\color{Purple}Tr(\mathbf{A}) = 1+ 2+ 3= 6}$
+
+$\large{\color{Purple} A_{3 x 6}}$
