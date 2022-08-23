@@ -129,7 +129,8 @@ Through physics as well as intuitively you can see that there are only two thing
 
 ### Eigenvalue
 **Eigenvalue** is the factor by which this vector stretches
-$$\large{\color{Purple} {\displaystyle \mathbf {A} \mathbf {v} =\lambda \mathbf {v} } }$$
+
+$$\large{\color{Purple} {\displaystyle \mathbf{A} \mathbf{v} =\lambda \mathbf {v} } }$$
 
 
 
