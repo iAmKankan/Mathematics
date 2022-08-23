@@ -54,4 +54,6 @@ Let us consider three words - **good**, **car**, **mechanic** and we will repres
 |D2|0.21|0|0.1|
 |D3|0.15|1|0.921|
 
-<img src="https://user-images.githubusercontent.com/12748752/186113858-3b37fed8-8935-4941-9635-cc0496af8ed7.png" width=20% align="right"
+<img src="https://user-images.githubusercontent.com/12748752/186113858-3b37fed8-8935-4941-9635-cc0496af8ed7.png" width=30%  />
+
+If you look at **D3** it is pretty close to a **mechanic** than to the _axes_ **good**, maybe because there are more number of terms that are representing **mechanic** then **good** in this case. So, that is why **D3** is pretty close to the **mechanic** and then if you look at **D2** which has a fair amount of representation from **good** as well as from **mechanic** that is why it is somewhere in the middle. So, this is the actual space that we are looking at and all the documents that contain those two words would be represented in this space and the length of that particular document depends on how those frequencies are distributed in the document.
