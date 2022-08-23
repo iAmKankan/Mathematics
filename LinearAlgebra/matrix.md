@@ -121,11 +121,17 @@ Every real matrix can be thought of as a combination of rotation and stretching
 <img src="https://user-images.githubusercontent.com/12748752/185712350-97fccc35-515d-44cc-9640-f7e914991b55.png" width=20% align="right"/>
 
 
-Now you can think of $\large {\color{Purple} \mathbf{A}}$ as a machine or an operator acting on $\large {\color{Purple} \overrightarrow{\mathbf{v}}}$ and giving you $\large {\color{Purple} \overrightarrow{\mathbf{w}}}$, takes $\large {\color{Purple} \overrightarrow{\mathbf{v}}}$ takes it to $\large {\color{Purple} \overrightarrow{\mathbf{w}}}$,
+Now you can think of $\large{\color{Purple} \mathbf{A}}$ as a machine or an operator acting on $\large{\color{Purple} \overrightarrow{\mathbf{v}}}$ and giving you $\large {\color{Purple} \overrightarrow{\mathbf{w}}}$, takes $\large{\color{Purple} \overrightarrow{\mathbf{v}}}$ takes it to $\large {\color{Purple} \overrightarrow{\mathbf{w}}}$,
 Through physics as well as intuitively you can see that there are only two things that this matrix $\large {\color{Purple} \mathbf{A}}$ can do to $\large {\color{Purple} \overrightarrow{\mathbf{v}}}$, it can rotate it that is it can turn it through an angle even in **2D**, **3D** in any place that you can think of it turn it through an angle and the other thing it can do is: it can change its length,
 
 ### Eigenvectors
-**Eigenvectors** are those special vectors for a given matrix $\large {\color{Purple} \mathbf{A}}$, the eigenvectors $\large {\color{Purple} \overrightarrow{\mathbf{v}}}$  which  will only stretch under the action of this matrix.
+
+**Eigenvectors** are those special vectors for a given matrix 
+$\large{\color{Purple} \mathbf{A}}$ , the eigenvectors 
+
+
+
+$\large{\color{Purple} \overrightarrow{\mathbf{v}}}$  which  will only stretch under the action of this matrix.
 
 ### Eigenvalue
 **Eigenvalue** is the factor by which this vector stretches
