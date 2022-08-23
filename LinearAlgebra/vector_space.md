@@ -20,9 +20,14 @@ Linearly independent vectors of size **N** will result in **N**-dimensional axes
 
 ### Vector Space model for Words
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-Let us assume that all the words in the corpus are considered as _linearly independent basis vectors_; that means, every word is different, they are not connected to any other word. 
+Let us assume that the words in a corpus are considered as linearly independent basis vectors. If a corpus contains 1 words which are linearly independent, then every word represents an axis in the continuous vector space R. Each word takes an independent axis which is orthogonal to other words/axes. Then will contain | axes.
 
-Suppose if you are having about 300 words, all 300 words are **independent** and they have no relation to each other(considered as **_linearly independent vectors_**); that means if I do a dot product of word **a** and **b** that result would be going to be **0**. So, again we will be using the notation of v this length of your vocabulary if you consider all of them as linear and then all the vectors related to the words in the vocabulary or linearly independent.
+#### Examples
+1. The vocabulary size of emma corpus is 7079) If we plot all the words in the real space R, we get 7079 axes
+2. The vocabulary size of Google News Corpus corpus is 3 million. If we plot all the words in the real space R, we get 3 million axes
+
+Suppose if you are having about 300 words, all 300 words are **independent** and they have no relation to each other(considered as **_linearly independent vectors_**); that means if I do a dot product of word **a** and **b** that result would be going to be **0**. So, again we will be using the notation of **|v|** this length of your vocabulary if you consider all of them as linear and then all the vectors related to the words in the vocabulary or linearly independent. And they do not have a linear relationship with each other and they are represented in the
+continuous vector spacer. 
 
 
-$\large{\color{Purple} A_{3 x 6}}$
+
