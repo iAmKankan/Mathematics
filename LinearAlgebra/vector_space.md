@@ -29,5 +29,20 @@ Let us assume that the words in a corpus are considered as linearly independent 
 Suppose if you are having about 300 words, all 300 words are **independent** and they have no relation to each other(considered as **_linearly independent vectors_**); that means if I do a dot product of word **a** and **b** that result would be going to be **0**. So, again we will be using the notation of **|v|** this length of your vocabulary if you consider all of them as linear and then all the vectors related to the words in the vocabulary or linearly independent. And they do not have a linear relationship with each other and they are represented in the
 continuous vector spacer. 
 
+### DOCUMENT VECTOR SPACE MODEL
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
+* Vector space models are used to represent words in a continuous vector space **R**.
+* Combination of Terms represent a document vector in the word vector space.
+* Very high dimensional space - several million axes, representing terms and several million documents containing several terms
+
+#### EXAMPLE BINARY INCIDENCE MATRIX
+Let us consider three words - **good**, **car**, **mechanic** and we will represent these words in a 3-D vector space
+
+| |good|car|mechanic|
+|----|----|---|----|
+|D1|1|1|1|
+|D2|1|0|1|
+|D3|0|1|1|
+
 
 
