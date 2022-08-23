@@ -1,7 +1,7 @@
 ## Index
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
+$\large {\color{Purple}Tr(\mathbf{A}) = 1+ 2+ 3= 6}$
 
 ## Agenda
 * Matrix Operations
@@ -14,7 +14,9 @@ So if you pre _multiply one vector by a matrix_ you get another _vector_.
 
 ### Trace of a Matrix
 The trace of a matrix is given by the sum of its diagonal elements.
+
 $$\large{\color{Purple}\mathit{Tr}\mathbf{(A) =\sum_{i} A_{ii}}}$$
+
 #### Example
 Suppose we have a matrix -
 
@@ -26,7 +28,37 @@ $$\large{\color{Purple}\mathbf{A} = \begin{bmatrix}
 } 
 $$
 
+
+
+
+--- 
+
+
 The Trace of the matrix is - $\large {\color{Purple}Tr(\mathbf{A}) = 1+ 2+ 3= 6}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 The idea of trace you can use for **non-square** matrices also, so let us say this ${\color{Purple}\mathbf{A}_{3 \times 6}}$ is longer you had  you would still look at only <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A}_{ii}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A}_{ii}}" align="center"/> which are <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_{11},A_{22},A_{33}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_{11},A_{22},A_{33}}}" align="center"/> it would still be **6**, okay. So typically however we will be using trace for square matrices.
 
@@ -121,7 +153,95 @@ Every real matrix can be thought of as a combination of rotation and stretching
 <img src="https://user-images.githubusercontent.com/12748752/185712350-97fccc35-515d-44cc-9640-f7e914991b55.png" width=20% align="right"/>
 
 
-Now you can think of $\large{\color{Purple} \mathbf{A}}$ as a machine or an operator acting on $\large{\color{Purple} \overrightarrow{\mathbf{v}}}$ and giving you $\large {\color{Purple} \overrightarrow{\mathbf{w}}}$, takes $\large{\color{Purple} \overrightarrow{\mathbf{v}}}$ takes it to $\large {\color{Purple} \overrightarrow{\mathbf{w}}}$,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now you can think of 
+
+
+
+
+
+
+
+
+
+$\large {\color{Purple} \mathbf{A}}$ 
+
+
+
+
+
+
+as a machine or an operator acting on 
+
+
+
+
+
+$\large{\color{Purple} \overrightarrow{\mathbf{v}}}$ 
+
+
+
+
+
+
+
+
+and giving you 
+
+
+
+
+$\large {\color{Purple} \overrightarrow{\mathbf{w}}}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+, takes 
+
+
+
+
+
+
+$\large{\color{Purple} \overrightarrow{\mathbf{v}}}$ 
+
+
+
+
+
+
+
+
+
+
+takes it to $\large {\color{Purple} \overrightarrow{\mathbf{w}}}$,
 Through physics as well as intuitively you can see that there are only two things that this matrix $\large {\color{Purple} \mathbf{A}}$ can do to $\large {\color{Purple} \overrightarrow{\mathbf{v}}}$, it can rotate it that is it can turn it through an angle even in **2D**, **3D** in any place that you can think of it turn it through an angle and the other thing it can do is: it can change its length,
 
 ### Eigenvectors
