@@ -24,9 +24,9 @@ Given some input vector $\large{\color{Purple}\vec{\mathbf{v}}}$, if you want to
 * So you take your $\large{\color{Purple} \vec{x}}$, run it through a linear combination with some weight $\large{\color{Purple} w}$, run it through a nonlinear function $\large{\color{Purple} g()}$. Then run it through another linear combination with some other weights let us call them $\large{\color{Purple} w_1}$, some other weights $\large{\color{Purple} w_2}$, and another non-linear combination $\large{\color{Purple} g()}$ and so on and so forth and finally you get your output prediction $\large{\color{Purple} \hat{y}}$.
 
 ### Important notes
-* how do we characterize the output y or ^y.
-* Next is of course what is the feed forward model
-* The 3rd thing is what is the loss function **J**
-* Fourth, what you have to find out is how do we calculate $\large{\color{Purple} \frac{\partial J}{\partial w}}$ ? in other words this is the **gradient problem**
+* how do we characterize the output $\large{\color{Purple}y,\hat{y}}$.
+* what is the feed forward model. $\large{\color{Purple} \textit{ Which non-linear function as }\textbf{g()}?}$
+* The 3rd thing is what is the loss function $\large{\color{Purple}J}$
+* How do we calculate $\large{\color{Purple} \frac{\partial J}{\partial w}}$ ? in other words this is the **gradient problem**
 * There is a 5th problem which will not be discussing very much which is how do we use $\large{\color{Purple} \frac{\partial J}{\partial w}}$ to find better **w**, **Optimization problem**.
 
