@@ -18,7 +18,7 @@ Discrete Sample Space, experiment, joint and conditional probability,
 
 $$\large{\color{Purple} 
 \begin{equation}
-P(W) P(w_1, w_2, w_3,\cdots ,w_n) \small{\color{Black}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \textbf{(1)}}
+P(W) P(w_1, w_2, w_3,\cdots ,w_n) \small{\color{Black}\cdots \cdots \cdots \cdots  \textbf{(1)}}
 \end{equation}
 }
 $$
@@ -27,7 +27,7 @@ $$
 
 $$\large{\color{Purple} 
 \begin{equation}
- P(w_n|w_1, w_2, w_3,\cdots ,w_{n-1})  \small{\color{Black}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \textbf{(2)}}
+ P(w_n|w_1, w_2, w_3,\cdots ,w_{n-1})  \small{\color{Black}\cdots \cdots \cdots \cdots \textbf{(2)}}
 \end{equation}
 }
 $$
