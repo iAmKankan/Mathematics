@@ -6,8 +6,22 @@
 * Special Matrices
 * Matrix Decompositions
 
-## Why we need Matrix Decomposition also known as Matrix Factorization?
-So if you pre _multiply one vector by a matrix_ you get another _vector_.
+### Why we need _Matrix Decomposition_ also known as _Matrix Factorization_?
+1) Matrices transform one vector to another.
+2) We will deal with high dimensional vectors and tensors
+  * Recall images as an example of high dimensional vectors
+3) As with the prime factorization of numbers, it is useful to understand “components” of a matrix
+4) Also useful to get smaller set of representative numbers
+   **Example :** Norms, Trace, Determinant, Eigenvalues, Singular Values
+
+
+So if you pre _multiply one vector by a matrix_ you get another _vector_. 
+
+In **CNN** we deal with very high dimensional **vectors** and **tensors**
+* If you have a **60 &times; 60** _grayscale image_ you can interpret it as if it is a _single_ **3600** _dimensional vector_ or _one vector_ with **3600** components **pixel 1**, **pixel 2**, up till **pixel 3600**. 
+* So these are just examples of the size of vectors that you will be dealing with which means we are actually dealing with very large matrices.
+
+So if we have to convert an **n &times; 1** vector into another n  1 vector, so if you have a vector v let us say this is n  1 and this has to go to another vector let us call it w which is also n  1, you will have to pre multiply by a matrix which is n  n, okay which means if let us say n is 3600, then A is 3600  3600 matrix, okay. Now it is usually useful to understand you know what these components mean and as it turns out its original form it is kind of hard to understand and just like you know for a number we typically take let us say if you have something like 91, you will say 91 is 13  7, both of these are prime indivisible further factors.
 
 
 ### Trace of a Matrix
