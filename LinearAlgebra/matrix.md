@@ -171,7 +171,8 @@ $$\Huge
 & Av=\lambda v &
 \end{align*}
 \large\begin{cases}
-\lambda v \textit{ is a new vector 'W'; but this 'W' is not rotated it is starached. }
+\lambda v \textit{ is a new vector 'W';}\\
+\textit{But this 'W' is not rotated it is starached.}
 \end{cases}
 } 
 $$
