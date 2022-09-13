@@ -1,6 +1,76 @@
 ## Index
 ![deep](https://user-images.githubusercontent.com/12748752/126882429-37cbd66d-213c-4c00-b145-37773c820bf3.png)
 
+
+## Probability
+![deep](https://user-images.githubusercontent.com/12748752/126882429-37cbd66d-213c-4c00-b145-37773c820bf3.png)
+The word **probability** literally denotes ‘_chance_’, and the **theory of probability** deals  with **laws governing the chances of occurrence of phenomena** which are **unpredictable**  in nature.  
+
+**Probability** is a **mathematical framework** for **representing uncertainty** wherever you have some uncertain outcome, we tend to use probability as a mathematical representation of the uncertainty in the problem. 
+
+**Probability** in **machine learning** there are two primary uses of that, 
+   1) **_Constructing learning systems_** is nothing but _Machine Learning models_. 
+      * **Example:** If you try and mimic let's say_ human reasoning about uncertainty_ we say the _probability of rain is probably sixty percent tomorrow_. inherently even within our models there is some probability built in. 
+      * In order to incorporate such probabilistic thinking you have **probabilistic models**.
+      
+   2) **_Analysing Learning Systems_** a _deterministic model_ 
+       * Many neural network models are almost by design they are deterministic so you could have a deterministic Model.
+       * That is how the **input relates to the output** is actually a deterministic process. Nonetheless the output itself can be analyzed probabilistically because the learning system is only correct part of the time. It's not correct all the time.
+       * **Example** if you might see a Google Image analyzer or any other image analyzer. Typically, the actual output in the algorithm will not be a specific class. 75% of dog
+
+### Frequentist vs Bayesian
+![light](https://user-images.githubusercontent.com/12748752/126882430-cb0aa865-0c15-43f9-85d6-e6ce589c8772.png)
+**Probability** lies between **0** and **1**. In probabilistic analysis there are two interpretations of what a particular probability means.
+
+**Example:** Statement-  _There is 60% chance of rain tomorrow_. This can be interpreted in two distinct ways. 
+  1) **Frequentist**: Frequentist model would be like - _the temperature rise this much the pressure today so much it's slightly cloudy and in all such cases before then such things happen in sixty percent of the times it rained_. 
+       *  So such a statement would depend on something like what you have observed so far. And that's a frequentist approach to probability. 
+       *  It says it depends on the **proportion** of events in an infinite sample space. 
+       *  **An objective measure** - if I throw a dice let's say **millions** of times **two** will come up about one **sixth of the times**. So the probability is **one sixth**, This is an object to measure.
+  2) **Bayesian**: Preferred typically by economists or even philosophers this actually measures degree of belief.
+       * **Measures degree of belief** like- So it looks kind of likely that I am going to get about rain a little bit more than I but I am not really sure. So something of that sort it's a rough estimate.
+       * **Subjective  measure**
+
+#### Mathematics of resulting probabilities works the same way, at the end of the day it is the same mathamatics- 
+**P(Disease 1)** = **0.1, P(Disease 2)** = **0.2, P(D 1&D 2)** = **0.02, if they are independent**
+
+## Definitions
+![deep](https://user-images.githubusercontent.com/12748752/126882429-37cbd66d-213c-4c00-b145-37773c820bf3.png)
+
+#### ■ Random experiment - 
+Experiment that results in different outcomes despite being seemingly similar conditions.
+
+**Example** - **Tossing of a coin**, **throwing of a dice**, **rainfall amount**.
+  * I toss a coin, it seems to me that I am keeping the coin exactly the same way on my thumb, and I get heads and sometimes get tails, such an experiment is called a random experiment. 
+  * So rainfall amounts, throwing off dice are infinite examples of this.
+
+#### ■ Sample space 
+_Set of all possible outcomes of a random - experiment_.
+
+ * **Example:** Tossing of a coin. 
+
+$$\large{\color{Purple} 
+\begin{align*}
+& \textbf{ S=\\{H ,T \\} } & {\color{Black} \textit{ Tossing of a coin once} }\\ 
+& \textbf{ S=\\{HH ,H T ,TH ,TT \\} } & {\color{Black} \textit{ Tossing of a coin twice} }\\ 
+\end{align*}
+}
+$$
+
+* The sample space we choose depends on the purpose of analysis
+* **Example:** Diameter of a manufactured pipe. S could be -
+
+$$\large{\color{Purple} 
+\begin{align*}
+& S=\mathbb{R}^+ = \\{x|x>0 \\} \ \ \ \ OR & {\color{Black} \textit{ [The positive half of the real number line]} }\\ 
+& S=\\{low, medium, high\\} \ \ \ \ OR & {\color{Black} \textit{ [The diameter of the pipe low,mid,high]} }\\ 
+& S=\\{satisfactory, unsatisfactory\\} & {\color{Black} \textit{ [The product is either or]} }\\ 
+\end{align*}
+}
+$$ 
+
+
+ 
 ## Why we need Probability in NLP?
 ![deep](https://user-images.githubusercontent.com/12748752/126882429-37cbd66d-213c-4c00-b145-37773c820bf3.png)
 *  Provides methods to predict or make decisions to pick the next word in the sequence based on sampled data
