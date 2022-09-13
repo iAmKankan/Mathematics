@@ -22,7 +22,7 @@
      * [Maxima Minima](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
      * [Gradient](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
    * [Newton-Raphson Method]
-### Probability
+### [Probability](https://github.com/iAmKankan/Mathematics/tree/main/probability)
 ### [_Statistics_](https://github.com/iAmKankan/Statistics)
 ### [_Trigonometry_](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
    * [Trigonometric functions](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
