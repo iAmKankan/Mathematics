@@ -260,7 +260,16 @@ $$\large{\color{Purple}
 }
 $$
 
- 
+### Marginal Probability $\large{\color{Purple} P(X = x_i)}$
+Now why is it called **marginal probability**? If you notice these numbers, these total numbers are written in the margin. That is the historical origin. Marginalization does not mean anything else, it simply means that the columns or the rows have been summed up and you have put them the total in the margin which is why the total probability is called the marginal probability.
+
+
+
+
+
+
+
+
 ## Why we need Probability in NLP?
 ![deep](https://user-images.githubusercontent.com/12748752/126882429-37cbd66d-213c-4c00-b145-37773c820bf3.png)
 *  Provides methods to predict or make decisions to pick the next word in the sequence based on sampled data
