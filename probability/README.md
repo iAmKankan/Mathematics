@@ -143,6 +143,70 @@ $$
 
  [**To be continued**]
  
+![light](https://user-images.githubusercontent.com/12748752/126882430-cb0aa865-0c15-43f9-85d6-e6ce589c8772.png)
+ 
+ 
+Above discurssion was when we have single variable. Now the following are simple ideas when you have more than one variable. Now we are going to look at more than one random variable.
+ <p align="center">
+   <img src="https://user-images.githubusercontent.com/12748752/190052588-88be646c-ca04-4955-8dd1-5a58908bb42d.png" width=40% />
+   <br> <ins><b><i>Left: Red bucket, 6 Oranges and 2 Apples |  Right: Blue bucket, 3 Apples and 1 Oranges</i></b></ins>
+</p>
+
+So imagine that you have two baskets. 
+   * One of these is a **red basket** and one of them is a **blue basket** and each of these baskets has some fruits. 
+   * The orange ones you can assume are **oranges** and the green ones we will assume are **apples**. 
+Our task is to _randomly put our hand into one of the baskets and pick out a fruit_. Assume that all of them are well mixed and so if you are going to put your hand in one of the baskets, you will randomly pick out one of these fruits with equal probability. 
+   * So this **red basket** therefore has **six oranges** and **two apples**. This **Blue basket** here has **three apples** and **one orange**. 
+   * Further assume that your **choice of one basket** or the other is **not equally probable but that picking up**. So, Let us say-
+        * The **red basket** you pick up with the probability of **0.4**,(**40%**)  $\large P(B=r)=0.4$ . 
+        * And **60%** of the times you will pick the **blue basket**, $\large P(B=b)=0.6$ .
+
+The **Random variables** we have here are 
+   1) **B:** which **basket** we pick.
+   2) **F:** which **fruit** we pick.
+ 
+ $$
+\large{\color{Purple} 
+\begin{align*}
+\textrm{Random variables}&\\
+& B &: \\{b, r\\}\\
+& F &: \\{o, a\\}\\
+\end{align*}
+}
+$$ 
+ 
+#### Questions
+1) What is the probability of picking an orange?
+2) What is the probability that I picked the red basket given that the fruit I picked was an orange?
+
+#### Let us take a case where I take N = 100 trials.
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/12748752/190077077-1fd3ebf4-5f19-40bf-9765-86d714798c2f.png" width=80% />
+   <br> <ins><b><i></i></b></ins>
+</p>
+
+
+So, I have **100 trials** the basket will be **red** for total of **40 times**. Similarly the basket will be **blue** a total of **60 times**.
+1) Now the **40 times** that I pick **red basket**, suppose I want to know - _how many of the cases will the fruit be an orange_? 
+    * According to the probability **sixth-eight** of the cases which is **30** of the cases you are going to get an **orange**. 
+    * **Two-eight** of the cases, ten of the cases you get an **apple**. 
+So a **red basket** with an apple occurs **ten times**. 
+2) Now , **60 times** of the cases are the **blue basket**, 
+     * An **orange** comes **one-fourth** of **60** which turns out to be **15**. 
+     * And we know now that the rest of the **45** cases we must actually be picking an **apple**. 
+
+**100 trials what does it mean?** In each trial you pick the **basket** and chose a **fruit**. So amongst those **45** of the times we actually picked an **orange** and **55** times we actually picked an **apple**.
+
+So you can see **basket is red**, **basket is blue** and I have written this table out which tells which, how many of these cases, remember each of these cases actually indicate an intersection of the **two cases**, **basically both these cases occur together**.
+
+#### 
+
+
+
+ 
+ 
+ 
+ 
  
  
  
