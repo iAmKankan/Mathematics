@@ -121,13 +121,16 @@ $$
      
  * To be a **PMF** for a random variable X, a function P satisfies: 
     * Domain of P is the set of all possible states of X 
-    * **_0 ≤ P(X = x) ≤ 1_**
-    * **&sum;<sub> x &in; X</sub> P(X = x) = 1**
+    * $\large{\color{Purple}0 ≤ P(X = x) ≤ 1}$
+    * $\large{\color{Purple} \sum_{x \in X} P(X = x) = 1}$
 
- * Uniform random variable: P(x = x <sub>i</sub>) =<sup>1</sup> &frasl; <sub>k</sub>
- * 1 <fraction> <read>and</read> <numer>1</numer> <read>over</read> 2 </fraction>
- * Analogous to a point load
-     
+ * Uniform random variable: $\large{\color{Purple} P(x = x_i)=\frac{1}{k}}$
+ * Analogous to a **point load**
+ * 
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/12748752/190042871-cb162953-f98a-4969-8fad-d011ad4c1981.png" width=40% />
+   <br> <ins><b><i>PMF, Point load </i></b></ins>
+</p>
   
  
  
