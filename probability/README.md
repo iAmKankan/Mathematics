@@ -126,12 +126,23 @@ $$
 
  * Uniform random variable: $\large{\color{Purple} P(x = x_i)=\frac{1}{k}}$
  * Analogous to a **point load**
- * 
+
 <p align="center">
    <img src="https://user-images.githubusercontent.com/12748752/190042871-cb162953-f98a-4969-8fad-d011ad4c1981.png" width=40% />
    <br> <ins><b><i>PMF, Point load </i></b></ins>
 </p>
-  
+     
+   * ■ **Continuous Variable** -> **Probability Density Function (PDF)**
+      * **PDF - Probability density**. In **1D**, **p(x)** is probability **"per unit length"**
+      * What it is effectively is a probability per unit length, once again you can make an analogy so instead of a point Load. You now have something like a distributed load since this is a continuous function. We don't have gaps between any two random variables. 
+
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/12748752/190046964-96620743-3084-4a64-921d-6fef492f2f2c.png" width=20% align="center"/>
+    <br> <ins><b><i>Distribution</i></b></ins>
+</p>
+
+ [**To be continued**]
+ 
  
  
  
