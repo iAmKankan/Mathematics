@@ -69,7 +69,43 @@ $$\large{\color{Purple}
 }
 $$ 
 
+#### ■ Random Variable
+The variable that associates a number with an outcome of **random experiment** is called a **random variable**. Random variable by itself is something that is mapped, to either the **Real number &reals;** or the **Integers** **&integers;**
+* Can be done even for categorical outcomes
+* The variable that associates a number with an outcome of a random experiment is called a random variable → **&reals;**,**&integers;**
 
+**Notation** - The random variable is denoted by a capital letter (e.g **X**) and its value is denoted by a small letter (e.g. x). 
+* **Example:** The rainfall on a particular day is a random variable..
+     * We can ask "What is the probability that the rainfall is greater than 10mm?" 
+<p align="center">
+   <img src="https://latex.codecogs.com/svg.image?\large{\color{Purple}&space;\begin{align*}&&space;\textrm{&space;What&space;is&space;the&space;}&space;\underbrace{\mathrm{probability}}_{\mathbf{P}}&space;\textrm{&space;of&space;the&space;}&space;\underbrace{\mathrm{rainfall}}_{\mathbb{R}}&space;\textrm{&space;is&space;greater&space;than&space;}&space;\underbrace{10}_{\mathbf{r}}&space;\textrm{&space;mm?}&space;\\\end{align*}}" title="https://latex.codecogs.com/svg.image?\large{\color{Purple} \begin{align*}& \textrm{ What is the } \underbrace{\mathrm{probability}}_{\mathbf{P}} \textrm{ of the } \underbrace{\mathrm{rainfall}}_{\mathbb{R}} \textrm{ is greater than } \underbrace{10}_{\mathbf{r}} \textrm{ mm?} \\\end{align*}}" />
+</p>
+
+
+$$
+\large{\color{Purple} 
+\begin{align*}
+& \textrm{By the mathametical notation P(R>10) = ?}
+\end{align*}
+}
+$$ 
+ 
+#### ■ Probability Distributions
+A **probability distribution** tells us how likely a random variable is to take each of its possible states. A random variable can pick any state depending on what the sample space is. If the sample space has 10 members. Then the random variable can take all 10 values any of the 10 values not all 10 values simultaneously. Any of the 10 values the probability distribution tells us that not all of them might be equally likely. Some of them might be less likely. Some of them might be more likely. So that probability distribution is what tells you how likely each one of these values is.
+  
+  *  ■ **Discrete Random Variable (RV)**
+     * Has finite (or countably infinite) range
+     * **Example** - No. of typographical errors, no. of diagnostic errors, etc
+     * Probability measured by **Probability Mass Function (PMF)**
+     
+  * ■ **Continuous Random Variable (RV)**
+     * Has real number interval for its range.
+     * **Example** - Temperature, Pressure, Voltage, Height, Current, etc
+     * Probability measured by Probability Density Function (PDF)
+ 
+ 
+ 
+ 
  
 ## Why we need Probability in NLP?
 ![deep](https://user-images.githubusercontent.com/12748752/126882429-37cbd66d-213c-4c00-b145-37773c820bf3.png)
