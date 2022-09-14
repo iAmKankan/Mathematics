@@ -91,7 +91,9 @@ $$
 $$ 
  
 #### ■ Probability Distributions
-A **probability distribution** tells us how likely a random variable is to take each of its possible states. A random variable can pick any state depending on what the sample space is. If the sample space has 10 members. Then the random variable can take all 10 values any of the 10 values not all 10 values simultaneously. Any of the 10 values the probability distribution tells us that not all of them might be equally likely. Some of them might be less likely. Some of them might be more likely. So that probability distribution is what tells you how likely each one of these values is.
+A **probability distribution** tells us how likely a random variable is to take each of its possible states. A random variable can pick any state depending on what the sample space is. If the sample space has 10 members. Then the random variable can take any of the 10 values any of the 10 values not all 10 values simultaneously. Any of the 10 values.
+
+The probability distribution tells us that not all of them might be equally likely. Some of them might be less likely. Some of them might be more likely. So that probability distribution is what tells you how likely each one of these values is.
   
   *  ■ **Discrete Random Variable (RV)**
      * Has finite (or countably infinite) range
@@ -101,9 +103,20 @@ A **probability distribution** tells us how likely a random variable is to take 
   * ■ **Continuous Random Variable (RV)**
      * Has real number interval for its range.
      * **Example** - Temperature, Pressure, Voltage, Height, Current, etc
-     * Probability measured by Probability Density Function (PDF)
+     * Probability measured by **Probability Density Function (PDF)**
  
- 
+  * ■ **Probability Mass Function (PMF)** _Discrete Variable -> Probability Mass Function (PMF)_
+      * List of possible values along with their probabilities. 
+      * **Example:** So let's say you have a bias dice a bias dice means not all six sides are equally likely. So one is somewhat likely two has a different probability etc. So let's say we have these six probabilities.
+
+$$
+\large{\color{Purple} 
+\begin{align*}
+& \textrm{By the mathametical notation P(R>10) = ?}
+\end{align*}
+}
+$$ 
+  
  
  
  
