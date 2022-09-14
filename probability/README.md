@@ -2,6 +2,7 @@
 ![deep](https://user-images.githubusercontent.com/12748752/126882429-37cbd66d-213c-4c00-b145-37773c820bf3.png)
 
 
+
 ## Probability
 ![deep](https://user-images.githubusercontent.com/12748752/126882429-37cbd66d-213c-4c00-b145-37773c820bf3.png)
 The word **probability** literally denotes ‘_chance_’, and the **theory of probability** deals  with **laws governing the chances of occurrence of phenomena** which are **unpredictable**  in nature.  
@@ -199,16 +200,66 @@ So a **red basket** with an apple occurs **ten times**.
 
 So you can see **basket is red**, **basket is blue** and I have written this table out which tells which, how many of these cases, remember each of these cases actually indicate an intersection of the **two cases**, **basically both these cases occur together**.
 
-#### 
+### Joint Probability (Discrete)
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/12748752/190089983-ce87e4aa-4d1f-48ba-bd1d-77d234b135f2.png" width=40% />
+   <br> <ins><b><i></i></b></ins>
+</p>
 
 
 
- 
- 
- 
- 
- 
- 
+$$
+\large{\color{Purple} 
+\begin{align*}
+Generalize&\\
+& X : x_i ,i=1 ,\cdots ,m\\
+& Y : y_j , i=1,\cdots ,n\\
+\end{align*}
+}
+$$ 
+
+Now we can generalize this to two variables. Let us say you have a variable **X** and a variable **Y** just like in this case we had **B** and **F**, **basket** and **fruit**. 
+* In this case we have chosen m=5 and n=3.
+
+**_Joint probability_** is the probability that **X** will take desired value **x<sub>i</sub>** and **Y** will take some desired value **y<sub>j</sub>**. **For example**, in this case I could ask - 
+#### ■ What is the probability that the *basket is red* and the *fruit is orange*? 
+**Answer:** **P(B = r, F = o)** So that would be an example of a **joint probability**. 
+
+So you write it under the notation, 
+$$\Huge{\color{Purple}\boxed{P(X=x_i, Y=y_j)}}$$ 
+
+In our case - **basket is red** and the ***fruit is orange*** 
+$$\large{\color{Purple}P(B = r, F = o) = \frac{30}{100} =0.3}$$
+
+Let the number of trials that $\large{\color{Purple}X = x_{i}}$ and $\large{\color{Purple}Y = y_{j}}$ be $\large{\color{Purple}n_{ij}}$
+* Then 
+ $$\large{\color{Purple}P(X=x_i ,Y=y_j)= \frac{n_{ij}}{N}}$$
+
+* Where **N** is the total number of trials. So similarly you can ask what is probability of **basket is blue** and the ***fruit is apple***
+
+$$\large{\color{Purple}
+P(B=b , F=a)= \frac{45}{100} =0.45
+}
+$$
+
+### Sum Rule
+The **sum rule** asks the question which is, **if I do not want a joint probability but I simply want the question**
+* What is the probability that the **basket is red** **(P(B=r)**)?
+* What is the probability that the **fruit is an orange (P(F=o))**? 
+
+The probability that the fruit is an orange is going to be **30** of the cases where the fruit was an orange and the basket was red, 15 of the cases where fruit was an **orange** and the **basket was blue**, which means a total of **45 cases**. So the probability that the fruit is an **orange** $\large{\color{Purple}P(F = O) = \frac{45}{100}}$
+
+$$\large{\color{Purple}
+\begin{align*}
+& P(X = x_i)= \frac{c_i}{N} \ \ \ \ \  \Huge\textrm{ Marginal Probability} \\
+ However, \\
+ & c_i = \sum_{j} n_{ij}\\
+ & \Rightarrow P(X=x_i)= \sum_{j} \frac{n_{ij}}{N} \ \ \ \ {\color{Black}[\frac{n_{ij}}{N} = P(X=x_i ,Y=y_j)]}\\
+ & \Rightarrow \boxed{P \Big\(X=x_i \Big\)= \sum_{j} P\Big \(X=x_i ,Y=y_j\Big \)}   \ \ \ \ \  \Huge \textrm{ Sum Rule of Probability} \\
+\end{align*}
+}
+$$
+
  
 ## Why we need Probability in NLP?
 ![deep](https://user-images.githubusercontent.com/12748752/126882429-37cbd66d-213c-4c00-b145-37773c820bf3.png)
