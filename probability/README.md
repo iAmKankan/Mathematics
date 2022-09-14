@@ -107,15 +107,27 @@ The probability distribution tells us that not all of them might be equally like
  
   * ■ **Probability Mass Function (PMF)** _Discrete Variable -> Probability Mass Function (PMF)_
       * List of possible values along with their probabilities. 
-      * **Example:** So let's say you have a bias dice a bias dice means not all six sides are equally likely. So one is somewhat likely two has a different probability etc. So let's say we have these six probabilities.
+      * **Example:**  So let's say you have a bias dice a bias dice means not all six sides are equally likely. So one is somewhat likely two has a different probability etc. So let's say we have these six probabilities.
 
 $$
 \large{\color{Purple} 
 \begin{align*}
-& \textrm{By the mathametical notation P(R>10) = ?}
+& \normalsize\textrm{X: number that comes up on throw of a bised die.}\\
+& \textbf{P(X=1)=0.1 , }  \textbf{ P(X=2)=0.1 , }  \textbf{ P(X=3)=0.2 }\\
+& \textbf{P(X=4)=0.2 , }  \textbf{ P(X=5)=0.2 , }  \textbf{ P(X=6)=0.2 }\\
 \end{align*}
 }
 $$ 
+     
+ * To be a **PMF** for a random variable X, a function P satisfies: 
+    * Domain of P is the set of all possible states of X 
+    * **_0 ≤ P(X = x) ≤ 1_**
+    * **&sum;<sub> x &in; X</sub> P(X = x) = 1**
+
+ * Uniform random variable: P(x = x <sub>i</sub>) =<sup>1</sup> &frasl; <sub>k</sub>
+ * 1 <fraction> <read>and</read> <numer>1</numer> <read>over</read> 2 </fraction>
+ * Analogous to a point load
+     
   
  
  
