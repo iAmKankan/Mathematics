@@ -65,6 +65,14 @@ Also, $\large \mathbf{\frac{dx}{dt}}$ is the derivative of **x** with respect to
 </p>
 
 
+#### Now If we want to find out the **Instantaneous velocity** of a point let say **p**
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/190583668-08931f91-2431-4a0e-a3e5-6e99357a7bad.png" width=60% />
+</p>
+
+
 ## Continuity and Differentiability
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
