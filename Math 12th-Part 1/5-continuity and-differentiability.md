@@ -54,6 +54,16 @@ $$\large{\color{Purple}
 }
 $$
 
+where **Δx** be the displacement of a body in an infinitely **small interval** of time **Δt**.
+
+Here the time **Δt** tends to zero in the limit (because **&Delta;t** is very small that's why **&Delta;t &rarr; 0**). The direction of instantaneous velocity is along the tangent to the path at the point.
+Also, $\large \mathbf{\frac{dx}{dt}}$ is the derivative of **x** with respect to time **t**. In other words, the velocity of a particle at any instant is the derivative of the position co-ordinate of the particle with respect to time.
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/190573286-e460c15d-fdbe-46f9-ae95-0171e83d5e3b.png" width=50% />
+</p>
+
 
 ## Continuity and Differentiability
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
