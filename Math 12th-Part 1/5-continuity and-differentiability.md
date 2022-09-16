@@ -61,7 +61,7 @@ Also, $\large \mathbf{\frac{dx}{dt}}$ is the derivative of **x** with respect to
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12748752/190573286-e460c15d-fdbe-46f9-ae95-0171e83d5e3b.png" width=50% />
+  <img src="https://user-images.githubusercontent.com/12748752/190576878-fbbe0afd-15e4-431a-8546-d5e2ec443f5e.png" width=60% />
 </p>
 
 
