@@ -66,13 +66,17 @@ Also, $\large \mathbf{\frac{dx}{dt}}$ is the derivative of **x** with respect to
 
 
 #### ◾ Now If we want to find out the *Instantaneous velocity* of a point let say **p**
-* Then we need to make a tangent on this point.
-* The slope of that tangent becomes the **Instantaneous velocity**
+* Then we need to make a **tangent** on this point.
+* Find out the **slope** of the **tangent**
+* The **slope** of a tangent is $\large{\color{Purple} \ \ tan \theta\ \ \ or\ \ \  \frac{Perpendicular}{Base}}$
+* And that becomes the value of **Instantaneous velocity**.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12748752/190583668-08931f91-2431-4a0e-a3e5-6e99357a7bad.png" width=30% />
 </p>
 
+### ◾ Derivative is slope of a tangent 
+* Derivative of a function at a point **P** exist, if and only if the **function is continous** at point **P**.
 
 ## Continuity and Differentiability
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
