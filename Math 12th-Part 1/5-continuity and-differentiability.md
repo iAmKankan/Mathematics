@@ -4,7 +4,7 @@
 
 ## RECAP of Derivative and limit
 
-#### Velocity meaning and its formula
+#### ◾ Velocity meaning and its formula
 The velocity of a moving particle is the distance travelled by it in unit time in a given direction, or in other words, velocity is the **rate of displacement of a body**.
 
 
@@ -16,7 +16,7 @@ $$
 #### Types of velocity
 * **Uniform velocity**
 * **Variable velocity or non-uniform velocity**
-* **Average velocity**
+* ◾ **Average velocity**
 Consider a body moving with variable velocity. Then the ratio of total displacement to the total time interval is called average velocity.
 
 $$\large{\color{Purple}
@@ -29,7 +29,7 @@ $$
 </p>
 
 
-* **Instantaneous velocity**
+* ◾ **Instantaneous velocity**
 Consider a body moving with variable velocity. The velocity of an object at **a particular instant of time** is called its instantaneous velocity.
 For an object in motion along the **X –direction**, let **x(t)** and **x(t + Δt)** be the position co-ordinates at times **t**  and **(t + Δt)** respectively. 
 
@@ -65,11 +65,12 @@ Also, $\large \mathbf{\frac{dx}{dt}}$ is the derivative of **x** with respect to
 </p>
 
 
-#### Now If we want to find out the **Instantaneous velocity** of a point let say **p**
-
+#### ◾ Now If we want to find out the *Instantaneous velocity* of a point let say **p**
+* Then we need to make a tangent on this point.
+* The slope of that tangent becomes the **Instantaneous velocity**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12748752/190583668-08931f91-2431-4a0e-a3e5-6e99357a7bad.png" width=60% />
+  <img src="https://user-images.githubusercontent.com/12748752/190583668-08931f91-2431-4a0e-a3e5-6e99357a7bad.png" width=30% />
 </p>
 
 
