@@ -83,8 +83,22 @@ Also, $\large \mathbf{\frac{dx}{dt}}$ is the derivative of **x** with respect to
 
 ### Continuity Function
 **Definition 1:**  Suppose **_f_** is a real function on a subset of the real numbers and let **_c_** be a point in the domain of **_f_**. Then **_f_** is continuous at **c** if
+* Perticular point.
 
 $$\large{\color{Purple}
 \boxed{\lim_{x \to c} f(x ) = f(c)}
 }
 $$
+
+**Definition 2:**  A real function **f** is said to be continuous if it is continuous at every point in the domain of **f**.
+
+#### Algebra of continuous functions
+**f** and **g** be two real functions continuous at a real number **c**
+
+* f+g is continuous at x = c
+* f-g is continuous at x = c
+* f.g is continuous at x = c
+* f/g is continuous at x = c,(provided g (c) &ne; 0)
+
+
+
