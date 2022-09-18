@@ -108,7 +108,19 @@ In mathematics, a differentiable function of one real variable **is a function w
 Suppose **f** is a real function and **c** is a point in its domain. The derivative of **f** at **c** is defined by
 
 $$\large{\color{Purple}
-\boxed{\lim_{x \to c} f(x ) = f(c)}
-f^\prime() = \lim_{h to 0} =\frac{f(c+h)-f(c)}{h}
+f^\prime(c) = \lim_{h \to 0} =\frac{f(c+h)-f(c)}{h}
 }
 $$
+
+* First findout the value of **f(c+h)** and **f(c)**.
+* Then subtract it and finally divide it by **h**.
+* It al so convays that the value of **c** and **c+h** are very close coz **h &rarr; 0** 
+
+####  If we can find the _derivative_ exist of a function then the function is _differentiable_.
+
+
+
+
+
+
+
