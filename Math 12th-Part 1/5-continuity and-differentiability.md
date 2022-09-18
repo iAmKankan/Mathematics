@@ -124,6 +124,33 @@ $$
 </p>
 
 
+* Derivative of **_f_** is denoted by **_f&prime;(x)_** or $\large{\color{Purple} \frac{d}{dx}(f(x))}$
+
+* Derivative of **f** at **c** is denoted by $\large{\color{Purple} \frac{d}{dx}(f(x))|_c}$ or **_f&prime;(c)_** 
+
+* Every **differentiable** function is **continuous**.
+* A function is not differentiable at a point if: -The function is not continuous at the point.
+* A function is not differentiable at a point if: -The graph has a vertical line at the point
+  * **&theta;** means **90&deg;**,  **tan90&deg; = Undefined** (if we cant calculate **hypotenious/base** then the result would be **Undefined**)
 
 
+### Derivative of Standard Function
+#### Rules
 
+1) **(u&pm;v)&prime; = u&prime; &pm; v&prime;**
+2) **(uv)&prime; = u&prime;v + uv&prime;** [**Product rule**] or $\large{\color{Purple} \frac{d}{dx}(uv) = \Big\( \frac{d}{dx}\Big\)v + u\Big\(\frac{d}{dx}\Big\)}$
+3) $\large{\color{Purple} \Big\(\frac{u}{v}\Big\)^\prime = \frac{u^\prime v - uv^\prime}{v^2} ;v \neq 0  }$ (Quotient rule)
+
+### Derivative of Composite Functions
+Composite means made of several parts 
+* **f(x)=sin(x<sup>2</sup>)** 
+   * Let **x<sup>2</sup> = t** So, **f(x) = sin t**, where **t** is another function
+
+* **f(x) = (2x+3)<sup>3</sup>**
+   * **Let 2x + 3 = t** So, **f(x) = t<sup>3</sup>** , where **t** is another function
+
+#### Chain rule
+* **f(x)=sin(cos(x<sup>2</sup>))** For this kind of **composite function** we use **chain rule** to findout its **derivative**.
+
+
+#### Explicit and Implicit Function
