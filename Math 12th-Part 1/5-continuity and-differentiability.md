@@ -154,3 +154,6 @@ Composite means made of several parts
 
 
 #### Explicit and Implicit Function
+**Explicit:** Where we can find the direct relationship between two functions.
+
+#### Derivative of Implicit Function
