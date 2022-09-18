@@ -119,6 +119,9 @@ $$
 ####  If we can find the _derivative_ exist of a function then the function is _differentiable_.
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/190884038-e6e24cee-08d3-446b-a12e-fd24865f0a3c.png" width=60% />
+</p>
 
 
 
