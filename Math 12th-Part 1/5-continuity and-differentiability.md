@@ -82,7 +82,7 @@ Also, $\large \mathbf{\frac{dx}{dt}}$ is the derivative of **x** with respect to
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
 ### Continuity Function
-**Definition 1:**  Suppose **_f_** is a real function on a subset of the real numbers and let **_c_** be a point in the domain of **_f_**. Then **_f_** is continuous at **c** if
+◼️ **Definition 1:**  Suppose **_f_** is a real function on a subset of the real numbers and let **_c_** be a point in the domain of **_f_**. Then **_f_** is continuous at **c** if
 * Perticular point.
 
 $$\large{\color{Purple}
@@ -90,15 +90,25 @@ $$\large{\color{Purple}
 }
 $$
 
-**Definition 2:**  A real function **f** is said to be continuous if it is continuous at every point in the domain of **f**.
+◼️ **Definition 2:**  A real function **f** is said to be continuous if it is continuous at every point in the domain of **f**.
 
-#### Algebra of continuous functions
-**f** and **g** be two real functions continuous at a real number **c**
+### ◼️ Algebra of continuous functions
+◼️ **f** and **g** be two real functions continuous at a real number **c**
 
 * f+g is continuous at x = c
 * f-g is continuous at x = c
 * f.g is continuous at x = c
 * f/g is continuous at x = c,(provided g (c) &ne; 0)
 
+◼️ If at a point **c**, **x²** is continuous and if **g(x²)** i.e. **sin(x2)** is continuous, then **sin(x2)** is continuous at **x = c**
 
+## Differentiability
+In mathematics, a differentiable function of one real variable **is a function whose derivative exists at each point in its domain**.
 
+Suppose **f** is a real function and **c** is a point in its domain. The derivative of **f** at **c** is defined by
+
+$$\large{\color{Purple}
+\boxed{\lim_{x \to c} f(x ) = f(c)}
+f^\prime() = \lim_{h to 0} =\frac{f(c+h)-f(c)}{h}
+}
+$$
