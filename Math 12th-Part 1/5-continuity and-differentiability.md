@@ -154,6 +154,20 @@ Composite means made of several parts
 
 
 #### Explicit and Implicit Function
-**Explicit:** Where we can find the direct relationship between two functions.
+It is not necessary that functions are always expressed in this form **_y=f(x)_** . For example, consider one of the following relationships between x and y:
+1) $\large x - y - \pi = 0$
+2) $\large x + \sin{xy} - y = 0$
+
+* In the first case, we can solve for y and rewrite the relationship as **y = x - &pi;**.
+* In the second case, it does not seem that there is an easy way to solve for **y**. Nevertheless, there is no doubt about the dependence of **y** on **x** in either of the cases. 
+* When a relationship between **x** and **y** is expressed in a way that it is easy to solve for y and write **y = f (x)**, we say that **y** is given as an **explicit function** of **x**.
+* In the latter case it is **implicit** that **y** is a function of **x** and we say that the relationship of the second type, above, gives function implicitly. In this subsection, we learn to differentiate implicit functions.
 
 #### Derivative of Implicit Function
+Differentiate the complete expression with respect to a given variable. 
+
+#### *Exercise:* 
+1) Find $\frac{dy}{dx} \textrm{if x - y =} \pi.$
+
+### Derivatives of inverse trigonometric functions
+
