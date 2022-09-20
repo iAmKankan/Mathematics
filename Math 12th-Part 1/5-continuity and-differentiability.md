@@ -181,3 +181,15 @@ $$\large{\color{Purple}
 \end{align*}
 }
 $$
+
+
+###  Logarithmic and Exponential Functions
+#### Exponential function
+**y = b<sup>x</sup>** Exponential function with positive base **b> 1** is the function.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/191160758-e4612bf8-14bf-4654-9008-61e9d666fa1f.png" width=30%/> 
+</p>            
+
+* Domain could be anything (x is -ve or +ve)
+* Range is always +ve real numbers.
