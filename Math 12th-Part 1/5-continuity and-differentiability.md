@@ -208,3 +208,22 @@ $$
 * $\large e = \lim_{x \to \infty}  (1 + \frac{1}{x} )^x = 2 =2.718281828459\cdots $
 * $\large e = \lim_{x \to 0}  (1 + x )^\frac{1}{x} $
 * etc
+
+### Logarithmic and Exponential Functions
+We can write any exponential function in the form of log
+
+**Logarithmic Functions: ** Let **b> 1** be a real number. Then we say **log<sub>b</sub>a = x** if **b<sup>x</sup>= a** (**Logarithm** of **a** to base **b**)
+#### Example:
+1) **2<sup>4</sup>=16** **&rArr;** **log<sub>2</sub>16 = 4**
+2) **10<sup>3</sup>=1000** &rArr; **log<sub>10</sub>1000 = 3**
+
+#### Properties of log
+1) **Change of Base rule**
+    * ***Example:***
+       *  $\large\log_ap = \frac{\log_bp}{\log_ba}$       
+2) If we have **log<sub>b</sub>pq** = **log<sub>b</sub>p** + **log<sub>b</sub>q** ( provided everyone having same base)
+    * ***Example:*** 
+       *  **log<sub>b</sub>p<sup>2</sup>** = **log<sub>b</sub>p** + **log<sub>b</sub>p** = **2logp**
+       *  **log<sub>b</sub>p<sup>n</sup>** = **nlogp**
+
+3) $\large\log_b \frac{p}{q} = \log_bp- \log_bq$ ( provided everyone having same base)
