@@ -212,7 +212,7 @@ $$
 ### Logarithmic and Exponential Functions
 We can write any exponential function in the form of log
 
-**Logarithmic Functions: ** Let **b> 1** be a real number. Then we say **log<sub>b</sub>a = x** if **b<sup>x</sup>= a** (**Logarithm** of **a** to base **b**)
+**Logarithmic Functions:** Let **b> 1** be a real number. Then we say **log<sub>b</sub>a = x** if **b<sup>x</sup>= a** (**Logarithm** of **a** to base **b**)
 #### Example:
 1) **2<sup>4</sup>=16** **&rArr;** **log<sub>2</sub>16 = 4**
 2) **10<sup>3</sup>=1000** &rArr; **log<sub>10</sub>1000 = 3**
@@ -226,19 +226,19 @@ We can write any exponential function in the form of log
        *  **log<sub>b</sub>p<sup>2</sup>** = **log<sub>b</sub>p** + **log<sub>b</sub>p** = **2logp**
        *  **log<sub>b</sub>p<sup>n</sup>** = **nlogp**
 
-3) $\large\log_b \frac{p}{q} = \log_bp- \log_bq$ ( provided everyone having same base)
+3) $\large{\color{Purple}\log_b \frac{p}{q} = \log_bp- \log_bq}$ ( provided everyone having same base)
 
 
 ### Derivative of Logarithm & Exponential functions
 Formulas-
-1) $\Huge \frac{d}{dx}(e^x)=e^x $
-2) $\Huge \frac{d}{dx}(\log x)=\frac{1}{x}$
+1) $\Huge{\color{Purple} \frac{d}{dx}(e^x)=e^x }$
+2) $\Huge{\color{Purple} \frac{d}{dx}(\log x)=\frac{1}{x}}$
 
 #### Logarithmic Differentiation
-In this section, we will learn to differentiate certain special class of functions given in the form $\large y = f (x) = [u(x)]^{v (x)}$
-* By taking logarithm (to base e) the above may be rewritten as $\large \log y = v(x) log [u(x)]$
-* Using chain rule we may differentiate this to get $\large \frac{1}{y}.\frac{dy}{dx}= v(x). \frac{1}{u(x)}.u^\prime(x)+v^\prime(x).\log[u(x)]$
-* Which implies that $\large \frac{dy}{dx}= y \Big \[ \frac{v(x)}{u(x)}.u^\prime(x)+v^\prime(x).\log[u(x)] \Big \]$
+In this section, we will learn to differentiate certain special class of functions given in the form $\large {\color{Purple} y = f (x) = [u(x)]^{v (x)}}$
+* By taking logarithm (to base e) the above may be rewritten as $\large {\color{Purple} \log y = v(x) log [u(x)]}$
+* Using chain rule we may differentiate this to get $\large {\color{Purple} \frac{1}{y}.\frac{dy}{dx}= v(x). \frac{1}{u(x)}.u^\prime(x)+v^\prime(x).\log[u(x)]}$
+* Which implies that $\large {\color{Purple}\frac{dy}{dx}= y \Big \[ \frac{v(x)}{u(x)}.u^\prime(x)+v^\prime(x).\log[u(x)] \Big \]}$
 
 The main point to be noted in this method is that **f (x)** and **u(x)** must always be positive as otherwise their logarithms are not defined. This process of differentiation is known as logarithms differentiation and is illustrated by the following examples:
 
