@@ -189,7 +189,13 @@ $$
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12748752/191160758-e4612bf8-14bf-4654-9008-61e9d666fa1f.png" width=30%/> 
+  <img src="https://user-images.githubusercontent.com/12748752/191161144-76086df8-9e4b-406b-ab90-8b913a46f226.png" width=30%/> 
 </p>            
+
+
 
 * Domain could be anything (x is -ve or +ve)
 * Range is always +ve real numbers.
+#### 2 types exponential functions
+  1) Common exponential functions $y=10^x$ Base 10
+  2) Natural exponential functions $y=e^x$ base e
