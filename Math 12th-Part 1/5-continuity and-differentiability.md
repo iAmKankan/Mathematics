@@ -199,3 +199,12 @@ $$
 #### 2 types exponential functions
   1) Common exponential functions $y=10^x$ Base 10
   2) Natural exponential functions $y=e^x$ base e
+
+
+#### e: exponential constant (Euler's constant)
+
+* Value **e= 2.718** (approx)
+#### How to express
+* $\large e = \lim_{x \to \infty}  (1 + \frac{1}{x} )^x = 2 =2.718281828459\cdots $
+* $\large e = \lim_{x \to 0}  (1 + x )^\frac{1}{x} $
+* etc
