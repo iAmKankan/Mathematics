@@ -242,3 +242,9 @@ In this section, we will learn to differentiate certain special class of functio
 
 The main point to be noted in this method is that **f (x)** and **u(x)** must always be positive as otherwise their logarithms are not defined. This process of differentiation is known as logarithms differentiation and is illustrated by the following examples:
 
+
+### Derivative of Functions in Parametric Forms
+Sometimes the relation between two variables is neither explicit nor implicit, but some link of a third variable with each of the two variables, separately, establishes a relation between the first two variables. In such a situation, we say that the relation between them is expressed via a third variable. The third variable is called the parameter. More precisely, a relation expressed between two variables **x** and **y** in the form **x = f (t)**, **y = g (t)** is said to be parametric form with **t** as a parameter
+
+
+
