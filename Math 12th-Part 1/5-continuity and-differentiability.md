@@ -171,3 +171,13 @@ Differentiate the complete expression with respect to a given variable.
 
 ### Derivatives of inverse trigonometric functions
 
+$$\large{\color{Purple}
+\begin{align*}
+& \boxed{\Huge f(x) \sin^{-1}x }\\
+& \textrm{Let } y = \sin^{-1}x\\
+& x = \sin y\\
+&\textrm{Now Differentiate with respect to } x\\
+& dx/dx = \cos y\ dy/dx
+\end{align*}
+}
+$$
