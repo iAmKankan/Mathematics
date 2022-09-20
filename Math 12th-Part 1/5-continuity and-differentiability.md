@@ -227,3 +227,18 @@ We can write any exponential function in the form of log
        *  **log<sub>b</sub>p<sup>n</sup>** = **nlogp**
 
 3) $\large\log_b \frac{p}{q} = \log_bp- \log_bq$ ( provided everyone having same base)
+
+
+### Derivative of Logarithm & Exponential functions
+Formulas-
+1) $\Huge \frac{d}{dx}(e^x)=e^x $
+2) $\Huge \frac{d}{dx}(\log x)=\frac{1}{x}$
+
+#### Logarithmic Differentiation
+In this section, we will learn to differentiate certain special class of functions given in the form $\large y = f (x) = [u(x)]^{v (x)}$
+* By taking logarithm (to base e) the above may be rewritten as $\large \log y = v(x) log [u(x)]$
+* Using chain rule we may differentiate this to get $\large \frac{1}{y}.\frac{dy}{dx}= v(x). \frac{1}{u(x)}.u^\prime(x)+v^\prime(x).\log[u(x)]$
+* Which implies that $\large \frac{dy}{dx}= y \Big \[ \frac{v(x)}{u(x)}.u^\prime(x)+v^\prime(x).\log[u(x)]$
+
+The main point to be noted in this method is that **f (x)** and **u(x)** must always be positive as otherwise their logarithms are not defined. This process of differentiation is known as logarithms differentiation and is illustrated by the following examples:
+
