@@ -238,7 +238,7 @@ Formulas-
 In this section, we will learn to differentiate certain special class of functions given in the form $\large y = f (x) = [u(x)]^{v (x)}$
 * By taking logarithm (to base e) the above may be rewritten as $\large \log y = v(x) log [u(x)]$
 * Using chain rule we may differentiate this to get $\large \frac{1}{y}.\frac{dy}{dx}= v(x). \frac{1}{u(x)}.u^\prime(x)+v^\prime(x).\log[u(x)]$
-* Which implies that $\large \frac{dy}{dx}= y \Big \[ \frac{v(x)}{u(x)}.u^\prime(x)+v^\prime(x).\log[u(x)]$
+* Which implies that $\large \frac{dy}{dx}= y \Big \[ \frac{v(x)}{u(x)}.u^\prime(x)+v^\prime(x).\log[u(x)] \Big \]$
 
 The main point to be noted in this method is that **f (x)** and **u(x)** must always be positive as otherwise their logarithms are not defined. This process of differentiation is known as logarithms differentiation and is illustrated by the following examples:
 
