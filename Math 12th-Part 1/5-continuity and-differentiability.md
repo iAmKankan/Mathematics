@@ -246,5 +246,8 @@ The main point to be noted in this method is that **f (x)** and **u(x)** must al
 ### Derivative of Functions in Parametric Forms
 Sometimes the relation between two variables is neither explicit nor implicit, but some link of a third variable with each of the two variables, separately, establishes a relation between the first two variables. In such a situation, we say that the relation between them is expressed via a third variable. The third variable is called the parameter. More precisely, a relation expressed between two variables **x** and **y** in the form **x = f (t)**, **y = g (t)** is said to be parametric form with **t** as a parameter
 
-
+### Second Order Derivatives
+* Let y = f (x). T
+* hen dy/dx = f &prime;(x) ... (1) 
+* If f &prime;(x) is differentiable, we may differentiate (1) again w.r.t. x. Then, the left hand side becomes d dy dx dx       which is called the second order derivative of y w.r.t. x and is denoted by 2 2 d y dx . The second order derivative of f (x) is denoted by f (x).
 
