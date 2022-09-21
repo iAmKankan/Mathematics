@@ -247,6 +247,13 @@ The main point to be noted in this method is that **f (x)** and **u(x)** must al
 Sometimes the relation between two variables is neither explicit nor implicit, but some link of a third variable with each of the two variables, separately, establishes a relation between the first two variables. In such a situation, we say that the relation between them is expressed via a third variable. The third variable is called the parameter. More precisely, a relation expressed between two variables **x** and **y** in the form **x = f (t)**, **y = g (t)** is said to be parametric form with **t** as a parameter
 
 ### Second Order Derivatives
+So far we were dealing with  **1<sup>st</sup> order derivatives** where finding out 
+* the **Instantaneous velocity** in $\large\boxed{Velocity=\frac{dx}{dt}}$ and 
+*  the **acceleration** in $\large\boxed{Acceleration=\frac{dv}{dt}}$
+*  But the displacement is missing; $\large v=\frac{dx}{dt}$ so Acceleration is now $\large =\frac{d}{dt} \frac{dx}{dt}$
+*  **or** $\boxed{Acceleration=\frac{dv}{dt} = \frac{d^2x}{dt^2} }$ that is the 2nd orger derivative
+
+In other words, let say we have a function **_y=f(x)_** and its darivative is  $\large\frac{dy}{dx}=f^\prime(x)$  
 * Let **_y = f (x)_**.
 * Then $\large\frac{dy}{dx} = f^\prime(x) \cdots \cdots (1)$ 
 * If **_f&prime;(x)_** is differentiable, we may differentiate **(1)** again w.r.t. **x**. Then, the left hand side becomes $\large\frac{d}{dy}\Big\(\frac{dx}{dx}\Big \)$ which is called the **_second order derivative_** of **_y_** w.r.t. **x** and is denoted by $\large \frac{d^2y}{dx^2}$ . 
