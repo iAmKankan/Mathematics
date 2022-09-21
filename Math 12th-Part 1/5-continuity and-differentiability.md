@@ -272,3 +272,14 @@ Or
 * If **_f&prime;(x)_** is differentiable, we may differentiate **(1)** again w.r.t. **x**. Then, the left hand side becomes $\large\frac{d}{dy}\Big\(\frac{dx}{dx}\Big \)$ which is called the **_second order derivative_** of **_y_** w.r.t. **x** and is denoted by $\large \frac{d^2y}{dx^2}$ . 
 * The second order derivative of **_f(x)_** is denoted by **_f&Prime;(x)_**.
 
+### Rolle’s Theorem
+<p align="center">
+  <img src ="https://user-images.githubusercontent.com/12748752/191438730-1bda6714-35ca-407d-9f8c-87d137ffd58e.jpg" width=40%/>
+  <img src="https://user-images.githubusercontent.com/12748752/191452552-23b9e087-42d4-4b53-883e-4722677aae51.png" width=40%/>
+</p>
+
+For a function, $\large f:[a,b] \Rightarrow \mathbb{R}$, if
+* ->f is continuous on a **closed interval** [a, b](A closed interval is an interval which includes all its limit points, and is denoted with square brackets)
+* -> f is differentiable on a **open interval** (a, b) (An open interval does not include its endpoints, and is indicated with parentheses. For example, (0,1) means greater than 0 and less than 1. This means (0,1) = {x | 0 < x < 1}.)
+* ->f (a) = f (b)
+* then, there exists some ce (a, b) such that f'(c)=0
