@@ -253,8 +253,8 @@ So far we were dealing with  **1<sup>st</sup> order derivatives** where finding 
 *  But the displacement is missing; $\large v=\frac{dx}{dt}$ so Acceleration is now $\large =\frac{d}{dt} \frac{dx}{dt}$
 *  **or** $\boxed{Acceleration=\frac{dv}{dt} = \frac{d^2x}{dt^2} }$ that is the 2nd orger derivative
 
-In other words, let say we have a function **_y=f(x)_** if we differentiate it we get the **1<sup>st</sup> order derivative** which is  $\large\frac{dy}{dx}=f^\prime(x)$  if we further differentiate it we get the **2<sup>nd</sup> order derivative** 
-$\large\frac{d}{dx}\Big \( \frac{dy}{dx}\Big\) =\frac{d^2}{dx^2}= {f}\'\'(x)$ 
+In other words, let say we have a function **_y=f(x)_** if we differentiate it we get the **1<sup>st</sup> order derivative** which is  $\large\boxed{\frac{dy}{dx}=f^\prime(x)}$  if we further differentiate it we get the **2<sup>nd</sup> order derivative** 
+$\large\boxed{\frac{d}{dx}\Big \( \frac{dy}{dx}\Big\) =\frac{d^2y}{dx^2}= {f}\'\'(x)}$ 
 * Let **_y = f (x)_**.
 * Then $\large\frac{dy}{dx} = f^\prime(x) \cdots \cdots (1)$ 
 * If **_f&prime;(x)_** is differentiable, we may differentiate **(1)** again w.r.t. **x**. Then, the left hand side becomes $\large\frac{d}{dy}\Big\(\frac{dx}{dx}\Big \)$ which is called the **_second order derivative_** of **_y_** w.r.t. **x** and is denoted by $\large \frac{d^2y}{dx^2}$ . 
