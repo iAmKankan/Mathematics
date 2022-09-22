@@ -7,7 +7,7 @@
 * [Linear Combinations, Span, Linear Independence](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/combinations-span-independence.md)
 * [Cosine Similarity](https://github.com/iAmKankan/Mathematics/edit/main/LinearAlgebra/README.md#cosine-similarity)
 
-### [_Eigendecompositions_](https://github.com/iAmKankan/Mathematics/blob/main/eigendecompositions.md)
+### [_Eigendecompositions_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/matrix.md#eigen-decomposition-or-matrix-factorization)
 ### _Series_
    * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/formula.md#maclaurin-series)
 
