@@ -33,7 +33,6 @@ In the left side, if this is the **curve** $\large {\color{Purple} y = f(x)}$ an
 #### Example
 If you have something like ${\color{Purple}\displaystyle{\frac{dY}{dX}}}$ it means how much does ${\color{Purple}Y}$ change given that ${\color{Purple}X}$ changes buy a certain amount
 
-### In Geometry
 **Geometrically**, in **one dimension**, this can be given as the **slope** of the **tangent** and it is expressed by a **scalar** function. like-
 
 $$\large{\color{Purple} 
@@ -41,18 +40,19 @@ $$\large{\color{Purple}
 }
 $$
 
-In **higher dimensions**, it simply mean you still have a **scalar function** but **X** now is a vector ${\color{Purple}\mathbf{\vec{X}}}$. 
-* So in that case, ${\color{Purple}\mathbf{\vec{X}}}$ could be something like let us say ${\color{Purple}\mathbf{\vec{X}= (X_1, X_2, X_3); \vec{X}\in} \mathbb{R}^3}$, or 
-* It could be ${\color{Purple}\mathbf{\vec{X}= (X_1, X_2); \vec{X}\in} \mathbb{R}^2}$,
-* So in such a case we can have partial derivative, so let us look at such an example let us say ${\color{Purple}\mathbf{Z = F( X , Y)}}$
+
 
 
 #### The equation
 $$\large{\color{Purple}\displaystyle{f^\prime (a)=\frac{\mathrm{d} f}{\mathrm{d} x}(x=a)=\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}}}$$
 
-`x + h – f(x)`  by `h`, this of course is the limits of this [secant](https://en.wikipedia.org/wiki/Secant_line#:~:text=In%20geometry%2C%20a%20secant%20is,circle%20at%20exactly%20two%20points.), as they go towards this point and become a **tangent**, so the slope at this point `x` and `x + h`, so we find out the difference in values and as this limit tends to `0`, **the slope** will tend to a **finite value** and that is what we call **_the derivative of the slope at that point_**.
+`f(x + h) – f(x)`  by `h`, this of course is the limits of this [secant](https://en.wikipedia.org/wiki/Secant_line#:~:text=In%20geometry%2C%20a%20secant%20is,circle%20at%20exactly%20two%20points.), as they go towards this point and become a **tangent**, so the slope at this point `x` and `x + h`, so we find out the difference in values and as this limit tends to `0`, **the slope** will tend to a **finite value** and that is what we call **_the derivative of the slope at that point_**.
 
-Now, If we have higher dimensions, by higher dimensions I simply mean we still have a **scalar function** but now **x** is a vector. So in that case, $\large {\color{Purple} \vec{x}}$  could be something like let us say $\large {\color{Purple} \vec{x}=(x_1, x_2, x_3)}$ and $\large {\color{Purple} x \in \mathbb{R}^3}$ or the figure that I will show shortly could be $\large {\color{Purple} \vec{x}=(x_1, x_2)}$  which means $\large {\color{Purple} x \in \mathbb{R}^2}$ .
+### Partial Derivative
+In **higher dimensions**, it simply mean you still have a **scalar function** but now **X**  is a vector ${\color{Purple}\mathbf{\vec{X}}}$. 
+* So in that case, ${\color{Purple}\mathbf{\vec{X}}}$ could be something like let us say ${\color{Purple}\mathbf{\vec{X}= (X_1, X_2, X_3); \vec{X}\in} \mathbb{R}^3}$, or. 
+* It could be ${\color{Purple}\mathbf{\vec{X}= (X_1, X_2); \vec{X}\in} \mathbb{R}^2}$,
+* So in such a case we can have partial derivative, so let us look at such an example let us say ${\color{Purple}\mathbf{Z = F( X , Y)}}$
 
 ---
 
