@@ -50,6 +50,11 @@ In **higher dimensions**, it simply mean you still have a **scalar function** bu
 #### The equation
 $$\large{\color{Purple}\displaystyle{f^\prime (a)=\frac{\mathrm{d} f}{\mathrm{d} x}(x=a)=\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}}}$$
 
-`x + h – f(x)`  by `h`, this of course is the limits of this secants, as they go towards this point and become a **tangent**, so the slope at this point `x` and `x + h`, so we find out the difference in values and as this limit tends to `0`, **the slope** will tend to a **finite value** and that is what we call **_the derivative of the slope at that point_**.
+`x + h – f(x)`  by `h`, this of course is the limits of this [secant](https://en.wikipedia.org/wiki/Secant_line#:~:text=In%20geometry%2C%20a%20secant%20is,circle%20at%20exactly%20two%20points.), as they go towards this point and become a **tangent**, so the slope at this point `x` and `x + h`, so we find out the difference in values and as this limit tends to `0`, **the slope** will tend to a **finite value** and that is what we call **_the derivative of the slope at that point_**.
 
-Now, If we have higher dimensions, by higher dimensions I simply mean we still have a **scalar function** but **x** now is a vector. So in that case, $\large {\color{Purple} \vec{x}}$  could be something like let us say $\large {\color{Purple} \vec{x}=(x_1, x_2, x_3)}$ and $\large {\color{Purple} x \in \mathbb{R}^3}$ or the figure that I will show shortly could be $\large {\color{Purple} \vec{x}=(x_1, x_2)}$  which means $\large {\color{Purple} x \in \mathbb{R}^2}$ .
+Now, If we have higher dimensions, by higher dimensions I simply mean we still have a **scalar function** but now **x** is a vector. So in that case, $\large {\color{Purple} \vec{x}}$  could be something like let us say $\large {\color{Purple} \vec{x}=(x_1, x_2, x_3)}$ and $\large {\color{Purple} x \in \mathbb{R}^3}$ or the figure that I will show shortly could be $\large {\color{Purple} \vec{x}=(x_1, x_2)}$  which means $\large {\color{Purple} x \in \mathbb{R}^2}$ .
+
+---
+
+
+
