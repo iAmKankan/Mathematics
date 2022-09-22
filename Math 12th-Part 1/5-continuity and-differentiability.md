@@ -283,3 +283,10 @@ For a function, $\large f:[a,b] \Rightarrow \mathbb{R}$, if
 * -> f is differentiable on a **open interval** (a, b) (An open interval does not include its endpoints, and is indicated with parentheses. For example, (0,1) means greater than 0 and less than 1. This means (0,1) = {x | 0 < x < 1}.)
 * ->f (a) = f (b)
 * then, there exists some ce (a, b) such that f'(c)=0
+
+### Mean value Theorem
+For a function, f:[a,b] ----> R, if
+
+->f is continuous on [a, b] -f is differentiable on (a, b)
+
+then, there exists some c&in;(a, b)
