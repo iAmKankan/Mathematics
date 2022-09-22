@@ -9,14 +9,29 @@
 - Taylor Series
 
 ## Derivatives
-**Derivatives** typically measure _how one quantity changes_ when there is _a small change in another_.
+**Derivative** typically measures _**how one quantity changes when there is a small change in another**_. _It is essential for any type of **optimisation**_.
+
 #### Example
-If you have something like ${\color{Purple}\displaystyle{\frac{dy}{dx}}}$ it means how much does ${\color{Purple}y}$ change given that ${\color{Purple}x}$ changes buy a certain amount
+If you have something like ${\color{Purple}\displaystyle{\frac{dY}{dX}}}$ it means how much does ${\color{Purple}Y}$ change given that ${\color{Purple}X}$ changes buy a certain amount
 
 ### In Geometry
+**Geometrically**, in **one dimension**, this can be given as the **slope** of the **tangent** and it is expressed by a **scalar** function. like-
+
+$$\large{\color{Purple} 
+\boxed{f^\prime(a)}=\boxed{\frac{df}{dx}(x=a)} =\boxed{ \lim_{h\to 0}\frac{f(x+h)-f(x)}{h}}
+}
+$$
+
+In **higher dimensions**, it simply mean you still have a **scalar function** but **X** now is a vector ${\color{Purple}\mathbf{\vec{X}}}$. 
+* So in that case, ${\color{Purple}\mathbf{\vec{X}}}$ could be something like let us say ${\color{Purple}\mathbf{\vec{X}= (X_1, X_2, X_3); \vec{X}\in} \mathbb{R}^3}$, or 
+* It could be ${\color{Purple}\mathbf{\vec{X}= (X_1, X_2); \vec{X}\in} \mathbb{R}^2}$,
+* So in such a case we can have partial derivative, so let us look at such an example let us say ${\color{Purple}\mathbf{Z = F( X , Y)}}$
+
+
 <img src="https://user-images.githubusercontent.com/12748752/185729977-fb75f65b-c829-4e3c-9011-778e66fa4614.png" width=20% />
 
-**Geometrically** in a simple **scalar** case we look at this as the slope of a **tangent**.
+
+
 
 So if this is the curve $\large {\color{Purple} y = f(x)}$ and if this is the point let us say $\large {\color{Purple} p}$, if we differentiate $\large {\color{Purple} y}$ with respect to $\large {\color{Purple} x}$ at $\large {\color{Purple} x\ equal\ to\ p}$ we will get the slope of this tangent, 
 
