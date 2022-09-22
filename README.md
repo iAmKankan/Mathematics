@@ -11,17 +11,7 @@
 ### _Series_
    * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/formula.md#maclaurin-series)
 
-### _Calculus_
-   * [Differential calculus](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
-     * [Derivatives and Differentiation](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
-     * [Partial Derivatives](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
-     * [Gradients](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
-     * [Chain Rule](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
-     * [Power Rule](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
-     * [Other Formulas](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
-     * [Maxima Minima](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
-     * [Gradient](https://github.com/iAmKankan/Mathematics/blob/main/D_calculus.md)
-   * [Newton-Raphson Method]
+### [_Calculus_](https://github.com/iAmKankan/Mathematics/tree/main/calculus)
 ### [_Probability_](https://github.com/iAmKankan/Mathematics/tree/main/probability)
 ### [_Statistics_](https://github.com/iAmKankan/Statistics)
 ### [_Trigonometry_](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
