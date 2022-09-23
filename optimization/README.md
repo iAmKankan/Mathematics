@@ -76,4 +76,7 @@ Above **_f_** is a function that takes in a vector $\vec{a}$, which is in real n
   <img src="https://user-images.githubusercontent.com/12748752/191927759-8baa83a8-1a42-45ed-b93a-ba200dcacefe.png" width=20%/>
 </p>
 
+* Now reduced to a **one-dimensional** problem this is what it would look like, this is simply the cross-section of this function at **Y equal to 1** $\large{\color{Purple} \left. \frac{\partial z}{\partial x}\right|_{y =1} }$ and 
+* If I want the slope. $\large{\color{Purple} \frac{\partial z}{\partial x} \textrm{[x=1, y=1]} }$
+* then I take a cross-section, where **Y** is fixed at **1** and evaluate the slope at **X** equal to **1** by just changing **X** and that slope will actually gave me the value of this partial derivative.
 
