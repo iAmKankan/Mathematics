@@ -51,4 +51,17 @@ In **higher dimensions**, it simply mean you still have a **scalar function** bu
   <img src="https://user-images.githubusercontent.com/12748752/191878109-992d3387-4dd8-48ed-9b62-ea9618f94ea7.png" width=40%/>
   <br><ins><b>A graph of <i>z = x<sup>2</sup> + xy + y<sup>2</sup></i>. For the partial derivative at (1, 1) that leaves <i>y</i> constant, the corresponding tangent line is parallel to the xz-plane.</b></i></ins>
 
+#### Example:
+Let us say ${\color{Purple} Z = f(x,y)}$, now if you want to denote or visualize **Z**, you simply have the variables **X** and **Y**, as they change **Z** changes and you see here 1 whole surface okay for Z.
+ 
+##### Now, What is ${\color{Purple}\frac{\partial z}{\partial x} }$ at a particular point ? 
+Let us say a point (at the middle of the curve) I want to know-
+* If I change **X** and I keep **Y** fix, how much does **Z** changes.
+$$\Huge{\color{Purple} \left. \frac{\partial z}{\partial x}\right|_{\textit{y fixed}} }$$
 
+More generalized form-
+
+\large{\color{Purple}\begin{aligned}
+\frac {\partial }{\partial x_{i}}f(\mathbf{a} )&=\lim _{h\to 0}{\frac {f(\mathbf{a_{1},\ldots ,a_{i-1},a_{i}+h,a_{i+1},\ldots ,a_{n}})-f(\mathbf{a_{1},\ldots ,a_{i},\dots ,a_{n}})}{h}}\\ 
+&=\lim _{h\to 0}{\frac {f(\mathbf {a} +h\mathbf {e_{i}} )-f(\mathbf {a} )}{h}}
+\end{aligned}}
