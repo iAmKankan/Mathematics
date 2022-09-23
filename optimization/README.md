@@ -50,6 +50,7 @@ In **higher dimensions**, it simply mean you still have a **scalar function** bu
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12748752/191878109-992d3387-4dd8-48ed-9b62-ea9618f94ea7.png" width=40%/>
   <br><ins><b>A graph of <i>z = x<sup>2</sup> + xy + y<sup>2</sup></i>. For the partial derivative at (1, 1) that leaves <i>y</i> constant, the corresponding tangent line is parallel to the xz-plane.</b></i></ins>
+</p>
 
 #### Example:
 Let us say ${\color{Purple} Z = f(x,y)}$, now if you want to denote or visualize **Z**, you simply have the variables **X** and **Y**, as they change **Z** changes and you see here 1 whole surface okay for Z.
@@ -69,3 +70,10 @@ $$
 $$
 
 Above **_f_** is a function that takes in a vector $\vec{a}$, which is in real number **&#x211D;** with total has **n** number of components and it gives back a single **scalar** **&#x211D;** .It looks like $\large{\color{Purple} f: \mathbb{R}^n \to \mathbb{R}}$ 
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/191927759-8baa83a8-1a42-45ed-b93a-ba200dcacefe.png" width=40%/>
+</p>
+
+
