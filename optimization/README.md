@@ -47,4 +47,8 @@ In **higher dimensions**, it simply mean you still have a **scalar function** bu
 * It could be ${\color{Purple}\mathbf{\vec{X}= (X_1, X_2); \vec{X}\in} \mathbb{R}^2}$,
 * So in such a case we can have partial derivative, so let us look at such an example let us say ${\color{Purple}\mathbf{Z = F( X , Y)}}$
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/191878109-992d3387-4dd8-48ed-9b62-ea9618f94ea7.png" width=40%/>
+  <br><ins><b>A graph of <i>z = x<sup>2</sup> + xy + y<sup>2</sup></i>. For the partial derivative at (1, 1) that leaves <i>y</i> constant, the corresponding tangent line is parallel to the xz-plane.</b></i></ins>
+
 
