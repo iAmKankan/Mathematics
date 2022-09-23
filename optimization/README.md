@@ -21,7 +21,8 @@ In mathematics, the **derivative of a function of a real variable** measures the
 </p>
 
 
-
+#### Example
+If you have something like ${\color{Purple}\displaystyle{\frac{dY}{dX}}}$ it means how much does ${\color{Purple}Y}$ change given that ${\color{Purple}X}$ changes buy a certain amount
 
 In the left side, if this is the **curve** $\large {\color{Purple} y = f(x)}$ and a point let us say $\large {\color{Purple} p}$, if we differentiate $\large {\color{Purple} y}$ with respect to $\large {\color{Purple} x}$ at $\large {\color{Purple} x\ = \ p}$ we will get the **slope** of the **tangent**. 
 
@@ -30,9 +31,6 @@ In the left side, if this is the **curve** $\large {\color{Purple} y = f(x)}$ an
 * **_`f`_ prime _`p`_ $\large{\color{Purple}\displaystyle{f^\prime (p)}}$ or  _`f`_ prime _`x`_ equals _`p`_ $\large{\color{Purple}\displaystyle{f^\prime (x = p)}}$**
 
 
-#### Example
-If you have something like ${\color{Purple}\displaystyle{\frac{dY}{dX}}}$ it means how much does ${\color{Purple}Y}$ change given that ${\color{Purple}X}$ changes buy a certain amount
-
 **Geometrically**, in **one dimension**, this can be given as the **slope** of the **tangent** and it is expressed by a **scalar** function. like-
 
 $$\large{\color{Purple} 
@@ -40,21 +38,13 @@ $$\large{\color{Purple}
 }
 $$
 
-
-
-
-#### The equation
-$$\large{\color{Purple}\displaystyle{f^\prime (a)=\frac{\mathrm{d} f}{\mathrm{d} x}(x=a)=\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}}}$$
-
 `f(x + h) – f(x)`  by `h`, this of course is the limits of this [secant](https://en.wikipedia.org/wiki/Secant_line#:~:text=In%20geometry%2C%20a%20secant%20is,circle%20at%20exactly%20two%20points.), as they go towards this point and become a **tangent**, so the slope at this point `x` and `x + h`, so we find out the difference in values and as this limit tends to `0`, **the slope** will tend to a **finite value** and that is what we call **_the derivative of the slope at that point_**.
 
-### Partial Derivative
+## Partial Derivative
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 In **higher dimensions**, it simply mean you still have a **scalar function** but now **X**  is a vector ${\color{Purple}\mathbf{\vec{X}}}$. 
 * So in that case, ${\color{Purple}\mathbf{\vec{X}}}$ could be something like let us say ${\color{Purple}\mathbf{\vec{X}= (X_1, X_2, X_3); \vec{X}\in} \mathbb{R}^3}$, or. 
 * It could be ${\color{Purple}\mathbf{\vec{X}= (X_1, X_2); \vec{X}\in} \mathbb{R}^2}$,
 * So in such a case we can have partial derivative, so let us look at such an example let us say ${\color{Purple}\mathbf{Z = F( X , Y)}}$
-
----
-
 
 
