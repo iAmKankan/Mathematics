@@ -80,3 +80,5 @@ Above **_f_** is a function that takes in a vector $\vec{a}$, which is in real n
 * If I want the slope. ${\color{Purple} \Huge\frac{\partial z}{\partial x} \normalsize \textrm{[x=1, y=1]} }$
 * then I take a cross-section, where **Y** is fixed at **1** and evaluate the slope at **X** equal to **1** by just changing **X** and that slope will actually gave me the value of this partial derivative.
 
+## Gradient
+
