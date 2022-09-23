@@ -67,3 +67,5 @@ $$
 & = \lim _{h\to 0}{\frac {f(\mathbf {a} +h\mathbf{e_i} )-f(\mathbf {a} )}{h}}
 \end{aligned}}
 $$
+
+Above **_f_** is a function that takes in a vector, in this case the vector is **a<sup>&rarr;</sup>**, which is in real number **&#x211D;** with total has **n** number of components components and it gives back a single **scalar** **&#x211D;** .$\large{\color{Purple} f: \mathbb{R}^n \to \mathbb{R}}$ 
