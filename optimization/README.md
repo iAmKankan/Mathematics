@@ -64,6 +64,6 @@ More generalized form-
 $$
 \large{\color{Purple}\begin{aligned}
 \frac {\partial }{\partial x_{i}}f(\mathbf{a} )&=\lim _{h\to 0}{\frac {f(\mathbf{a_{1},\ldots ,a_{i-1},a_{i}+h,a_{i+1},\ldots ,a_{n}})-f(\mathbf{a_{1},\ldots ,a_{i},\dots ,a_{n}})}{h}}\\ 
-&=\lim _{h\to 0}{\frac {f(\mathbf {a} +h\mathbf {e_{i}} )-f(\mathbf {a} )}{h}}
+&=\lim _{h\to 0}{\frac {f(\mathbf {a} +h\mathbf{e_i} )-f(\mathbf {a} )}{h}}
 \end{aligned}}
 $$
