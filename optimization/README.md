@@ -73,7 +73,7 @@ Above **_f_** is a function that takes in a vector $\vec{a}$, which is in real n
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12748752/191927759-8baa83a8-1a42-45ed-b93a-ba200dcacefe.png" width=40%/>
+  <img src="https://user-images.githubusercontent.com/12748752/191927759-8baa83a8-1a42-45ed-b93a-ba200dcacefe.png" width=20%/>
 </p>
 
 
