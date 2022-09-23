@@ -22,7 +22,7 @@ In mathematics, the **derivative of a function of a real variable** measures the
 
 
 #### Example
-If you have something like ${\color{Purple}\displaystyle{\frac{dY}{dX}}}$ it means how much does ${\color{Purple}Y}$ change given that ${\color{Purple}X}$ changes buy a certain amount
+If you have something like $\large{\color{Purple}\displaystyle{\frac{dY}{dX}}}$ it means how much does ${\color{Purple}Y}$ change given that ${\color{Purple}X}$ changes buy a certain amount
 
 In the left side, if this is the **curve** $\large {\color{Purple} y = f(x)}$ and a point let us say $\large {\color{Purple} p}$, if we differentiate $\large {\color{Purple} y}$ with respect to $\large {\color{Purple} x}$ at $\large {\color{Purple} x\ = \ p}$ we will get the **slope** of the **tangent**. 
 
@@ -54,7 +54,7 @@ In **higher dimensions**, it simply mean you still have a **scalar function** bu
 #### Example:
 Let us say ${\color{Purple} Z = f(x,y)}$, now if you want to denote or visualize **Z**, you simply have the variables **X** and **Y**, as they change **Z** changes and you see here 1 whole surface okay for Z.
  
-##### Now, What is ${\color{Purple}\frac{\partial z}{\partial x} }$ at a particular point ? 
+##### Now, What is $\Huge{\color{Purple}\frac{\partial z}{\partial x} }$ at a particular point ? 
 Let us say a point (at the middle of the curve) I want to know-
 * If I change **X** and I keep **Y** fix, how much does **Z** changes.
 $$\Huge{\color{Purple} \left. \frac{\partial z}{\partial x}\right|_{\textit{y fixed}} }$$
