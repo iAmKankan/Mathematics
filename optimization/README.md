@@ -131,3 +131,5 @@ $$
 In particular, this means $\large{\color{Purple}\nabla f}$ is a vector-valued function.
 * If you imagine standing at a point $\large{\color{Purple}(x_0, y_0, \dots)}$  in the input space of $\large{\color{Purple}f}$, the vector $\large{\color{Purple}\nabla f(x_0, y_0, \dots)}$  tells you which direction you should travel to increase the value of $\large{\color{Purple}f}$ most rapidly.
 * These gradient vectors— $\large{\color{Purple}\nabla f(x_0, y_0, \dots)}$ — are also perpendicular to the contour lines of $\large{\color{Purple}f}$.
+
+
