@@ -9,49 +9,6 @@
    * [Other Formulas](#formula)
 
 
-$$\large{\color{Purple}
-\begin{align*}
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{1}&=&0 \\
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{x}&=&1 \\ 
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{x^2}&=&\mathrm{2x} \\ 
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{x^n}&=&\mathrm{nx^{n-1}} \\ 
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{2x}&=&\mathrm{2 * 1} \\
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{(1+x^2)}&=&\mathrm{0+2x=2x} \\ 
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathbf{(1-x^2)}&=&\mathrm{0-2x=-2x} \\ 
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathrm{e^x}&=&\mathrm{e^x* 1=e^x} \\ 
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathrm{e^{f(x)}}&=&\mathrm{e^{f(x)}} \frac{\mathrm{d} }{\mathrm{d} x}\mathrm{f(x)} \\ 
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathrm{\sin x}&=&\mathrm{\cos x} \\ 
-&\frac{\mathrm{d} }{\mathrm{d} x}\mathrm{\cos x}&=& \mathrm{-\sin x} \\ 
-&\frac{\mathrm{d} }{\mathrm{d} x}\mathrm{\tan x}&=& \mathrm{\sec^2 x} \\ 
-&\frac{\mathrm{d} }{\mathrm{d} x}\mathrm{\tan^{-1} x}&=& \mathrm{\frac{1}{1+x^2}}\\
-\end{align*}}
-$$
-
-$$\large{\color{Purple}
-\begin{aligned}
-&\frac{\mathrm{d} }{\mathrm{d} x}\mathrm{\sin^{-1} x}&=& \mathrm{\frac{1}{\sqrt{1+x^2} }} \\
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathrm{\sin f(x)}&=&\mathrm{\cos f(x)*}\frac{\mathrm{d} }{\mathrm{d} x}\mathrm{f(x)} \\
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathrm{\cos f(x)}&=&\mathrm{-\sin f(x)*}\frac{\mathrm{d} }{\mathrm{d} x}\mathrm{f(x)} \\
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathrm{\left [ f(x) \right ]^n}&=& \mathrm{n\left [ f(x) \right ]^{n-1} *}\frac{\mathrm{d} }{\mathrm{d} x} \mathrm{ f(x)} \\
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathrm{\cos^{-1}}x&=& -\frac{1}{\mathrm{\sqrt{1+x^2} } } \\ 
-&\frac{\mathrm{d} }{\mathrm{d} x} \mathrm{\log}x&=& \frac{1}{x} \\ 
-&\frac{\mathrm{d} }{\mathrm{d} x} \frac{1}{\mathrm{x}}&=&\mathrm{-\frac{1}{x^2}}\because \left ( \frac{1}{x}=x^{-1}\right )\mathrm{ (-1*x^{-1-1})} \\
-\end{aligned}
-}
-$$
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## What is Calculus
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
