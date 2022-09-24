@@ -118,7 +118,7 @@ x^2 \cos(y)
 }
 $$
 
-* The gradient of a scalar-valued multivariable function $f(x, y, \dots)$, denoted $\nabla f$, packages all its partial derivative information into a vector:
+* The gradient of a scalar-valued multivariable function $\large{\color{Purple}f(x, y, \dots)}$, denoted $\large{\color{Purple}\nabla f}$, packages all its partial derivative information into a vector:
 
 $$\Huge{\color{Purple}
 \nabla f(x,y)= \begin{bmatrix} \frac{\partial f}{{\color{Green}\partial x}}\\
@@ -128,6 +128,6 @@ $$\Huge{\color{Purple}
 }
 $$
 
-In particular, this means $\nabla f$ is a vector-valued function.
-* If you imagine standing at a point $(x_0, y_0, \dots)$  in the input space of $f$, the vector $\nabla f(x_0, y_0, \dots)$  tells you which direction you should travel to increase the value of $f$ most rapidly.
-* These gradient vectors— $\nabla f(x_0, y_0, \dots)$ — are also perpendicular to the contour lines of $f$.
+In particular, this means $\large{\color{Purple}\nabla f}$ is a vector-valued function.
+* If you imagine standing at a point $\large{\color{Purple}(x_0, y_0, \dots)}$  in the input space of $\large{\color{Purple}f}$, the vector $\large{\color{Purple}\nabla f(x_0, y_0, \dots)}$  tells you which direction you should travel to increase the value of $\large{\color{Purple}f}$ most rapidly.
+* These gradient vectors— $\large{\color{Purple}\nabla f(x_0, y_0, \dots)}$ — are also perpendicular to the contour lines of $\large{\color{Purple}f}$.
