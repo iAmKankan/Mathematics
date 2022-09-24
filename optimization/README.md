@@ -93,15 +93,22 @@ The **gradient of a function** $\large f$, denoted as $\large \nabla f$, is the 
 
 $$\Huge{\color{Purple}
 \begin{aligned}
-f(x,y) &= x^2 \sin(y)\\ 
+{\color{Blue}f(x,y) }&{\color{Blue}= x^2 \sin(y)}\\ 
 \frac{\partial f}{\partial x} &= 2x \sin(y)\\
 \frac{\partial f}{\partial y} &= x^2 \cos(y)\\
 \end{aligned}
 \begin{aligned}
 \\ 
-\Big \\} \nabla f(x,y)= \begin{bmatrix}2x \sin(y)\\
+\Big \\} \boxed{\nabla f(x,y)= \begin{bmatrix}2x \sin(y)\\
 x^2 \cos(y)
-\end{bmatrix}
+\end{bmatrix}}
+\end{aligned}
+\begin{aligned}
+\\
+& & & \normalsize \textit{In general        }
+\Huge\boxed{\nabla f= \begin{bmatrix}\frac{\partial f}{\partial x}\\
+\frac{\partial f}{\partial y}
+\end{bmatrix}}
 \end{aligned}
 }
 $$
