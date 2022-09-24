@@ -82,5 +82,9 @@ Above **_f_** is a function that takes in a vector $\vec{a}$, which is in real n
 
 ## Gradient
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+#### _How to Compute Gradient?_
+The **gradient** captures all the **partial derivative** information of a **scalar-valued** **multivariable function**. (**scalar-valued multivariable functions**, meaning those with a **multidimensional input** but a **one-dimensional output**)
 
+The **gradient of a function** $\large f$, denoted as $\large \nabla f$, is the collection of **all its partial derivatives** into **a vector**.
 
+But it's more than a mere storage device, it has several wonderful interpretations and many, many uses.
