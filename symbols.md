@@ -82,3 +82,8 @@
 |REF |Row-echelon form|
 |SPD |Symmetric, positive definite|
 |SVM |Support vector machine|
+
+
+<img src="https://user-images.githubusercontent.com/12748752/192082426-e9e318d6-8f01-4e12-b6d0-1f779ce3a2da.png"/>
+
+<img src="https://user-images.githubusercontent.com/12748752/192082411-d483af3a-3eda-46f7-b98d-a6bec8ad8976.png"/>
