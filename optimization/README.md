@@ -1,9 +1,9 @@
 ## Index
-![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
-#### _Derivatives_
-#### _Gradien_
+#### [_Derivatives Theory_](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#derivatives)
+   * [_Partial Derivative_](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#partial-derivative)
+#### [_Gradien Theory_](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#gradient)
 - Hessian
 - Jacobian
 - Taylor Series
@@ -41,7 +41,7 @@ $$
 `f(x + h) – f(x)`  by `h`, this of course is the limits of this [secant](https://en.wikipedia.org/wiki/Secant_line#:~:text=In%20geometry%2C%20a%20secant%20is,circle%20at%20exactly%20two%20points.), as they go towards this point and become a **tangent**, so the slope at this point `x` and `x + h`, so we find out the difference in values and as this limit tends to `0`, **the slope** will tend to a **finite value** and that is what we call **_the derivative of the slope at that point_**.
 
 ## Partial Derivative
-![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 In **higher dimensions**, it simply mean you still have a **scalar function** but now **X**  is a vector ${\color{Purple}\mathbf{\vec{X}}}$. 
 * So in that case, ${\color{Purple}\mathbf{\vec{X}}}$ could be something like let us say ${\color{Purple}\mathbf{\vec{X}= (X_1, X_2, X_3); \vec{X}\in} \mathbb{R}^3}$, or. 
 * It could be ${\color{Purple}\mathbf{\vec{X}= (X_1, X_2); \vec{X}\in} \mathbb{R}^2}$,
@@ -81,4 +81,6 @@ Above **_f_** is a function that takes in a vector $\vec{a}$, which is in real n
 * then I take a cross-section, where **Y** is fixed at **1** and evaluate the slope at **X** equal to **1** by just changing **X** and that slope will actually gave me the value of this partial derivative.
 
 ## Gradient
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+
 
