@@ -91,6 +91,12 @@ The **gradient of a function** $\large f$, denoted as $\large \nabla f$, is the 
   <img src="https://user-images.githubusercontent.com/12748752/192076320-c7406177-fbc6-4a3e-b8d3-23503a35bb35.png" width =50%/>
  </p>
 
+#### Example #1:
+Suppose we have a two variable function $\large f(x,y)$, now we need to findout the partial derivatives of the function. 
+* Partial derivative for **x**, while **y** keep as constant which is $\large 2x \sin(y)$
+* Partial derivative for **y**, now **x** keep as constant which is $\large x^2 \cos(y)$ 
+* 
+
 $$\Huge{\color{Purple}
 \begin{aligned}
 {\color{Blue}f(x,y) }&{\color{Blue}= x^2 \sin(y)}\\ 
