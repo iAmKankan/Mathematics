@@ -87,4 +87,21 @@ The **gradient** captures all the **partial derivative** information of a **scal
 
 The **gradient of a function** $\large f$, denoted as $\large \nabla f$, is the collection of **all its partial derivatives** into **a vector**.
 
-But it's more than a mere storage device, it has several wonderful interpretations and many, many uses.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/192076320-c7406177-fbc6-4a3e-b8d3-23503a35bb35.png" width =50%/>
+ </p>
+
+$$\Huge{\color{Purple}
+\begin{aligned}
+f(x,y) &= x^2 \sin(y)\\ 
+\frac{\partial f}{\partial x} &= 2x \sin(y)\\
+\frac{\partial f}{\partial y} &= x^2 \cos(y)\\
+\end{aligned}
+\begin{aligned}
+\\ 
+\Big \\} \nabla f(x,y)= \begin{bmatrix}2x \sin(y)\\
+x^2 \cos(y)
+\end{bmatrix}
+\end{aligned}
+}
+$$
