@@ -95,7 +95,6 @@ The **gradient of a function** $\large f$, denoted as $\large \nabla f$, is the 
 Suppose we have a two variable function $\large f(x,y)$, now we need to findout the partial derivatives of the function. 
 * Partial derivative for **x**, while **y** keep as constant which is $\large 2x \sin(y)$
 * Partial derivative for **y**, now **x** keep as constant which is $\large x^2 \cos(y)$ 
-* 
 
 $$\Huge{\color{Purple}
 \begin{aligned}
@@ -118,3 +117,5 @@ x^2 \cos(y)
 \end{aligned}
 }
 $$
+
+
