@@ -118,4 +118,16 @@ x^2 \cos(y)
 }
 $$
 
+* The gradient of a scalar-valued multivariable function $f(x, y, \dots)$, denoted $\nabla f$, packages all its partial derivative information into a vector:
 
+$$\Huge{\color{Purple}
+\nabla f(x,y)= \begin{bmatrix} \frac{\partial f}{{\color{Green}\partial x}}\\
+\frac{\partial f}{{\color{Blue}\partial y}}\\
+\vdots
+\end{bmatrix}
+}
+$$
+
+In particular, this means $\nabla f$ is a vector-valued function.
+* If you imagine standing at a point $(x_0, y_0, \dots)$  in the input space of $f$, the vector $\nabla f(x_0, y_0, \dots)$  tells you which direction you should travel to increase the value of $f$ most rapidly.
+* These gradient vectors— $\nabla f(x_0, y_0, \dots)$ — are also perpendicular to the contour lines of $f$.
