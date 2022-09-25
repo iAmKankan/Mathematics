@@ -172,7 +172,8 @@ Now the gradient notice is a vector and the direction of the gradient tells you 
 ### The Gradient Field
 Now if you have a more complex curve something like this, you can draw **the gradient field**,
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12748752/192137976-199a08f4-2347-4205-a615-dd46ea255159.png" width=40%/>
+  <img src="https://user-images.githubusercontent.com/12748752/192137976-199a08f4-2347-4205-a615-dd46ea255159.png" width=45%/>
 </p>
+
 I have an f, I have Del F Del X 1 and I have Del F Del X 2, these 2 put together define a **vector** and that **vector** is what is drawn here, longer arrows means higher gradients and shorter arrows means lower gradient.
 Now one useful way of utilising the gradient vector is as I told you before, you might not only want Del F Del X and Del F Del Y, you might also want Del F Del V, where V is some other direction. So suppose X and Y are orthogonal and V is a 3rd direction, suppose you want Del
