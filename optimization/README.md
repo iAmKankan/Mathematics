@@ -132,4 +132,21 @@ In particular, this means $\large{\color{Purple}\nabla f}$ is a vector-valued fu
 * If you imagine standing at a point $\large{\color{Purple}(x_0, y_0, \dots)}$  in the input space of $\large{\color{Purple}f}$, the vector $\large{\color{Purple}\nabla f(x_0, y_0, \dots)}$  tells you which direction you should travel to increase the value of $\large{\color{Purple}f}$ most rapidly.
 * These gradient vectors— $\large{\color{Purple}\nabla f(x_0, y_0, \dots)}$ — are also perpendicular to the contour lines of $\large{\color{Purple}f}$.
 
+#### Example #2
+Suppose we ahave a curve $z=f(x,y)$ , how much does the **value of the function change** at this **point** if the value of **x** changes.
+* You have partial derivative of **x** as well as of **y** - $\frac{\partial f}{\partial x}$ and $\frac{\partial f}{\partial y}$
+* Instead of just looking at these two directions like -
+    * $\frac{\partial f}{\partial x}$, would be the change in the direction of **x** and 
+    * $\frac{\partial f}{\partial y}$, would be the change in direction of **y**.
+* You could ask for the 3rd direction, I could call it as $\frac{\partial f}{\partial v}$, where **v** is some arbitrary direction okay. 
+* So if this is **x**, this is **y** and **v** could be some 3rd direction altogether.
 
+So the gradient is defined as basically a concatenation or putting together of all these partial derivative, so in this case with the two-dimensional case we have to search partial derivatives, in the n dimensional case you will have n such partial derivatives and you would basically write the gradient of F in my case would be 
+
+$$\Huge{\color{Purple}
+\nabla f(x,y)= \begin{bmatrix} \frac{\partial f}{\partial x}\\
+\frac{\partial f}{\partial y}\\
+\vdots
+\end{bmatrix}
+}
+$$
