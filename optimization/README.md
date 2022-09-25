@@ -136,9 +136,8 @@ In particular, this means $\large{\color{Purple}\nabla f}$ is a vector-valued fu
 
 #### Example #2
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12748752/192132414-f8afa441-64f8-4c44-b1c7-282083057631.png" width=50%/>
+  <img src="https://user-images.githubusercontent.com/12748752/192133935-e42b650e-3ae0-4a73-b604-e6d57525afce.png" width=50%/>
 </p>
-![gradient2](https://user-images.githubusercontent.com/12748752/192133935-e42b650e-3ae0-4a73-b604-e6d57525afce.png)
 
 Suppose we ahave a curve $\Large{\color{Purple}z=f(x,y)}$ , how much does the **value of the function change** at this **point** if the value of **x** changes.
 * You have partial derivative of **x** as well as that of **y** - $\Large{\color{Purple}\frac{\partial f}{\partial x}}$ and $\Large{\color{Purple}\frac{\partial f}{\partial y}}$
