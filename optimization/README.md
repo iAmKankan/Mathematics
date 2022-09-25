@@ -136,7 +136,7 @@ In particular, this means $\large{\color{Purple}\nabla f}$ is a vector-valued fu
 
 #### Example #2
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12748752/192132414-f8afa441-64f8-4c44-b1c7-282083057631.png" width=40%/>
+  <img src="https://user-images.githubusercontent.com/12748752/192132414-f8afa441-64f8-4c44-b1c7-282083057631.png" width=50%/>
 </p>
 
 Suppose we ahave a curve $\Large{\color{Purple}z=f(x,y)}$ , how much does the **value of the function change** at this **point** if the value of **x** changes.
