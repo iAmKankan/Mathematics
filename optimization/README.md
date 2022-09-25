@@ -138,6 +138,7 @@ In particular, this means $\large{\color{Purple}\nabla f}$ is a vector-valued fu
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12748752/192132414-f8afa441-64f8-4c44-b1c7-282083057631.png" width=50%/>
 </p>
+![gradient2](https://user-images.githubusercontent.com/12748752/192133935-e42b650e-3ae0-4a73-b604-e6d57525afce.png)
 
 Suppose we ahave a curve $\Large{\color{Purple}z=f(x,y)}$ , how much does the **value of the function change** at this **point** if the value of **x** changes.
 * You have partial derivative of **x** as well as that of **y** - $\Large{\color{Purple}\frac{\partial f}{\partial x}}$ and $\Large{\color{Purple}\frac{\partial f}{\partial y}}$
@@ -155,3 +156,13 @@ $$\Huge{\color{Purple}
 \end{bmatrix}
 }
 $$
+
+### Contours
+Now imagine this curve here, imagine it is a bunch of springs and you just collapse it and you will see in the center, this projection here are called contours.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/192133984-e48126ee-4e2e-4677-8c38-116634287cdc.png" width=40%/>
+</p>
+#### What does the contour mean? 
+**Answer:** If I take this contour and raise it up to the curve(doted line in cylindric shape), it has all the values at this cylindric places of **x** and **y** all of these places **z** has the same value, so these are what are called **level sets** or **contours**
+
+
