@@ -204,3 +204,5 @@ H_{i,j} =
 \in \mathbb{R}^{n \times n}
 }
 $$
+
+* Note that the Hessian is a symmetric matrix
