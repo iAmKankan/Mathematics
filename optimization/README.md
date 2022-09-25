@@ -121,9 +121,10 @@ $$
 * The gradient of a scalar-valued multivariable function $\large{\color{Purple}f(x, y, \dots)}$, denoted $\large{\color{Purple}\nabla f}$, packages all its partial derivative information into a vector:
 
 $$\Huge{\color{Purple}
-\nabla f(x,y)= \begin{bmatrix} \frac{\partial f}{{\color{Green}\partial x}}\\
-\frac{\partial f}{{\color{Blue}\partial y}}\\
-\vdots
+\nabla f(x_1,x_2,\ldots,x_n)= \begin{bmatrix} \frac{\partial f}{{\color{Blue}\partial x_1}}\\
+\frac{\partial f}{{\color{Blue}\partial x_2}}\\
+\vdots\\
+\frac{\partial f}{{\color{Blue}\partial x_n}}\\
 \end{bmatrix}
 }
 $$
