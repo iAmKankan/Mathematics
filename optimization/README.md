@@ -185,5 +185,22 @@ $$
 I have an function and I have $\large{\color{Purple}\frac{\partial f}{\partial x_1}}$ and I have $\large{\color{Purple}\frac{\partial f}{\partial x_2}}$, these 2 put together define a **vector** and that **vector** is what is drawn here, longer arrows means higher gradients and shorter arrows means lower gradient.
 Now one useful way of utilising the gradient vector is as I told you before, you might not only want $\large{\color{Purple}\frac{\partial f}{\partial x}}$ and $\large{\color{Purple}\frac{\partial f}{\partial y}}$, you might also want $\large{\color{Purple}\frac{\partial f}{\partial v}}$, where **v** is some other direction. So suppose **x** and **y** are orthogonal and **v** is a 3rd direction, 
 * Suppose you want $\large{\color{Purple}\frac{\partial f}{\partial v}}$, what does that mean? 
-* Physically it means if I move it in the direction **v** or &hat; v, how much will the function change? And this is fairly easy, all you do is take the gradient which we have defined before, this is $\large{\color{Purple}\frac{\partial f}{\partial x_1}}$ and $\large{\color{Purple}\frac{\partial f}{\partial x_2}}$ so on and so forth up to $\large{\color{Purple}\frac{\partial f}{\partial x_n}}$, 
-* this vector dotted with the direction **v** ok. You can simply see special cases if **v** was I cap okay or the X_1 direction then gradient in the direction V should be Del F Del X 1 which is correct okay, so this retains the meaning of partial derivatives. Similarly, if you take the direction 2 you will get Del F Del X 2 so on and so forth, so for the coordinate axis this kind of reduces trivially but in the general case you simply take a dot product along that direction.
+* Physically it means if I move it in the direction **v** or &hat; v, how much will the function change? And this is fairly easy, all you do is take the gradient which we have defined before, this is $\large{\color{Purple}\frac{\partial f}{\partial x_1}}$ and $\large{\color{Purple}\frac{\partial f}{\partial x_2}}$ so on and so forth up to $\large{\color{Purple}\frac{\partial f}{\partial x_n}}$, this vector dotted with the direction **v** ok. 
+* You can simply see special cases if **v** was $\hat{i}$ okay or the X_1 direction then gradient in the direction V should be Del F Del X 1 which is correct okay, so this retains the meaning of partial derivatives. Similarly, if you take the direction 2 you will get Del F Del X 2 so on and so forth, so for the coordinate axis this kind of reduces trivially but in the general case you simply take a dot product along that direction.
+
+## Hessian
+* The Hessian is the gradient of the gradient.
+  * It is the equivalent of the second derivative in scalar calculus and has similar uses
+* For $\Large{\color{Purple}f:\mathbb{R}^n\to \mathbb{R}}$ , we have $\Large{\color{Purple}H_{i,j}=\frac{\partial^2 f}{\partial x_i \partial x_j}}$ is the Hessian which is a $\Large{\color{Purple}n \times m}$ matrix.
+
+$$\Huge{\color{Purple}
+H_{i,j} =
+\begin{bmatrix}
+\frac{\partial^2 f}{\partial x_1 \partial x_1} & \frac{\partial^2 f}{\partial x_1 \partial x_2}& \cdots&\frac{\partial^2 f}{\partial x_1 \partial x_n}\\
+\frac{\partial^2 f}{\partial x_2 \partial x_1} & \frac{\partial^2 f}{\partial x_2 \partial x_2}& \cdots&\frac{\partial^2 f}{\partial x_2 \partial x_n}\\
+\vdots & \vdots & \ddots & \vdots \\
+\frac{\partial^2 f}{\partial x_n \partial x_1} & \frac{\partial^2 f}{\partial x_n \partial x_2}& \cdots&\frac{\partial^2 f}{\partial x_n \partial x_n}\\
+\end{bmatrix}
+\in \mathbb{R}^{n \times n}
+}
+$$
