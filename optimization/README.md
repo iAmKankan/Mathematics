@@ -146,7 +146,6 @@ So the gradient is defined as basically a concatenation or putting together of a
 $$\Huge{\color{Purple}
 \nabla f(x,y)= \begin{bmatrix} \frac{\partial f}{\partial x}\\
 \frac{\partial f}{\partial y}\\
-\vdots
 \end{bmatrix}
 }
 $$
