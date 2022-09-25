@@ -135,6 +135,10 @@ In particular, this means $\large{\color{Purple}\nabla f}$ is a vector-valued fu
 * These gradient vectors— $\large{\color{Purple}\nabla f(x_0, y_0, \dots)}$ — are also perpendicular to the contour lines of $\large{\color{Purple}f}$.
 
 #### Example #2
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/192132414-f8afa441-64f8-4c44-b1c7-282083057631.png" width=40%/>
+</p>
+
 Suppose we ahave a curve $\Large{\color{Purple}z=f(x,y)}$ , how much does the **value of the function change** at this **point** if the value of **x** changes.
 * You have partial derivative of **x** as well as that of **y** - $\Large{\color{Purple}\frac{\partial f}{\partial x}}$ and $\Large{\color{Purple}\frac{\partial f}{\partial y}}$
 * Instead of just looking at these two directions like -
