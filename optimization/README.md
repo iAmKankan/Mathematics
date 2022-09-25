@@ -159,9 +159,12 @@ $$
 ### Contours
 Now imagine this curve here, imagine it is a bunch of springs and you just collapse it and you will see in the center, this projection here are called contours.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12748752/192133984-e48126ee-4e2e-4677-8c38-116634287cdc.png" width=40%/>
+  <img src="https://user-images.githubusercontent.com/12748752/192134275-e32902ad-47f9-4cb1-9bff-3684a9cf0b22.png" width=50%/>
 </p>
+
 #### What does the contour mean? 
 **Answer:** If I take this contour and raise it up to the curve(doted line in cylindric shape), it has all the values at this cylindric places of **x** and **y** all of these places **z** has the same value, so these are what are called **level sets** or **contours**
 
+Now this right hanside picture is shaded according to value for example, in the center the value of the function is high, in the edges the value of the function is low so the places where the **value of the function is high** is **shaded as dark black** and later on it is shaded white okay. 
 
+Now the gradient notice is a vector and the direction of the gradient tells you in which direction is the change the sharpest okay, so the change is the highest in the direction of the gradient okay. So in this case for example all the change is the sharpest in the horizontal direction okay. This of course is colour-coded now okay red means high, blue means low so this is just simply colour-coded but it is the same idea. Some of you who have worked in fluid mechanics might have seen this or even in other fields. So now you notice this, these are arrows here and the arrows are aligned along the direction of maximum change.
