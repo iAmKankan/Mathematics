@@ -136,7 +136,7 @@ In particular, this means $\large{\color{Purple}\nabla f}$ is a vector-valued fu
 
 #### Example #2
 Suppose we ahave a curve $\Large{\color{Purple}z=f(x,y)}$ , how much does the **value of the function change** at this **point** if the value of **x** changes.
-* You have partial derivative of **x** as well as of **y** - $\Large{\color{Purple}\frac{\partial f}{\partial x}}$ and $\Large{\color{Purple}\frac{\partial f}{\partial y}}$
+* You have partial derivative of **x** as well as that of **y** - $\Large{\color{Purple}\frac{\partial f}{\partial x}}$ and $\Large{\color{Purple}\frac{\partial f}{\partial y}}$
 * Instead of just looking at these two directions like -
     * $\Large{\color{Purple}\frac{\partial f}{\partial x}}$, would be the change in the direction of **x** and 
     * $\Large{\color{Purple}\frac{\partial f}{\partial y}}$, would be the change in direction of **y**.
