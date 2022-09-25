@@ -111,8 +111,9 @@ x^2 \cos(y)
 \begin{aligned}
 \\
 & & & \normalsize \textit{In general        }
-\Huge\boxed{\nabla f= \begin{bmatrix}\frac{\partial f}{\partial x}\\
-\frac{\partial f}{\partial y}
+\Huge\boxed{\nabla f(x,y,\ldots)= \begin{bmatrix}\frac{\partial f}{\partial x}\\
+\frac{\partial f}{\partial y}\\
+\vdots
 \end{bmatrix}}
 \end{aligned}
 }
