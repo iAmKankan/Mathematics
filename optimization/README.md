@@ -243,8 +243,10 @@ f(x)\approx f(x^0)+(x-x^0)\frac{df}{dx}+\frac{1}{2}(x-x^0)^2 \frac{d^2f}{dx^2}+\
 }
 $$
 
+For $\large{\color{Purple}f: \mathbb{R}^n \to  \mathbb{R}}$ , the Taylor series can be  written as 
+
 $$\Huge{\color{Purple}
 f(x)\approx f(x^0)+(x-x^0)^{\top}g+\frac{1}{2}(x-x^0)^{\top}H(x-x^0)^{\top}+\dots}
 $$
 
-* Here, $\large{\color{Purple} g \nabla_x f(x^0)}$  and $\large{\color{Purple}H}$ is the **Hessian** calculated at $\large{\color{Purple}x^0}$ also
+Here, $\large{\color{Purple} g \nabla_x f(x^0)}$  and $\large{\color{Purple}H}$ is the **Hessian** calculated at $\large{\color{Purple}x^0}$ also
