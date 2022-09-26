@@ -246,3 +246,5 @@ $$
 $$\Huge{\color{Purple}
 f(x)\approx f(x^0)+(x-x^0)^{\top}g+\frac{1}{2}(x-x^0)^{\top}H(x-x^0)^{\top}+\dots}
 $$
+
+* Here, $\large{\color{Purple} g \nabla_x f(x^0)}$  and $\large{\color{Purple}H}$ is the **Hessian** calculated at $\large{\color{Purple}x^0}$ also
