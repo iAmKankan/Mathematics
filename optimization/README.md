@@ -228,3 +228,22 @@ j= \nabla_x f =
 }
 $$
 
+
+## Taylor Series
+Taylor’s series is extremely useful whenever you try to approximate functions. 
+
+The Taylor series is a local approximation of a function’s value in terms of polynomials 
+* It is an extremely useful and widely used idea in multiple fields
+* There are mathematical subtleties which we will be ignoring here
+
+For $\large{\color{Purple}f: \mathbb{R} \to  \mathbb{R}}$, recall that the Taylor series is written as 
+
+$$\Huge{\color{Purple}
+f(x)\approx f(x^0)+(x-x^0)\frac{df}{dx}+\frac{1}{2}(x-x^0)^2 \frac{d^2f}{dx^2}+\cdots
+}
+$$
+
+$$\Huge{\color{Purple}
+f(x)\approx f(x^0)+(x-x^0)^{\top}g+\frac{1}{2}(x-x^0)^{\top}H(x-x^0)^{\top}+\dots}
+}
+$$
