@@ -216,3 +216,15 @@ The Jacobian is the equivalent of the **gradient** for **vector valued** functio
 
 For  $\large{\color{Purple}f: \mathbb{R}^n \to  \mathbb{R}^m}$ , we have $\large{\color{Purple} J_{i,j}=\frac{{\partial}^2 f(x)_{i}}{\partial x_j}}$ is the Jacobian which is a $\large{\color{Purple}j \in  \mathbb{R}^{m \times m}}$
 
+$$\Huge{\color{Purple}
+j= \nabla_x f =
+\begin{bmatrix}
+\frac{\partial^2 f_1}{\partial x_1 } & \frac{\partial^2 f_1}{ \partial x_2}& \cdots&\frac{\partial^2 f_1}{\partial x_n}\\
+\frac{\partial^2 f_2}{\partial x_1} & \frac{\partial^2 f_2}{\partial x_2}& \cdots&\frac{\partial^2 f_2}{\partial x_n}\\
+\vdots & \vdots & \ddots & \vdots \\
+\frac{\partial^2 f_m}{\partial x_1} & \frac{\partial^2 f_m}{\partial x_2}& \cdots&\frac{\partial^2 f_m}{ \partial x_n}\\
+\end{bmatrix}
+\in \mathbb{R}^{m \times n}
+}
+$$
+
