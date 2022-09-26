@@ -214,5 +214,5 @@ The Jacobian is the equivalent of the **gradient** for **vector valued** functio
 * Whereas  Hessian takes a gradient as of **_f_** as scalar and gives a vector $\large{\color{Purple} Hessian \[\nabla f \] \to \nabla^2 f }$
 
 
-For  $\large{\color{Purple}f: \mathbb{R}^n to  \mathbb{R}^m}$ , we have $\large{\color{Purple} J_{i,j}=\frac{{\paqrtial}^2 f(x)_{i}}{\partial x_j}}$ is the Jacobian which is a $\large{\color{Purple}j \in  \mathbb{R}^{m \times m}}$
+For  $\large{\color{Purple}f: \mathbb{R}^n to  \mathbb{R}^m}$ , we have $\large{\color{Purple} J_{i,j}=\frac{{\partial}^2 f(x)_{i}}{\partial x_j}}$ is the Jacobian which is a $\large{\color{Purple}j \in  \mathbb{R}^{m \times m}}$
 
