@@ -1,12 +1,12 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
-#### [_Derivatives Theory_](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#derivatives)
-   * [_Partial Derivative_](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#partial-derivative)
-#### [_Gradien Theory_](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#gradient)
-- [_Hessian_](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#hessian)
-- Jacobian
-- Taylor Series
+#### [_Derivatives Theory_](#derivatives)
+   * [_Partial Derivative_](#partial-derivative)
+#### [_Gradien Theory_](#gradient)
+- [_Hessian_](#hessian)
+- [_Jacobian_](#jacobian)
+- [_Taylor Series_](#taylor-series)
 
 ## Derivatives
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
@@ -189,6 +189,8 @@ Now one useful way of utilising the gradient vector is as I told you before, you
 * You can simply see special cases if **v** was $\hat{i}$ okay or the X_1 direction then gradient in the direction V should be Del F Del X 1 which is correct okay, so this retains the meaning of partial derivatives. Similarly, if you take the direction 2 you will get Del F Del X 2 so on and so forth, so for the coordinate axis this kind of reduces trivially but in the general case you simply take a dot product along that direction.
 
 ## Hessian
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+
 * The **Hessian** is the **gradient** of the **gradient**.
   * It is the equivalent of the **second derivative** in scalar calculus and has similar uses
 * For $\Large{\color{Purple}f:\mathbb{R}^n\to \mathbb{R}}$ , we have $\Large{\color{Purple}H_{i,j}=\frac{\partial^2 f}{\partial x_i \partial x_j}}$ is the Hessian which is a $\Large{\color{Purple}n \times m}$ matrix.
@@ -209,6 +211,7 @@ $$
 * So hessian is a symmetric matrix and from our linear algebra we would know that from real F this means hessian has [_real eigenvalues_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/matrix.md#eigen-decomposition-or-matrix-factorization)
 
 ## Jacobian
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 The Jacobian is the equivalent of the **gradient** for **vector valued** functions.
 * Simple gradient is from scalar to vector $\large{\color{Purple} (\nabla) Scalar \to Vector}$ where its assume that the value of the function is scalar. 
 * Whereas  Hessian takes a gradient as of **_f_** as scalar and gives a vector $\large{\color{Purple} Hessian \[\nabla f \] \to \nabla^2 f }$
@@ -230,6 +233,7 @@ $$
 
 
 ## Taylor Series
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 Taylor’s series is extremely useful whenever you try to approximate functions. 
 
 The Taylor series is a local approximation of a function’s value in terms of polynomials 
