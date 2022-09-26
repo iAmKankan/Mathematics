@@ -205,5 +205,14 @@ H_{i,j} =
 }
 $$
 
-* Note that the Hessian is a **symmetric matrix**( $A^{\top} = A$ )
+* Note that the **Hessian** is a **symmetric matrix**( $A^{\top} = A$ )
 * So hessian is a symmetric matrix and from our linear algebra we would know that from real F this means hessian has [_real eigenvalues_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/matrix.md#eigen-decomposition-or-matrix-factorization)
+
+## Jacobian
+The Jacobian is the equivalent of the **gradient** for **vector valued** functions.
+* Simple gradient is from scalar to vector $\large{\color{Purple} (\nabla) Scalar \to Vector}$ where its assume that the value of the function is scalar. 
+* Whereas  Hessian takes a gradient as of **_f_** as scalar and gives a vector $\large{\color{Purple} Hessian \[\nabla f \] \to \nabla^2 f }$
+
+
+For  $\large{\color{Purple}f: \mathbb{R}^n to  \mathbb{R}^m}$ , we have $\large{\color{Purple} J_{i,j}=\frac{\paqrtial^2 f(x)_{i}}{\partial x_j}}$ is the Jacobian which is a $\large{\color{Purple}j \in  \mathbb{R}^{m \times m}}$
+
