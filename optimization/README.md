@@ -8,6 +8,8 @@
 - [_Jacobian_](#jacobian)
 - [_Taylor Series_](#taylor-series)
 
+## References
+
 ## Derivatives
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 In mathematics, the **derivative of a function of a real variable** measures the sensitivity to change of the **function value** (**output value 'y'** ) with respect to a change in its **argument** (**input value 'x'**)
@@ -254,3 +256,9 @@ f(x)\approx f(x^0)+(x-x^0)^{\top}g+\frac{1}{2}(x-x^0)^{\top}H(x-x^0)^{\top}+\dot
 $$
 
 Here, $\large{\color{Purple} g \nabla_x f(x^0)}$  and $\large{\color{Purple}H}$ is the **Hessian** calculated at $\large{\color{Purple}x^0}$ also
+
+
+## References
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+* Dr Balaji, Prof IITM
+* [Khan Academy](https://www.khanacademy.org/)
