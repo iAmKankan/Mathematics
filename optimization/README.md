@@ -245,5 +245,4 @@ $$
 
 $$\Huge{\color{Purple}
 f(x)\approx f(x^0)+(x-x^0)^{\top}g+\frac{1}{2}(x-x^0)^{\top}H(x-x^0)^{\top}+\dots}
-}
 $$
