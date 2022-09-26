@@ -206,3 +206,4 @@ H_{i,j} =
 $$
 
 * Note that the Hessian is a **symmetric matrix**( $A^{\top} = A$ )
+* So hessian is a symmetric matrix and from our linear algebra we would know that from real F this means hessian has [_real eigenvalues_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/matrix.md#eigen-decomposition-or-matrix-factorization)
