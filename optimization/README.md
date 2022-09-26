@@ -4,7 +4,7 @@
 #### [_Derivatives Theory_](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#derivatives)
    * [_Partial Derivative_](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#partial-derivative)
 #### [_Gradien Theory_](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#gradient)
-- [Hessian](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#hessian)
+- [_Hessian_](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#hessian)
 - Jacobian
 - Taylor Series
 
@@ -189,8 +189,8 @@ Now one useful way of utilising the gradient vector is as I told you before, you
 * You can simply see special cases if **v** was $\hat{i}$ okay or the X_1 direction then gradient in the direction V should be Del F Del X 1 which is correct okay, so this retains the meaning of partial derivatives. Similarly, if you take the direction 2 you will get Del F Del X 2 so on and so forth, so for the coordinate axis this kind of reduces trivially but in the general case you simply take a dot product along that direction.
 
 ## Hessian
-* The Hessian is the gradient of the gradient.
-  * It is the equivalent of the second derivative in scalar calculus and has similar uses
+* The **Hessian** is the **gradient** of the **gradient**.
+  * It is the equivalent of the **second derivative** in scalar calculus and has similar uses
 * For $\Large{\color{Purple}f:\mathbb{R}^n\to \mathbb{R}}$ , we have $\Large{\color{Purple}H_{i,j}=\frac{\partial^2 f}{\partial x_i \partial x_j}}$ is the Hessian which is a $\Large{\color{Purple}n \times m}$ matrix.
 
 $$\Huge{\color{Purple}
@@ -205,4 +205,4 @@ H_{i,j} =
 }
 $$
 
-* Note that the Hessian is a symmetric matrix
+* Note that the Hessian is a **symmetric matrix**( $A^{\top} = A$ )
