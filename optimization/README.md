@@ -2,14 +2,11 @@
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
 ### _Prerequisite_
-#### [_Derivatives Theory_](#derivatives)
+#### [◼️ _Derivatives Theory_](#derivatives)
    * [_Partial Derivative_](#partial-derivative)
-#### [_Gradien Theory_](#gradient)
-#### [_Hessian_](#hessian)
-#### [_Jacobian_](#jacobian)
-#### [_Taylor Series_](#taylor-series)
+#### [◼️ _Gradien Theory_](#gradient), [◼️ _Hessian_](#hessian) , [◼️ _Jacobian_](#jacobian), [◼️ _Taylor Series_](#taylor-series)
 
-### Optimization 
+### ◼️ Optimization 
 
 ### [_References and Bibliography_](#references)
 
