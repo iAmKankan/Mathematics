@@ -5,9 +5,11 @@
 #### [_Derivatives Theory_](#derivatives)
    * [_Partial Derivative_](#partial-derivative)
 #### [_Gradien Theory_](#gradient)
-- [_Hessian_](#hessian)
-- [_Jacobian_](#jacobian)
-- [_Taylor Series_](#taylor-series)
+#### [_Hessian_](#hessian)
+#### [_Jacobian_](#jacobian)
+#### [_Taylor Series_](#taylor-series)
+
+### Optimization 
 
 ### [_References and Bibliography_](#references)
 
