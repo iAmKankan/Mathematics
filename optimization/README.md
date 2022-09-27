@@ -7,6 +7,7 @@
 #### [◼️ _Gradien Theory_](#gradient), [◼️ _Hessian_](#hessian) , [◼️ _Jacobian_](#jacobian), [◼️ _Taylor Series_](#taylor-series)
 
 ### ◼️ Optimization 
+  * [Unconstrained Optimization](https://github.com/iAmKankan/Mathematics/blob/main/optimization/unconstrained-optimization.md)
 
 ### [_References and Bibliography_](#references)
 
