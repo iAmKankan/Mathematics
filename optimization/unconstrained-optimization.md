@@ -20,7 +20,7 @@
 
 We denote the optimal or minimal solution to the problem as $\large{\color{Purple}\mathbf{x}^∗ =arg⁡ min⁡ 𝑓(\mathbf{x})}$ . Now the meaning of $\large min f(x) =$ minimum value of x, $\large argmin f(x) =$ That x which result in min f. 
 
-## Optimization Scalar
+## Optimization Scalar x
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
 <p align="center">
@@ -39,3 +39,9 @@ We denote the optimal or minimal solution to the problem as $\large{\color{Purpl
 * If $\large{\color{Purple}{f}\'\' (𝑥)<0}$ , it is a **local maximum**
 * If $\large{\color{Purple}{f}\'\' (𝑥)=0}$ , it could be a **saddle point**
 * The absolute **lowest/highest level** of $\large{\color{Purple}𝑓(𝑥)}$ is called the **global maximum/minimum**
+
+
+## Optimization – Multivariate x
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+
+* In this case the unconstrained optimization problem is to find $\large{\color{Purple}x }$  that minimizes $\large{\color{Purple}𝑓(𝑥)}$ with $\large{\color{Purple}x \in \mathbb{R}^n}$. That is, there are no constraints on $\large{\color{Purple}x }$.
