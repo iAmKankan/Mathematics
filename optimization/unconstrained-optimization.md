@@ -30,9 +30,9 @@ We denote the optimal or minimal solution to the problem as $\large{\color{Purpl
   <img src="https://user-images.githubusercontent.com/12748752/193222615-9829db20-47bd-4f64-aa3a-d0b219370584.png" width=20%/>
 </p>
 
-* We will look at the $\large{\color{Red}\textrm{unconstrained problem} }$ ( **x** can go from **-&infin;** **&rarr;** **+&infin;**). That is, find $\large{\color{Purple}x }$ that minimizes $\large{\color{Purple}𝑓(𝑥)}$ with $\large{\color{Purple}x in \mathbb{R}}$ . That is, no constraints on $\large{\color{Purple}x }$.
+* We will look at the $\large{\color{Red}\textrm{unconstrained problem} }$ ( $\large{\color{Purple}x }$ can go from $\large{\color{Purple} \mathbf{-\infty} \to \mathbf{+\infty} }$ ). That is, find $\large{\color{Purple}x }$ that minimizes $\large{\color{Purple}𝑓(𝑥)}$ with $\large{\color{Purple}x \in \mathbb{R}}$ . That is, no constraints on $\large{\color{Purple}x }$.
 * It can be shown that any local extremum will have the property $\large{\color{Purple}𝑓^\prime (𝑥)=0 }$
-   * Such points are called stationary points or critical points. 
+   * Such points are called $\large{\color{Red}\textrm{ stationary points } }$ or $\large{\color{Red}\textrm{ critical points} }$. 
    * The stationary point may be a (local) minimum, maximum or saddle point
 
 * If $\large{\color{Purple}{f}\'\' (𝑥)>0}$ , it is a **local minimum**
