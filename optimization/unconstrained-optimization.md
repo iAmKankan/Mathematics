@@ -59,10 +59,26 @@ All constraints can be converted to two types of constraints
    * **Inequality constraints** – e.g. $\large{\color{Purple} \textbf{Minimize} f( 𝑥_1,𝑥_2,𝑥_3)}$ subject to $\large{\color{Purple} 𝑥_1+𝑥_2+𝑥_3<1}$
 
 Canonical form – All optimization problems can be written as
-$\large{\color{Purple} \textbf{Minimize} f(x) \textbf{ subject to the constraint that } x \in \mathbb{S}}$. 
+$\large{\color{Purple} \textbf{Minimize} f(x) \textbf{ subject to the constraint that } x \in \mathbb{S}}$. **x&in; S** this is a Feasible point.
 
 $$ \Huge{\color{Purple}
 \mathbb{S} = \\{𝒙 | \forall i, 𝑔^{(𝑖)} (𝑥)=0 \ and\ \forall 𝑗, ℎ^{(𝑗)} (𝑥) \leq 0\\}
 }
 $$
+
+### Generalized Lagrange function
+The constrained optimization problem requires us to minimize the function while ensuring that the point discovered belongs to the feasible set.
+
+There are several techniques that achieve this but it is, in general, a difficult problem.
+
+A very common approach is to define a new function called the generalized Lagrangian  
+𝐿(𝒙,𝝀,𝜶)=𝑓(𝒙)+∑_𝒊▒〖𝜆_𝑖 𝑔^𝑖 (𝒙)+∑_𝑗▒〖𝛼_𝑗 ℎ^((𝑗) ) (𝒙) 〗〗
+Then, the constrained minimum is given by
+min┬(𝑥∈𝑆)⁡〖𝑓(𝒙)=min┬𝒙⁡max┬𝜆⁡max┬(𝛼,𝛼≥0)⁡〖𝐿(𝒙,𝝀,𝜶)〗   〗
+
+We will the proof and details of this when we come to later weeks (SVM).
+We will not be using this during the Deep Learning portions of the course.
+
+![image](https://user-images.githubusercontent.com/12748752/193399232-23429d1c-e189-46cb-9c38-dee7de4229f1.png)
+
 
