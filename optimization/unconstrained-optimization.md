@@ -45,3 +45,24 @@ We denote the optimal or minimal solution to the problem as $\large{\color{Purpl
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
 * In this case the unconstrained optimization problem is to find $\large{\color{Purple}x }$  that minimizes $\large{\color{Purple}𝑓(𝑥)}$ with $\large{\color{Purple}x \in \mathbb{R}^n}$. That is, there are no constraints on $\large{\color{Purple}x }$.
+
+
+## Constrained Optimization
+The general constrained optimization task is to maximize or minimize a function $\large{\color{Purple}f(x) }$ by varying $\large{\color{Purple}x }$ given certain constraints on $\large{\color{Purple}x }$
+   * For example, find minimum of $\large{\color{Purple}𝑓(𝑥_1,𝑥_2,𝑥_3 )=𝑥_1^2+ 2𝑥_2^2+𝑥_3^2 }$, **where** $\large{\color{Purple}\parallel x \parallel_2 \geq 1 }$
+
+Very common to encounter this in engineering practice
+   * For example, designing the fastest vehicle with a constraint on fuel efficiency
+
+All constraints can be converted to two types of constraints
+   * **Equality constraints** – e.g $\large{\color{Purple} \textbf{Minimize } f( 𝑥_1,𝑥_2,𝑥_3 )}$ subject to $\large{\color{Purple} 𝑥_1+𝑥_2+𝑥_3=1}$
+   * **Inequality constraints** – e.g. $\large{\color{Purple} \textbf{Minimize} f( 𝑥_1,𝑥_2,𝑥_3)}$ subject to $\large{\color{Purple} 𝑥_1+𝑥_2+𝑥_3<1}$
+
+Canonical form – All optimization problems can be written as
+$\large{\color{Purple} \textbf{Minimize} f(x) \textbf{ subject to the constraint that } x \in \mathbb{S}}$. 
+
+$$ \Huge{\color{Purple}
+\mathbb{S} = \\{𝒙 | \forall i, 𝑔^{(𝑖)} (𝑥)=0 \ and\ \forall 𝑗, ℎ^{(𝑗)} (𝑥) \leq 0\\}
+}
+$$
+
