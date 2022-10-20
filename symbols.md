@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12748752/197057291-a2a3033d-6279-41ff-9832-a2ec493bc9dc.png" width=40%>
+  <img src="https://user-images.githubusercontent.com/12748752/197058616-a4fb4089-5810-4a83-8c22-7c15a365024e.png" width=40%>
   <br>
   <ins><i><b>Different Types of Curves</b></i></ins>
 </p>
