@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/197057291-a2a3033d-6279-41ff-9832-a2ec493bc9dc.png" width=40%>
+  <br>
+  <ins><i><b>Different Types of Curves</b></i></ins>
+</p>
+
+
+
+
+
+
+
+
+
+
 | <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{Symbols}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{Symbols}}"  align="center" />  |<img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{Typical&space;Meaning}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textbf{Typical Meaning}}" align="center" />                                                                |
 |---|----------------------------------------------------------------|
 | <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{a,&space;b,&space;c,&space;$\alpha,&space;\beta,&space;\zeta&space;$}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\textrm{a, b, c, $\alpha, \beta, \zeta $}}" />  | Scalars are lowercase                                          |
