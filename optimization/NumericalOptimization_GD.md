@@ -19,12 +19,13 @@ But, most of the cases we do not have explicit expressions. So you do not really
 So in this case in the case of deep learning this black box is typically a neural network or something of that sort. So what we want to find out something that can deal directly with numbers rather than with analytical expressions and that is why you need numerical optimization as against analytical optimization.
 
 
-#### Iterative optimization
+### Iterative optimization
 * We want to drive the gradient $\large{\color{Purple}{\nabla}_𝑤 𝐽 \ldots \ldots \ldots\[ j: function; w: variables \]}$ of the function that you are trying to minimize or maximize to  $\large{\color{Purple}0}$ .
 
-**Iterative Process**:
+#### Iterative Process:
+* Guess for $\large{\color{Purple} w}$
+* Run through the **black box** and find value of $\large{\color{Purple} J(w)}$
 
-* 
 
 
 
