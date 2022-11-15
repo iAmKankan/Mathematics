@@ -20,11 +20,14 @@ So in this case in the case of deep learning this black box is typically a neura
 
 
 ### Iterative optimization
-* We want to drive the gradient $\large{\color{Purple}{\nabla}_𝑤 𝐽 \ldots \ldots \ldots\[ j: function; w: variables \]}$ of the function that you are trying to minimize or maximize to  $\large{\color{Purple}0}$ .
+* We want to drive the gradient $\large{\color{Purple}{\nabla}_𝑤 𝐽 \ldots \ldots \ldots\[ j: function; w: variables \]}$ of the function that you are trying to minimize or maximize to  $\large{\color{Purple}\vec 0}$ .
 
 #### Iterative Process:
 * Guess for $\large{\color{Purple} w}$
 * Run through the **black box** and find value of $\large{\color{Purple} J(w)}$
+* Find 𝛻_𝑤 𝐽 We will discuss methods for determining 𝛻_𝑤 𝐽 numerically in later videos 
+* If 𝛻_𝑤 𝐽=0, we stop, else we need to take a new guess More precisely, improve our guess 
+* A very common method for improving guess is called Gradient Descent
 
 
 
