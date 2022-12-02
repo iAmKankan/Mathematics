@@ -39,8 +39,16 @@ So in this case in the case of deep learning this black box is typically a neura
 </p>
 
 * If we have a new guess $\large{\color{Purple} w^{(1)}}$, and obhously it is not optimum Because at point  $\large{\color{Purple} J( w^{(1)})}$,  $\large{\color{Purple}\frac{\mathrm{d}J }{\mathrm{d} w}  \neq 0 }$
-* At This point  $\large{\color{Purple} w^{(1)}}$ we have option to go either left or right. Here we would like to go left Why?
+* At This point  $\large{\color{Purple} w^{(1)}}$ we have option to go either left or right. Here we would like to go left. Why?
 * The Slope of $\large{\color{Purple} J( w^{(1)})}$ is positive or $\large{\color{Purple} J( w^{(1)})> 0}$, So we can say the optimum $\large{\color{Purple} w^{*}}$ lies some where here.
-* 
+* For scalar (i.e. one component) $\large{\color{Purple} w}$, this is easy
+
+$$ \large{\color{Purple}
+w^{new}= w^{old}-\alpha \left( \frac{\mathrm{d}J }{\mathrm{d} w} \right)
+}
+\left [ \textrm{Where }\alpha \textrm{ is learning rate} \right ]
+$$
+
+
 
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
