@@ -28,8 +28,14 @@ So in this case in the case of deep learning this black box is typically a neura
 * Find $\large{\color{Purple}{\nabla}_𝑤 𝐽 }$ 
 * If $\large{\color{Purple}{\nabla}_𝑤 𝐽 = 0}$ , we stop, else we need to take a new guess 
    * More precisely, improve our guess 
-* A very common method for **improving guess** is called **Gradient Descent**
+* A very common method for **improving the guess** is called <ins><b><i>Gradient Descent</i></b></ins>.
 
+
+### Gradient Descent in a simple Scalar Case
+* Where $\large{\color{Purple} J(w)}$, $\large{\color{Purple} w}$ is not a vector rather a scalar.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/205314260-17e72cf7-8529-4659-8bfc-58b961209655.png" width=40% />
+</p>
 
 
 
