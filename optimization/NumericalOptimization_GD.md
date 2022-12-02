@@ -38,5 +38,4 @@ So in this case in the case of deep learning this black box is typically a neura
 </p>
 
 
-
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
