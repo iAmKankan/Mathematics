@@ -46,7 +46,7 @@ So in this case in the case of deep learning this black box is typically a neura
 $$ \large{\color{Purple}
 w^{new}= w^{old}-\alpha \left( \frac{\mathrm{d}J }{\mathrm{d} w} \right)
 }
-\left [ \textrm{Where }\alpha \textrm{ is learning rate} \right ]
+\left [ \textrm{Where }\alpha \textrm{ is a positive arbitrary parameter or learning rate} \right ]
 $$
 
 
