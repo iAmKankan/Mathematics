@@ -31,7 +31,7 @@ So in this case in the case of deep learning this black box is typically a neura
 * A very common method for **improving the guess** is called <ins><b><i>Gradient Descent</i></b></ins>.
 
 
-### Gradient Descent in a simple Scalar Case
+### Gradient Descent (Scalar case)
 * Where $\large{\color{Purple} J(w)}$, $\large{\color{Purple} w}$ is not a vector rather a scalar.
 * Our task is to improve our guess for $\large{\color{Purple} w}$ such that we move from a region of higher gradient to a region of lower gradient
 <p align="center">
@@ -49,6 +49,6 @@ w^{new}= w^{old}-\alpha \left( \frac{\mathrm{d}J }{\mathrm{d} w} \right)
 \normalsize \left [ \textrm{Where } {\color{Purple}\large \alpha} \textrm{ is a positive arbitrary parameter or learning rate} \right ]
 $$
 
-
+### Gradient Descent (vector case)
 
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
