@@ -33,9 +33,14 @@ So in this case in the case of deep learning this black box is typically a neura
 
 ### Gradient Descent in a simple Scalar Case
 * Where $\large{\color{Purple} J(w)}$, $\large{\color{Purple} w}$ is not a vector rather a scalar.
+* Our task is to improve our guess for $\large{\color{Purple} w}$ such that we move from a region of higher gradient to a region of lower gradient
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12748752/205314260-17e72cf7-8529-4659-8bfc-58b961209655.png" width=40% />
 </p>
 
+* If we have a new guess $\large{\color{Purple} w^{(1)}}$, and obhously it is not optimum Because at point  $\large{\color{Purple} J( w^{(1)})}$,  $\large{\color{Purple}\frac{\mathrm{d}J }{\mathrm{d} w}  \neq 0 }$
+* At This point  $\large{\color{Purple} w^{(1)}}$ we have option to go either left or right. Here we would like to go left Why?
+* The Slope of $\large{\color{Purple} J( w^{(1)})}$ is positive or $\large{\color{Purple} J( w^{(1)})> 0}$, So we can say the optimum $\large{\color{Purple} w^{*}}$ lies some where here.
+* 
 
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
