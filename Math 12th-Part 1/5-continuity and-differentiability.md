@@ -3,8 +3,8 @@
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
 ## RECAP of Derivative and limit
-#### [_Derivatives Theory_](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#derivatives)
-   * [_Partial Derivative_](https://github.com/iAmKankan/Mathematics/edit/main/optimization/README.md#partial-derivative)
+#### [_Derivatives Theory_](https://github.com/iAmKankan/Mathematics/tree/main/optimization/README.md#derivatives)
+   * [_Partial Derivative_](https://github.com/iAmKankan/Mathematics/tree/main/optimization/README.md#partial-derivative)
    
 #### ◾ Velocity meaning and its formula
 The velocity of a moving particle is the distance travelled by it in unit time in a given direction, or in other words, velocity is the **rate of displacement of a body**.
