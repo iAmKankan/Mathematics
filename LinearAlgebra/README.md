@@ -33,7 +33,8 @@ Other quantities, such as **force** and **velocity**, have both _magnitude(size)
 #### Example:
 * Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\alpha&space;\in&space;\mathbb{R}}&space;}" title="{\color{Purple}\mathbf{\alpha \in \mathbb{R}} }" align ="center"/>, be the _learning rate_.
 * Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\eta&space;\in&space;\mathbb{N}}&space;}" title="{\color{Purple}\mathbf{\eta \in \mathbb{N}} }" align ="center"/>, be the _number of hyperparameters_.
-* Scalar quantities change when their magnitude changes.
+
+_Scalar quantities_ change when their _magnitude_ changes.
 
 ### Vector
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
