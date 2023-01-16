@@ -24,11 +24,11 @@ Linear Algebra is a mathematical discipline that deals with **vectors** and **ma
 
 ### Scaler
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
-_A Scaalr is a number_. It is a physical quantity that is completely described by its magnitude(size); examples of scalars are **volume**, **density**, **speed**, **energy**, **mass**, and **time**. 
+_A Scaalr is a number_. It is a physical quantity that is completely described by its _magnitude(size)_; examples of scalars are **volume**, **density**, **speed**, **energy**, **mass**, and **time**. 
 
-Other quantities, such as **force** and **velocity**, have both magnitude(size) and direction and are called **_vectors_**.
+Other quantities, such as **force** and **velocity**, have both _magnitude(size)_ and _direction_ and are called **_vectors_**.
 
-Scalars are described by _real numbers_ that are _usually but not necessarily positive_. Scalars can be manipulated by the ordinary laws of algebra.
+**Scalars** are described by _real numbers_ that are _usually but not necessarily positive_. **Scalars** can be manipulated by the ordinary laws of algebra.
 
 #### Example:
 * Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\alpha&space;\in&space;\mathbb{R}}&space;}" title="{\color{Purple}\mathbf{\alpha \in \mathbb{R}} }" align ="center"/>, be the _learning rate_.
