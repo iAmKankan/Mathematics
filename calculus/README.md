@@ -4,10 +4,16 @@
 
 |Notation||
 |:----:|------|
-|$\Large{\color{Purple}\theta}$|the empty set|
+|$\Large{\color{Purple}\Phi}$|the empty set|
 |$\Large{\color{Purple}\mathbb{N}}$|(1,2,3), the set of natural numbers|
 |$\Large{\color{Purple}\mathbb{Z}}$|(...,-2.-1,0,1,2), the set of integers.|
 |$\Large{\color{Purple}\mathbb{Q}}$| $\Large \\{ \frac{p}{q}: p \in \mathbb{Z} , q \in \mathbb{N} \\}$ , the set of rational numbers.|
 |$\Large{\color{Purple}\mathbb{R}}$|R the set of real numbers|
 |$\Large{\color{Purple}\mathbb{R_{+}}}$|R, the set of all positive real numbers|
 |$\Large{\color{Purple}\mathbb{R_{-}}}$|Rthe set of all negative real numbers|
+
+* So we can say the proper subsets of each others as follows $\Large{\color{Purple}\Phi \subseteq \mathbb{N} \subseteq \mathbb{Z}\subseteq \mathbb{Q}\subseteq \mathbb{R}}$
+
+$\Large{\color{Purple}\mathbb{Q}}$: Terminating or recurring decimals. 1/4 = 0.25( no other digit exist , it terminates), 1/3 = 0.333...( same digits is repeating thats why called recurring decimals)
+
+$\Large{\color{Purple}\mathbb{R - Q}}$: Non-recurring decimals. √2 = 1.414..., 3.10110111011110.
