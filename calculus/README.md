@@ -37,4 +37,5 @@ These operations satisfy:
 
 ## Functions
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-* Let $\Large{\color{Purple} A, B \in \mathbb{ R}}$. $\Large{\color{Purple} A}$ function $\Large{\color{Purple}f}$ from $\Large{\color{Purple} A}$ to $\Large{\color{Purple} B}$ is a rule that assigns each point in $\Large{\color{Purple} A}$ to a point in $\Large{\color{Purple} B}$ in a unique way. $\Large{\color{Purple}f: A \to B}$. $\textit{ ( Meaning -  f is a function that is defined on A and it is getting its value in B)}$
+Let $\Large{\color{Purple} A, B \in \mathbb{ R}}$. 
+* A **function** $\Large{\color{Purple}f}$ from $\Large{\color{Purple} A}$ to $\Large{\color{Purple} B}$ is a rule that assigns each point in $\Large{\color{Purple} A}$ to a point in $\Large{\color{Purple} B}$ in a unique way. $\Large{\color{Purple}f: A \to B}$. $\textit{ ( Meaning -  f is a function that is defined on A and it is getting its value in B)}$
