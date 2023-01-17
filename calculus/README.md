@@ -2,6 +2,9 @@
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 
+### Basic notation
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+
 |Notation||
 |:----:|------|
 |$\Large{\color{Purple}\Phi}$|the empty set|
@@ -30,3 +33,8 @@ These operations satisfy:
   * $\Large{\color{Purple} a + 0 = a\ \ \ a\cdot 1 = a}$
   * $\Large{\color{Purple} a + (-a) = 0\ \ \ a\cdot( 1/a)=1\ \ \ \ for\ \ \  a\neq 0}$
   * $\Large{\color{Purple} a (b+c) = ab+ac}$ -Distributive property
+
+
+## Functions
+![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
+* Let $\Large{\color{Purple} A, B \in \mathbb{ R}}$. $\Large{\color{Purple} A}$ function $\Large{\color{Purple}f}$ from $\Large{\color{Purple} A}$ to $\Large{\color{Purple} B}$ is a rule that assigns each point in $\Large{\color{Purple} A}$ to a point in $\Large{\color{Purple} B}$ in a unique way. $\Large{\color{Purple}f: A \to B}$. $\textit{ ( Meaning -  f is a function that is defined on A and it is getting its value in B)}$
