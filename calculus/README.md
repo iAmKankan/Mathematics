@@ -14,6 +14,7 @@
 
 * So we can say the proper subsets of each others as follows $\Large{\color{Purple}\Phi \subseteq \mathbb{N} \subseteq \mathbb{Z}\subseteq \mathbb{Q}\subseteq \mathbb{R}}$
 
-$\Large{\color{Purple}\mathbb{Q}}$: Terminating or recurring decimals. 1/4 = 0.25( no other digit exist , it terminates), 1/3 = 0.333...( same digits is repeating thats why called recurring decimals)
+* $\Large{\color{Purple}\mathbb{Q}}$: Terminating or recurring decimals. 1/4 = 0.25( no other digit exist , it terminates), 1/3 = 0.333...( same digits is repeating thats why called recurring decimals)
 
-$\Large{\color{Purple}\mathbb{R - Q}}$: Non-recurring decimals. √2 = 1.414..., 3.10110111011110.
+* $\Large{\color{Purple}\mathbb{R - Q}}$: Non-recurring decimals. √2 = 1.414..., 3.10110111011110.
+* 
