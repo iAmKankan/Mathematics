@@ -40,7 +40,7 @@ These operations satisfy:
 ⚛️ Let $\Large{\color{Purple} A, B \in \mathbb{ R}}$. 
 * A **function** $\Large{\color{Purple}f}$ from $\Large{\color{Purple} A}$ to $\Large{\color{Purple} B}$ is a rule that assigns each point in $\Large{\color{Purple} A}$ to a point in $\Large{\color{Purple} B}$ in a _unique way_. $\Large{\color{Purple}f: A \to B}$. $\textit{ ( Meaning -  f is a function that is defined on A and it is getting its value in B)}$
 
-Write $\Large{\color{Purple} f(x)}$ as the number that is assigned to $\Large{\color{Purple} x}$ by $\Large{\color{Purple} f. x \mapsto f(x)}$
+Write $\Large{\color{Purple} f(x)}$ as the number that is assigned to $\Large{\color{Purple} x}$ by $\Large{\color{Purple} f. x \mapsto f(x)}$ (We say $\textit{ x is taken to f-of-x or x is mapped to f-of-x by the function f}$ ) 
 * $\Large{\color{Purple} x}$ is the **pre-imag**e of $\Large{\color{Purple} f(x)}$ , and $\Large{\color{Purple} f(x)}$ is the **image** of $\Large{\color{Purple} x}$, under $\Large{\color{Purple} f}$ .
 * So, if $\Large{\color{Purple} f (a) \neq f (b)}$, then $\Large{\color{Purple} a \neq b}$
 * $\Large{\color{Purple} A}$ is the **domain** of $\Large{\color{Purple}f}$ and $\Large{\color{Purple} B}$ is the co-domain of $\Large{\color{Purple}f}$ .
