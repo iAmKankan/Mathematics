@@ -44,3 +44,7 @@ Write $\Large{\color{Purple} f(x)}$ as the number that is assigned to $\Large{\c
 * $\Large{\color{Purple} x}$ is the **pre-imag**e of $\Large{\color{Purple} f(x)}$ , and $\Large{\color{Purple} f(x)}$ is the **image** of $\Large{\color{Purple} x}$, under $\Large{\color{Purple} f}$ .
 * So, if $\Large{\color{Purple} f (a) \neq f (b)}$, then $\Large{\color{Purple} a \neq b}$
 * $\Large{\color{Purple} A}$ is the **domain** of $\Large{\color{Purple}f}$ and $\Large{\color{Purple} B}$ is the co-domain of $\Large{\color{Purple}f}$ .
+
+So, if f (a) , f (b), then a , b.
+A is the domain of f and B is the co-domain of f .
+Range of f is ff (x) : x 2 Ag.
