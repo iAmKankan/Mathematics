@@ -29,3 +29,4 @@ These operations satisfy:
   * $\Large{\color{Purple} a + (b+c) = (a + b) + c\ \ \ a(bc) = (ab)c}$ .
   * $\Large{\color{Purple} a + 0 = a\ \ \ a\cdot 1 = a}$
   * $\Large{\color{Purple} a + (-a) = 0\ \ \ a\cdot( 1/a)=1\ \ \ \ for\ \ \  a\neq 0}$
+  * $\Large{\color{Purple} a (b+c) = ab+ac}$ -Distributive property
