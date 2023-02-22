@@ -82,6 +82,7 @@ In Machine Learning the most common norm that we use is what is called the **Fro
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_F&space;=\left&space;(\sum_{i,&space;j}A_{i,j}^2\right&space;)^{\frac{1}{2}}}}&space;&space;&space;&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_F =\left (\sum_{i, j}A_{i,j}^2\right )^{\frac{1}{2}}}} " />
 
 *  It is similar to  _Euclidean Norm_ or _L<sup>2</sup>_ but <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel&space;A\parallel_F&space;\&space;\neq&space;\&space;\parallel&space;A\parallel_2}}&space;&space;&space;&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\parallel A\parallel_F \ \neq \ \parallel A\parallel_2}} " align="center"/>
+*  **_It just means the sum of square of elements of a matrix_**
 
 #### Example:
 * Suppose we have a matrix  <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;\mathbf{A}&space;=&space;\begin{bmatrix}1&space;&&space;2&space;\\2&space;&&space;0&space;\\\end{bmatrix}}&space;&space;&space;&space;" title="https://latex.codecogs.com/svg.image?{\color{Purple} \mathbf{A} = \begin{bmatrix}1 & 2 \\2 & 0 \\\end{bmatrix}} " align="center"/>
