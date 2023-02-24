@@ -11,6 +11,10 @@
 
 ### [_References and Bibliography_](#references)
 
+### ⚛️ $\Large{\color{Purple}\textrm{What is a Gradient?}}$ [link ↗️](https://builtin.com/data-science/gradient-descent)
+$\large Answer:$ In machine learning, a **gradient** is a **derivative of a function** that has more than one input variable. Known as the **slope of a function** in **mathematical terms**, the gradient simply measures **the change in all weights with regard to the change in error**.
+
+
 ## Derivatives
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
 In mathematics, the **derivative of a function of a real variable** measures the sensitivity to change of the **function value** (**output value 'y'** ) with respect to a change in its **argument** (**input value 'x'**)
