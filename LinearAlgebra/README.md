@@ -94,7 +94,7 @@ _The general term of **Scalars**, **Vectors** and **Matrix** is **Tensors**._ Th
 #### Example #1
 <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A}_{i,j,k}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A}_{i,j,k}}" />
 
-Just as **vectors** generalize **scalars**, and **matrices** generalize **vectors**. **Tensors** ("tensors" in this subsection refer to algebraic objects) give us a generic way of describing  **n -dimensional arrays** with an arbitrary number of axes.
+> ### Just as **vectors** generalize **scalars**, and **matrices** generalize **vectors**. **Tensors** ("tensors" in this subsection refer to algebraic objects) give us a generic way of describing  **n -dimensional arrays** with an arbitrary number of axes.
 
 **Vectors** are **first-order tensors** and **Matrix** are **second-order tensors**. Tensors are denoted with capital letters of a special font face (e.g.,  **X** ,  **Y** , and  **Z** ) and their **indexing mechanism** (e.g. <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Purple}\&space;\&space;x_{ijk}\&space;\&space;and\&space;\&space;[X]_{1,2i-1,3}}" title="https://latex.codecogs.com/svg.image?\large {\color{Purple}\ \ x_{ijk}\ \ and\ \ [X]_{1,2i-1,3}}" />) is similar to that of **matrices**.
 
