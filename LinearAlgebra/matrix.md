@@ -50,11 +50,8 @@ $$\Huge{\color{Purple}\mathbf{A} = \begin{bmatrix}
 $$
 
 #### $\Large{\color{Blue}Notes:}$ 
-* The trace of a matrix can use for **non-square** matrix also. So, let us say this $\Large{\color{Purple}{A}_{3 \times 6}}$ is longer you had you would still look at only $\Large{\color{Purple}{A}_{3 \times 6}}$
-
-
-
-⏰ The trace of a matrix can use for **non-square** matrices also, so let us say this ${\color{Purple}\mathbf{A}_{3 \times 6}}$ is longer you had  you would still look at only ${\color{Purple}\mathbf{A}_{ii}}$  which are <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_{11},A_{22},A_{33}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_{11},A_{22},A_{33}}}" align="center"/> it would still be **6**, okay. So typically however we will be using trace for square matrices.
+* The **trace of a matrix** can use for **non-square** matrices also, so let us say this $\large{\color{Purple}\mathrm{A_{3 \times 6}}}$ is longer you had  you would still look at only $\large{\color{Purple}\mathrm{A_{ii}}}$  which are $\large{\color{Purple}\mathrm{A_{11},A_{22},A_{33}}}$ it would still be **6**. 
+* So typically however we will be using **trace** for **square matrices**.
 
 #### Proparties
 
