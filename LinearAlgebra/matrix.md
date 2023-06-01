@@ -51,7 +51,7 @@ $$
 
 #### $\Large{\color{Blue}Notes:}$ 
 * The **trace of a matrix** can use for **non-square** matrices also.
-* So, let us say this $\large{\color{Purple}\mathrm{A_{3 \times 6}}}$ is longer you had  you would still look at only $\large{\color{Purple}\mathrm{A_{ii}}}$  which are $\large{\color{Purple}\mathrm{A_{11},A_{22},A_{33}}}$ it would still be $\large{\color{Purple}6}$
+* So, let us say this $\large{\color{Purple}\mathrm{A_{3 \times 6}}}$ is longer you had  you would still look at only $\large{\color{Purple}\mathrm{A_{ii}}}$  which are $\large{\color{Purple}\mathrm{A_{11},A_{22},A_{33}}}$ it would still be $\large{\color{Purple}6}$ .
 * So typically however we will be using **trace** for **square matrices**.
 
 #### Proparties
