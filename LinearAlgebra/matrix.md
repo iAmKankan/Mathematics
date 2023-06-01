@@ -50,7 +50,7 @@ $$\Huge{\color{Purple}\mathbf{A} = \begin{bmatrix}
 $$
 
 #### $\Large{\color{Blue}Notes:}$ 
-* The trace of a matrix can use for **non-square** matrix also. So, let us say this ${\color{Purple}\mathbf{A}_{3 X 6}}$ is longer you had you would still look at only 
+* The trace of a matrix can use for **non-square** matrix also. So, let us say this $\Large{\color{Purple}{A}_{3 \times 6}}$ is longer you had you would still look at only $\Large{\color{Purple}{A}_{3 \times 6}}$
 
 
 
