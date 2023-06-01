@@ -31,8 +31,7 @@ $$
 ### Trace of a Matrix
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
-The trace of a matrix is simply the sum of its diagonal elements of the matrix.
-
+The trace of a matrix is simply the sum of its diagonal elements of the matrix. 
 $$\large{\color{Purple}\mathit{Tr}\mathbf{(A) =\sum_{i} A_{ii}}}$$
 
 #### Example
@@ -50,7 +49,12 @@ $$\Huge{\color{Purple}\mathbf{A} = \begin{bmatrix}
 } 
 $$
 
-* The trace of a matrix can use for **non-square** matrices also, so let us say this ${\color{Purple}\mathbf{A}_{3 \times 6}}$ is longer you had  you would still look at only <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A}_{ii}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A}_{ii}}" align="center"/> which are <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_{11},A_{22},A_{33}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_{11},A_{22},A_{33}}}" align="center"/> it would still be **6**, okay. So typically however we will be using trace for square matrices.
+#### $\Large{\color{Blue}Notes:}$ 
+* The trace of a matrix can use for **non-square** matrix also. So, let us say this ${\color{Purple}\mathbf{A}_{3 X 6}}$ is longer you had you would still look at only 
+
+
+
+⏰ The trace of a matrix can use for **non-square** matrices also, so let us say this ${\color{Purple}\mathbf{A}_{3 \times 6}}$ is longer you had  you would still look at only ${\color{Purple}\mathbf{A}_{ii}}$  which are <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_{11},A_{22},A_{33}}}" title="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{A_{11},A_{22},A_{33}}}" align="center"/> it would still be **6**, okay. So typically however we will be using trace for square matrices.
 
 #### Proparties
 
