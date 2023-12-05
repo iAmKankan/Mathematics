@@ -31,8 +31,8 @@ Other quantities, such as **force** and **velocity**, have both _magnitude(size)
 **Scalars** are described by _real numbers_ that are _usually but not necessarily positive_. **Scalars** can be manipulated by the ordinary laws of algebra.
 
 #### Example:
-* Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\alpha&space;\in&space;\mathbb{R}}&space;}" title="{\color{Purple}\mathbf{\alpha \in \mathbb{R}} }" align ="center"/>, be the _learning rate_.
-* Let <img src="https://latex.codecogs.com/svg.image?{\color{Purple}\mathbf{\eta&space;\in&space;\mathbb{N}}&space;}" title="{\color{Purple}\mathbf{\eta \in \mathbb{N}} }" align ="center"/>, be the _number of hyperparameters_.
+* Let $\large{\color{Purple}\mathbf{\alpha \in \mathbb{R}}}$ , be the _learning rate_.
+* Let $\large{\color{Purple}\mathbf{\eta \in \mathbb{N}}}$ , be the _number of hyperparameters_.
 
 _Scalar quantities_ change when their _magnitude_ changes.
 
