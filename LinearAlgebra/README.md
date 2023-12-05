@@ -45,7 +45,7 @@ In **physics**, Vector is a quantity that has both **magnitude** and **direction
 In **Computer Science Vector** is a data in _tabuler form_ having _rows_ and _columns_. 
    *  A vector is just an array of numbers.
    *  Every vector has a length. 
-   *  In mathematics notation- If we want to say that a vector  <img src="https://latex.codecogs.com/svg.image?\large{\color{Purple}&space;x}" title="https://latex.codecogs.com/svg.image?\large{\color{Purple} x}" /> consists of <img src="https://latex.codecogs.com/svg.image?\large{\color{Purple}&space;n}" title="https://latex.codecogs.com/svg.image?\large{\color{Purple} n}" /> real-valued scalars, we can express this as <img src="https://latex.codecogs.com/svg.image?{\color{Purple}&space;x\in&space;\mathbb{R}^n}" title="https://latex.codecogs.com/svg.image?{\color{Purple} x\in \mathbb{R}^n}" />.
+   *  In mathematics notation- If we want to say that a vector  $\large{\color{Purple} x}$ consists of $\large{\color{Purple} n \}$ real-valued scalars, we can express this as $\large{\color{Purple} x\in \mathbb{R}^n}$..
    *  The <ins><i>length</i></ins> of a vector is commonly called the <ins><i>dimension</i></ins> of the vector.
    *  When a tensor represents a vector (with precisely one axis), we can also access its length via the .shape attribute. The shape is a tuple that lists the length (dimensionality) along each axis of the tensor. For tensors with just one axis, the shape has just one element.
 
