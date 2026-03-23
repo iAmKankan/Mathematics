@@ -1,25 +1,25 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-### Mathematical Symbols [_link_](https://github.com/iAmKankan/Mathematics/blob/main/symbols.md)
+### ⭐ Mathematical Symbols [_link_](https://github.com/iAmKankan/Mathematics/blob/main/symbols.md)
 * Different Types of Curves
 * Basic Mathematical Symbols
 * Derivative Rules 
 
-### Linear Algebra [_link_](https://github.com/iAmKankan/Mathematics/tree/main/LinearAlgebra)
+### ⚓ Linear Algebra [_link_](https://github.com/iAmKankan/Mathematics/tree/main/LinearAlgebra)
 * [Scalar, Vector, Matrix and Tensors](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/README.md)
 * [_Basic Operations on Linear algebra_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/basic-operations.md)
 * [_Norms_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/norms.md)
 * [Linear Combinations, Span, Linear Independence](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/combinations-span-independence.md)
 * [Cosine Similarity](https://github.com/iAmKankan/Mathematics/edit/main/LinearAlgebra/README.md#cosine-similarity)
 
-### Eigen decompositions [_links_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/matrix.md#eigen-decomposition-or-matrix-factorization)
-### _Series_
+### :rainbow: Eigen decompositions [_links_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/matrix.md#eigen-decomposition-or-matrix-factorization)
+### :star2: Series
    * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/formula.md#maclaurin-series)
 
-### Calculus [_link_](https://github.com/iAmKankan/Mathematics/tree/main/calculus)
-###  Probabilit [_link_](https://github.com/iAmKankan/Mathematics/tree/main/probability)
-### Statistics [_link_](https://github.com/iAmKankan/Statistics)
-### Trigonometry [_link_](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
+### :zap: Calculus [_link_](https://github.com/iAmKankan/Mathematics/tree/main/calculus)
+### :black_nib: Probabilit [_link_](https://github.com/iAmKankan/Mathematics/tree/main/probability)
+### :black_nib: Statistics [_link_](https://github.com/iAmKankan/Statistics)
+### 🧮 Trigonometry [_link_](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
    * [Trigonometric functions](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
      * [Sin Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
      * [Cos or Cosin Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
@@ -29,9 +29,9 @@
      * [Cot Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
   * [Pythagorus Theorem](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
   * [Eucledian Distance](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
-### Logarithm [_link_](https://github.com/iAmKankan/Mathematics/blob/main/logarithm.md)
-### Mathematical Optimization [_link_](https://github.com/iAmKankan/Mathematics/tree/main/optimization)
-## [References](#references)
+### 🛰️ Logarithm [_link_](https://github.com/iAmKankan/Mathematics/blob/main/logarithm.md)
+### :dizzy: Mathematical Optimization [_link_](https://github.com/iAmKankan/Mathematics/tree/main/optimization)
+## :scroll: [References](#references)
 
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
 
