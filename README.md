@@ -16,10 +16,10 @@
 ### _Series_
    * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/formula.md#maclaurin-series)
 
-### [_Calculus_](https://github.com/iAmKankan/Mathematics/tree/main/calculus)
-### [_Probability_](https://github.com/iAmKankan/Mathematics/tree/main/probability)
-### [_Statistics_](https://github.com/iAmKankan/Statistics)
-### [_Trigonometry_](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
+### Calculus [_link_](https://github.com/iAmKankan/Mathematics/tree/main/calculus)
+###  Probabilit [_link_](https://github.com/iAmKankan/Mathematics/tree/main/probability)
+### Statistics [_link_](https://github.com/iAmKankan/Statistics)
+### Trigonometry [_link_](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
    * [Trigonometric functions](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
      * [Sin Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
      * [Cos or Cosin Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
@@ -29,8 +29,8 @@
      * [Cot Theta](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
   * [Pythagorus Theorem](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
   * [Eucledian Distance](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
-### [_Logarithm_](https://github.com/iAmKankan/Mathematics/blob/main/logarithm.md)
-### [_Mathematical Optimization_](https://github.com/iAmKankan/Mathematics/tree/main/optimization)
+### Logarithm [_link_](https://github.com/iAmKankan/Mathematics/blob/main/logarithm.md)
+### Mathematical Optimization [_link_](https://github.com/iAmKankan/Mathematics/tree/main/optimization)
 ## [References](#references)
 
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
