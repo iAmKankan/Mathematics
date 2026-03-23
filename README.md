@@ -1,13 +1,18 @@
 ## Index
 ![dark](https://user-images.githubusercontent.com/12748752/132402918-976c6cc7-cc94-4267-9513-b3937504eb63.png)
-### [_Linear Algebra_](https://github.com/iAmKankan/Mathematics/tree/main/LinearAlgebra)
+### Mathematical Symbols [_link_](https://github.com/iAmKankan/Mathematics/blob/main/symbols.md)
+* Different Types of Curves
+* Basic Mathematical Symbols
+* Derivative Rules 
+
+### Linear Algebra [_link_](https://github.com/iAmKankan/Mathematics/tree/main/LinearAlgebra)
 * [Scalar, Vector, Matrix and Tensors](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/README.md)
 * [_Basic Operations on Linear algebra_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/basic-operations.md)
 * [_Norms_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/norms.md)
 * [Linear Combinations, Span, Linear Independence](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/combinations-span-independence.md)
 * [Cosine Similarity](https://github.com/iAmKankan/Mathematics/edit/main/LinearAlgebra/README.md#cosine-similarity)
 
-### [_Eigendecompositions_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/matrix.md#eigen-decomposition-or-matrix-factorization)
+### Eigen decompositions [_links_](https://github.com/iAmKankan/Mathematics/blob/main/LinearAlgebra/matrix.md#eigen-decomposition-or-matrix-factorization)
 ### _Series_
    * [Maclaurin](https://github.com/iAmKankan/Mathematics/blob/main/formula.md#maclaurin-series)
 
@@ -26,7 +31,6 @@
   * [Eucledian Distance](https://github.com/iAmKankan/Mathematics/blob/main/trigonometry.md)
 ### [_Logarithm_](https://github.com/iAmKankan/Mathematics/blob/main/logarithm.md)
 ### [_Mathematical Optimization_](https://github.com/iAmKankan/Mathematics/tree/main/optimization)
-### [_Mathematical Symbols_](https://github.com/iAmKankan/Mathematics/blob/main/symbols.md)
 ## [References](#references)
 
 ![light](https://user-images.githubusercontent.com/12748752/132402912-1a2a215e-de2f-4536-b28e-e75197136af9.png)
