@@ -1,5 +1,5 @@
 
-### Different Types of Curves:
+### ⬛ Different Types of Curves:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/50aa2c12-2677-4b0d-8e67-eb0ebeac4e7d" width=80%>
@@ -60,18 +60,14 @@
 
 </div>
 
+### 🔲 Basic Derivative Rules
+<p align="center">
+ <img width= 40% src="https://user-images.githubusercontent.com/12748752/192082426-e9e318d6-8f01-4e12-b6d0-1f779ce3a2da.png"/>
+</p>
+
+### 🔲 Derivative Rules
 <p align="center">
  <img width= 100% src="https://github.com/user-attachments/assets/47b044c1-4d6b-4eae-9cc0-733b84dff737" />
   <br>
 </p>
 
-
-
-
-
-
-
-
-<img src="https://user-images.githubusercontent.com/12748752/192082426-e9e318d6-8f01-4e12-b6d0-1f779ce3a2da.png"/>
-
-<img src="https://user-images.githubusercontent.com/12748752/192082411-d483af3a-3eda-46f7-b98d-a6bec8ad8976.png"/>
